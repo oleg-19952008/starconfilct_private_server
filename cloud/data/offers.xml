@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Offers>
+  <Group groupId="1">
+    <Offer offerId="1" priority="10" cooldown="0" bundle="Bundle_DailyChest_T1" />
+    <Offer offerId="2" priority="100" cooldown="5" bundle="Bundle_Secret_Chest_T5">
+      <Condition param="11" compare="0" value="4" />
+    </Offer>
+    <Offer offerId="11" priority="100" cooldown="5" bundle="Bundle_Secret_Chest_T5">
+      <Condition param="11" compare="0" value="3" />
+    </Offer>
+  </Group>
+  <Group groupId="2">
+    <Offer offerId="3" priority="20" cooldown="9999" aura="Bundle_StarterPack_Offer_T3_chest">
+      <Condition param="12" compare="0" value="1" />
+      <Condition param="13" compare="0" value="5" />
+    </Offer>
+    <Offer offerId="4" priority="20" cooldown="9999" aura="Bundle_Rank8_BoosterPack_Offer_T3_chest">
+      <Condition param="12" compare="0" value="1" />
+      <Condition param="13" compare="0" value="8" />
+    </Offer>
+    <Offer offerId="5" priority="20" cooldown="9999" aura="Bundle_Rank8_SupressorPack_Offer_T3_chest">
+      <Condition param="12" compare="0" value="0" />
+      <Condition param="13" compare="0" value="8" />
+    </Offer>
+    <Offer offerId="6" priority="20" cooldown="7" aura="Gold_bonus_offer_25">
+      <Condition param="7" compare="5" value="14" />
+      <Condition param="7" compare="3" value="19" />
+    </Offer>
+    <Offer offerId="7" priority="20" cooldown="30" aura="Gold_bonus_offer_50">
+      <Condition param="7" compare="5" value="30" />
+    </Offer>
+    <Offer offerId="8" priority="20" cooldown="9999" aura="Gold_bonus_offer_50">
+      <Condition param="8" compare="5" value="5" />
+      <Condition param="8" compare="3" value="8" />
+      <Condition param="5" compare="0" value="0" />
+      <Condition param="12" compare="0" value="1" />
+    </Offer>
+    <Offer offerId="12" priority="20" cooldown="7" aura="Event_credits_discount_50">
+      <Condition param="9" compare="5" value="5" />
+      <Condition param="5" compare="4" value="0" />
+    </Offer>
+    <Offer offerId="13" priority="30" cooldown="30" aura="Returned_boost_50">
+      <Condition param="8" compare="5" value="6" />
+      <Condition param="9" compare="5" value="7" />
+      <Condition param="5" compare="0" value="0" />
+    </Offer>
+    <Offer offerId="14" priority="40" cooldown="9999" aura="Palom_new_player">
+      <Condition param="13" compare="5" value="3" />
+      <Condition param="13" compare="3" value="4" />
+    </Offer>
+    <Offer offerId="15" priority="40" cooldown="9999" aura="Palom_new_player">
+      <Condition param="13" compare="5" value="5" />
+      <Condition param="13" compare="3" value="6" />
+    </Offer>
+    <Offer offerId="16" priority="40" cooldown="9999" aura="Rank_9_builds_All">
+      <Condition param="13" compare="5" value="7" />
+      <Condition param="13" compare="3" value="8" />
+    </Offer>
+  </Group>
+  <Group groupId="3">
+    <Offer offerId="17" priority="1" cooldown="0" bundle="Bundle_Iridium_Overseer_T3">
+      <Condition param="13" compare="5" value="5" />
+      <Condition param="13" compare="3" value="6" />
+    </Offer>
+    <Offer offerId="18" priority="1" cooldown="0" bundle="Bundle_Iridium_Overseer_T4">
+      <Condition param="13" compare="5" value="7" />
+      <Condition param="13" compare="3" value="9" />
+    </Offer>
+    <Offer offerId="19" priority="1" cooldown="0" bundle="Bundle_Iridium_Overseer_T5">
+      <Condition param="13" compare="5" value="10" />
+    </Offer>
+  </Group>
+</Offers>

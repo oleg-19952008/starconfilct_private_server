@@ -1,0 +1,1366 @@
+<?xml version="1.0"?>
+<Achievements>
+  <Achievement id="1" valueType="1">
+    <numericalParam comparison="2" value="1.00" />
+    <numericalParam comparison="2" value="3.00" />
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="2" valueType="1">
+    <numericalParam comparison="2" value="0.50" />
+    <numericalParam comparison="2" value="4.00" />
+    <rank value="1" points="10" gold="0" rewardTitle="8" />
+  </Achievement>
+  <Achievement id="3" valueType="1">
+    <numericalParam comparison="1" value="180.00" />
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="4" valueType="1">
+    <numericalParam comparison="1" value="0.00" />
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="5" valueType="1">
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="6" valueType="1">
+    <rank value="100000" points="10" gold="0" />
+    <rank value="1000000" points="10" gold="0" />
+    <rank value="5000000" points="20" gold="0" />
+    <rank value="20000000" points="30" gold="0" rewardTitle="7" />
+  </Achievement>
+  <Achievement id="7" valueType="1">
+    <rank value="1000" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="25000" points="20" gold="0" />
+    <rank value="100000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="8" valueType="1">
+    <rank value="1000" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="25000" points="20" gold="0" />
+    <rank value="100000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="9" valueType="1">
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="5000" points="20" gold="0" />
+    <rank value="10000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="10" valueType="1">
+    <rank value="200" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="2000" points="20" gold="0" />
+    <rank value="5000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="11" valueType="1">
+    <rank value="50" points="10" gold="0" />
+    <rank value="250" points="10" gold="0" />
+    <rank value="1000" points="20" gold="0" />
+    <rank value="3000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="12" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="20" gold="0" />
+    <rank value="2000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="13" valueType="1">
+    <rank value="20" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="20" gold="0" />
+    <rank value="1000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="14" valueType="1">
+    <rank value="5" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="15" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="16" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="17" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="18" valueType="1">
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="19" valueType="1">
+    <rank value="3" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="20" gold="0" />
+    <rank value="100" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="20" valueType="1">
+    <rank value="10" points="10" gold="0" rewardCustomElement="Defender_star" />
+  </Achievement>
+  <Achievement id="21" valueType="1">
+    <strEqParam value="March_8_Heart" />
+    <rank value="8" points="10" gold="0" rewardCustomElement="March_8_Heart_01" />
+  </Achievement>
+  <Achievement id="22" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="3.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="23" disabled="1" valueType="1">
+    <rank value="100000" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="24" disabled="1" valueType="1">
+    <strEqParam value="s1340_aliendestsatation" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="25" disabled="1" valueType="1">
+    <strEqParam value="s1338_devilsjaw" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="26" disabled="1" valueType="1">
+    <strEqParam value="s1420_ceres3_asteroidcity" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="27" disabled="1" valueType="1">
+    <strEqParam value="s1420_ceres3_northmsite" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="28" disabled="1" valueType="1">
+    <strEqParam value="s1338_pandora_anomaly" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="29" disabled="1" valueType="1">
+    <strEqParam value="s1338_pandora_dreadnwreck" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="30" disabled="1" valueType="1">
+    <strEqParam value="s1340_thar_aliendebris13" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="31" disabled="1" valueType="1">
+    <strEqParam value="s8256_thar_barrierdebris" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="32" disabled="1" valueType="1">
+    <strEqParam value="s1340_thar_gasgiant" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="33" disabled="1" valueType="1">
+    <strEqParam value="s8256_thar_lavastone" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="34" disabled="1" valueType="1">
+    <strEqParam value="s8256_thar_threshold" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="39" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="20" points="10" gold="0" />
+    <rank value="30" points="10" gold="0" />
+    <rank value="40" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="60" points="10" gold="0" />
+    <rank value="70" points="10" gold="0" />
+    <rank value="80" points="10" gold="0" />
+    <rank value="90" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" rewardTitle="10" />
+  </Achievement>
+  <Achievement id="40" valueType="1">
+    <rank value="5" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="25" points="10" gold="0" />
+    <rank value="30" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="41" disabled="1" valueType="2">
+    <rank value="2" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="42" disabled="1" valueType="2">
+    <rank value="2" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="43" disabled="1" valueType="2">
+    <rank value="2" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="44" valueType="1">
+    <rank value="2147483647" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="45" valueType="1">
+    <rank value="2147483647" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="46" valueType="1">
+    <rank value="2147483647" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="47" valueType="1">
+    <rank value="2147483647" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="48" valueType="1">
+    <rank value="2147483647" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="49" valueType="1">
+    <rank value="2147483647" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="50" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="51" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="52" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="53" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="54" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="55" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="56" valueType="1">
+    <rank value="20" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="2000" points="20" gold="0" />
+    <rank value="4000" points="30" gold="0" rewardTitle="9" />
+  </Achievement>
+  <Achievement id="57" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="58" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="59" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="60" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="61" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="62" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="63" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="64" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="200" points="20" gold="0" />
+    <rank value="500" points="30" gold="0" rewardTitle="6" />
+  </Achievement>
+  <Achievement id="65" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="20" points="10" gold="0" />
+    <rank value="50" points="20" gold="0" />
+    <rank value="100" points="30" gold="0" rewardTitle="11" />
+  </Achievement>
+  <Achievement id="66" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="67" valueType="1">
+    <rank value="1" points="10" gold="0" rewardTitle="16" />
+  </Achievement>
+  <Achievement id="68" valueType="1">
+    <numericalParam comparison="2" value="5.00" />
+    <rank value="1" points="10" gold="0" rewardTitle="17" />
+  </Achievement>
+  <Achievement id="69" valueType="1">
+    <numericalParam comparison="2" value="1.00" />
+    <numericalParam comparison="1" value="9.00" />
+    <rank value="5" points="10" gold="0" rewardTitle="18" />
+  </Achievement>
+  <Achievement id="70" valueType="1">
+    <numericalParam comparison="2" value="10.00" />
+    <numericalParam comparison="1" value="17.00" />
+    <rank value="5" points="10" gold="0" rewardTitle="19" />
+  </Achievement>
+  <Achievement id="71" valueType="1">
+    <numericalParam comparison="3" value="7.00" />
+    <rank value="20" points="10" gold="0" rewardTitle="20" />
+  </Achievement>
+  <Achievement id="72" valueType="1">
+    <rank value="10" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="73" valueType="1">
+    <rank value="10" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="74" valueType="1">
+    <rank value="10" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="75" partType="1" valueType="3">
+    <part value="67" />
+    <part value="68" />
+    <part value="69" />
+    <part value="70" />
+    <part value="71" />
+    <part value="72" />
+    <part value="73" />
+    <part value="74" />
+    <rank value="8" points="30" gold="0" rewardTitle="21" rewardCustomElement="Sensei" />
+  </Achievement>
+  <Achievement id="76" valueType="1">
+    <strEqParam value="FE0F5CF1-FBC8-4935-BCDB-BB7DDDFD2CD5" />
+    <strEqParam value="B949BF2C-406A-428E-A031-FBDAE7E45FE3" />
+    <strEqParam value="F52730E4-9296-4B27-9D6C-04C129F7F20E" />
+    <strEqParam value="52B8BF80-A632-4E73-9E6A-60CEBBE30926" />
+    <strEqParam value="5337253C-A530-4859-B95A-1672E2A6B742" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="77" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="250" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="78" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="2500" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="79" partType="2" valueType="3">
+    <part value="201" />
+    <part value="202" />
+    <part value="203" />
+    <part value="204" />
+    <rank value="4" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="80" valueType="1">
+    <rank value="1000" points="10" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="50000" points="10" gold="0" />
+    <rank value="100000" points="10" gold="0" />
+    <rank value="250000" points="10" gold="0" />
+    <rank value="500000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="81" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="3000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="82" valueType="1">
+    <numericalParam comparison="2" value="5.00" />
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="83" valueType="1">
+    <numericalParam comparison="1" value="-5.00" />
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="84" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="25000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="85" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="3000" points="10" gold="0" />
+    <rank value="5000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="86" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="250" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="87" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="250" points="10" gold="0" />
+    <rank value="500" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="88" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="250" points="10" gold="0" />
+    <rank value="500" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="89" valueType="2">
+    <rank value="1" points="10" gold="0" />
+    <rank value="2" points="10" gold="0" />
+    <rank value="3" points="20" gold="0" />
+    <rank value="4" points="30" gold="0" />
+    <rank value="5" points="50" gold="0" />
+  </Achievement>
+  <Achievement id="90" valueType="2">
+    <rank value="1" points="10" gold="0" />
+    <rank value="2" points="10" gold="0" />
+    <rank value="3" points="20" gold="0" />
+    <rank value="4" points="30" gold="0" />
+    <rank value="5" points="50" gold="0" />
+  </Achievement>
+  <Achievement id="91" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="7.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="92" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="93" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="94" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="95" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="10.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="96" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="97" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="98" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="3.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="99" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="5.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="100" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="5.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="101" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="3.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="102" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="5.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="103" disabled="1" valueType="1">
+    <numericalParam comparison="2" value="5.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="104" valueType="2">
+    <rank value="4" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="105" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="106" valueType="2">
+    <rank value="3" points="0" gold="0" />
+    <rank value="6" points="0" gold="0" />
+    <rank value="9" points="0" gold="0" />
+    <rank value="12" points="0" gold="0" />
+    <rank value="15" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="107" valueType="1">
+    <rank value="2147483647" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="108" valueType="1">
+    <rank value="6000" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="109" partType="3" valueType="3">
+    <part value="1" />
+    <part value="2" />
+    <part value="3" />
+    <part value="4" />
+    <part value="5" />
+    <part value="6" />
+    <part value="7" />
+    <part value="8" />
+    <part value="9" />
+    <rank value="9" points="10" gold="0" rewardTitle="22" />
+  </Achievement>
+  <Achievement id="110" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="23" />
+  </Achievement>
+  <Achievement id="111" partType="4" valueType="3">
+    <part value="510" />
+    <part value="10727" />
+    <part value="6899" />
+    <part value="8915" />
+    <rank value="4" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="112" partType="4" valueType="3">
+    <part value="4411" />
+    <part value="2563" />
+    <part value="4387" />
+    <part value="7644" />
+    <part value="4204" />
+    <part value="9008" />
+    <part value="3464" />
+    <part value="4611" />
+    <part value="6898" />
+    <part value="6916" />
+    <rank value="10" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="113" partType="4" valueType="3">
+    <part value="6876" />
+    <part value="6894" />
+    <part value="6912" />
+    <part value="5169" />
+    <part value="6833" />
+    <part value="10886" />
+    <part value="6879" />
+    <part value="6897" />
+    <part value="6915" />
+    <part value="1746" />
+    <rank value="10" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="114" partType="4" valueType="3">
+    <part value="4733" />
+    <part value="6893" />
+    <part value="6909" />
+    <part value="1663" />
+    <part value="6878" />
+    <part value="6901" />
+    <part value="6896" />
+    <part value="6525" />
+    <part value="6914" />
+    <part value="6874" />
+    <part value="6892" />
+    <part value="6908" />
+    <rank value="12" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="115" partType="4" valueType="3">
+    <part value="2355" />
+    <part value="6900" />
+    <part value="8401" />
+    <part value="6623" />
+    <part value="6895" />
+    <part value="6913" />
+    <part value="6873" />
+    <part value="6891" />
+    <part value="4015" />
+    <rank value="9" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="116" partType="4" valueType="3">
+    <part value="6839" />
+    <part value="6810" />
+    <part value="6805" />
+    <part value="6834" />
+    <part value="6858" />
+    <rank value="5" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="117" partType="4" valueType="3">
+    <part value="3943" />
+    <part value="5335" />
+    <part value="6838" />
+    <part value="6853" />
+    <part value="6809" />
+    <part value="6803" />
+    <part value="6832" />
+    <part value="6849" />
+    <part value="6856" />
+    <rank value="9" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="118" partType="4" valueType="3">
+    <part value="6799" />
+    <part value="6825" />
+    <part value="6848" />
+    <part value="6808" />
+    <part value="6837" />
+    <part value="6852" />
+    <part value="4271" />
+    <part value="6831" />
+    <part value="4401" />
+    <part value="6816" />
+    <rank value="10" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="119" partType="4" valueType="3">
+    <part value="6796" />
+    <part value="6824" />
+    <part value="2104" />
+    <part value="6847" />
+    <part value="6807" />
+    <part value="6795" />
+    <part value="6836" />
+    <part value="6830" />
+    <part value="6855" />
+    <part value="6846" />
+    <part value="6801" />
+    <part value="6823" />
+    <part value="6851" />
+    <rank value="13" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="120" partType="4" valueType="3">
+    <part value="6806" />
+    <part value="6835" />
+    <part value="6854" />
+    <part value="6794" />
+    <part value="6829" />
+    <part value="4117" />
+    <part value="3977" />
+    <part value="6822" />
+    <part value="6850" />
+    <rank value="9" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="121" partType="4" valueType="3">
+    <part value="6752" />
+    <part value="4162" />
+    <part value="6747" />
+    <part value="6775" />
+    <rank value="4" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="122" partType="4" valueType="3">
+    <part value="2580" />
+    <part value="6751" />
+    <part value="6770" />
+    <part value="6382" />
+    <part value="2723" />
+    <part value="6765" />
+    <part value="6728" />
+    <part value="6743" />
+    <part value="6774" />
+    <rank value="9" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="123" partType="4" valueType="3">
+    <part value="6724" />
+    <part value="6718" />
+    <part value="4500" />
+    <part value="6769" />
+    <part value="6726" />
+    <part value="6745" />
+    <part value="6764" />
+    <part value="6773" />
+    <part value="6723" />
+    <part value="6717" />
+    <part value="6741" />
+    <part value="6768" />
+    <rank value="12" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="124" partType="4" valueType="3">
+    <part value="6725" />
+    <part value="6749" />
+    <part value="5786" />
+    <part value="6722" />
+    <part value="2130" />
+    <part value="6772" />
+    <part value="6762" />
+    <part value="6716" />
+    <part value="6740" />
+    <part value="6767" />
+    <rank value="10" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="125" partType="4" valueType="3">
+    <part value="2656" />
+    <part value="6748" />
+    <part value="6771" />
+    <part value="6720" />
+    <part value="6744" />
+    <part value="6761" />
+    <part value="5471" />
+    <part value="6739" />
+    <part value="6766" />
+    <rank value="9" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="126" disabled="1" valueType="1">
+    <rank value="5" points="0" gold="0" />
+    <rank value="10" points="0" gold="0" />
+    <rank value="20" points="0" gold="0" />
+    <rank value="30" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="127" disabled="1" valueType="1">
+    <rank value="5" points="0" gold="0" />
+    <rank value="10" points="0" gold="0" />
+    <rank value="20" points="0" gold="0" />
+    <rank value="30" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="128" disabled="1" valueType="1">
+    <rank value="5" points="0" gold="0" />
+    <rank value="10" points="0" gold="0" />
+    <rank value="20" points="0" gold="0" />
+    <rank value="30" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="129" partType="3" valueType="3">
+    <part value="1" />
+    <part value="2" />
+    <part value="3" />
+    <part value="4" />
+    <part value="5" />
+    <part value="6" />
+    <part value="7" />
+    <part value="8" />
+    <part value="9" />
+    <part value="10" />
+    <rank value="9" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="130" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="131" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="132" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="133" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="134" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="135" valueType="1">
+    <rank value="9" points="0" gold="0" rewardTitle="24" />
+  </Achievement>
+  <Achievement id="136" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="26" />
+  </Achievement>
+  <Achievement id="137" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="138" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="139" partType="2" valueType="3">
+    <part value="106" />
+    <part value="103" />
+    <part value="11" />
+    <part value="104" />
+    <part value="12" />
+    <part value="105" />
+    <part value="13" />
+    <part value="102" />
+    <part value="14" />
+    <part value="101" />
+    <part value="16" />
+    <part value="207" />
+    <part value="210" />
+    <rank value="13" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="140" partType="2" valueType="3">
+    <part value="125" />
+    <part value="21" />
+    <part value="22" />
+    <part value="123" />
+    <part value="124" />
+    <part value="23" />
+    <part value="126" />
+    <part value="24" />
+    <part value="121" />
+    <part value="122" />
+    <part value="25" />
+    <part value="206" />
+    <part value="208" />
+    <rank value="13" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="141" partType="2" valueType="3">
+    <part value="134" />
+    <part value="133" />
+    <part value="31" />
+    <part value="32" />
+    <part value="131" />
+    <part value="132" />
+    <part value="33" />
+    <part value="34" />
+    <part value="135" />
+    <part value="136" />
+    <part value="35" />
+    <part value="205" />
+    <rank value="12" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="142" partType="2" valueType="3">
+    <part value="1" />
+    <part value="2" />
+    <part value="3" />
+    <rank value="3" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="147" partType="5" valueType="3">
+    <part value="3309" />
+    <part value="5793" />
+    <part value="1568" />
+    <part value="2445" />
+    <part value="5299" />
+    <part value="3865" />
+    <part value="2208" />
+    <part value="3864" />
+    <part value="4222" />
+    <part value="7134" />
+    <part value="1824" />
+    <part value="3861" />
+    <rank value="12" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="148" valueType="1">
+    <numericalParam comparison="2" value="1000.00" />
+    <rank value="1" points="10" gold="0" rewardTitle="27" />
+  </Achievement>
+  <Achievement id="149" valueType="1">
+    <numericalParam comparison="1" value="10.00" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="150" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="25000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="151" valueType="2">
+    <rank value="1000" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="152" valueType="1">
+    <rank value="100" points="20" gold="0" rewardShip="Ship_Race1_M_T1_Premium" />
+  </Achievement>
+  <Achievement id="153" valueType="1">
+    <numericalParam comparison="2" value="6.00" />
+    <rank value="50" points="40" gold="0" rewardCustomElement="BP20_Goose" />
+  </Achievement>
+  <Achievement id="154" valueType="1">
+    <rank value="10" points="20" gold="0" rewardCustomElement="Matt_Dawning_Red" />
+  </Achievement>
+  <Achievement id="155" valueType="1">
+    <rank value="20" points="20" gold="0" rewardCustomElement="Crossout_BloodHand02" />
+  </Achievement>
+  <Achievement id="156" partType="1" valueType="3">
+    <part value="152" />
+    <part value="153" />
+    <part value="155" />
+    <part value="154" />
+    <rank value="4" points="40" gold="0" rewardTitle="29" rewardCustomElement="Tutorship" rewardShip="Ship_Race5_L_ENGINEER_Rank5" />
+  </Achievement>
+  <Achievement id="157" valueType="1">
+    <rank value="10" points="0" gold="0" rewardTitle="30" />
+  </Achievement>
+  <Achievement id="159" valueType="1">
+    <strEqParam value="RAILGUN" />
+    <strEqParam value="PLASMAGUN" />
+    <strEqParam value="LASER" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="2500" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="160" valueType="1">
+    <strEqParam value="INTERCEPTOR" />
+    <strEqParam value="ATTACKSHIP" />
+    <strEqParam value="FRIGATE" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="2500" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="25000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="161" valueType="1">
+    <strEqParam value="MULTIKILLS" />
+    <strEqParam value="SPREE" />
+    <strEqParam value="SPECIALKILLS" />
+    <strEqParam value="SPECIAL" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="250" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="50000" points="10" gold="0" />
+    <rank value="100000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="162" valueType="1">
+    <strEqParam value="DRONES" />
+    <strEqParam value="BEACON" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="500" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="2500" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="15000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="163" valueType="1">
+    <strEqParam value="FIRST" />
+    <strEqParam value="SURVIVE" />
+    <strEqParam value="OTHERS" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="250" points="10" gold="0" />
+    <rank value="1000" points="10" gold="0" />
+    <rank value="2500" points="10" gold="0" />
+    <rank value="5000" points="10" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="25000" points="10" gold="0" />
+    <rank value="40000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="164" valueType="1">
+    <strEqParam value="pve_raid" />
+    <rank value="1" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="165" valueType="1">
+    <numericalParam comparison="1" value="0.00" />
+    <strEqParam value="pve_raid" />
+    <rank value="1" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="166" valueType="1">
+    <numericalParam comparison="1" value="0.00" />
+    <strEqParam value="pve_raid" />
+    <rank value="1" points="50" gold="0" rewardTitle="34" />
+  </Achievement>
+  <Achievement id="167" valueType="2">
+    <rank value="2500" points="10" gold="0" rewardTitle="35" />
+    <rank value="5000" points="10" gold="0" rewardTitle="36" />
+    <rank value="7500" points="10" gold="0" rewardTitle="37" />
+  </Achievement>
+  <Achievement id="168" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="169" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="38" />
+  </Achievement>
+  <Achievement id="170" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="171" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="39" />
+  </Achievement>
+  <Achievement id="172" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="173" valueType="1">
+    <numericalParam comparison="1" value="3.00" />
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="174" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="175" valueType="1">
+    <rank value="1" points="0" gold="0" />
+    <rank value="10" points="0" gold="0" />
+    <rank value="20" points="0" gold="0" />
+    <rank value="30" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="176" valueType="1">
+    <rank value="1" points="0" gold="0" />
+    <rank value="10" points="0" gold="0" />
+    <rank value="20" points="0" gold="0" />
+    <rank value="30" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="177" valueType="1">
+    <rank value="1" points="0" gold="0" />
+    <rank value="10" points="0" gold="0" />
+    <rank value="20" points="0" gold="0" />
+    <rank value="30" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="178" partType="1" valueType="3">
+    <part value="175" />
+    <part value="176" />
+    <part value="177" />
+    <rank value="3" points="0" gold="0" rewardShip="Ship_Race2_S_T3_Pirate" />
+  </Achievement>
+  <Achievement id="179" valueType="1">
+    <strEqParam value="pve_wave_planet_war" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="180" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="181" disabled="1" valueType="1">
+    <rank value="50" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="182" partType="6" valueType="3">
+    <rank value="7" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="183" partType="6" valueType="3">
+    <rank value="4" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="184" partType="6" valueType="3">
+    <rank value="2" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="185" partType="6" valueType="3">
+    <rank value="4" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="186" partType="6" valueType="3">
+    <rank value="5" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="187" partType="6" valueType="3">
+    <rank value="5" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="188" partType="1" valueType="3">
+    <part value="182" />
+    <part value="184" />
+    <part value="185" />
+    <part value="186" />
+    <part value="187" />
+    <part value="135" />
+    <rank value="6" points="0" gold="0" rewardTitle="40" />
+  </Achievement>
+  <Achievement id="189" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="2" points="10" gold="0" />
+    <rank value="3" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="190" valueType="1">
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="191" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="5" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="100" points="20" gold="0" />
+    <rank value="1000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="192" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="100" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="193" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="10" gold="0" />
+    <rank value="100" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="194" valueType="1">
+    <rank value="50000" points="10" gold="0" />
+    <rank value="250000" points="10" gold="0" />
+    <rank value="1000000" points="10" gold="0" />
+    <rank value="3000000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="195" valueType="1">
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="196" valueType="1">
+    <rank value="1" points="10" gold="0" />
+    <rank value="2" points="10" gold="0" />
+    <rank value="3" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="197" disabled="1" valueType="1">
+    <rank value="1" points="0" gold="0" />
+    <rank value="5" points="0" gold="0" />
+    <rank value="10" points="0" gold="0" />
+    <rank value="100" points="0" gold="0" />
+    <rank value="1000" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="198" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="41" />
+  </Achievement>
+  <Achievement id="199" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="42" />
+  </Achievement>
+  <Achievement id="200" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="43" />
+  </Achievement>
+  <Achievement id="201" valueType="1">
+    <numericalParam comparison="1" value="8.00" />
+    <strEqParam value="league_rating" />
+    <rank value="1" points="0" gold="0" rewardTitle="44" />
+  </Achievement>
+  <Achievement id="202" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="45" />
+  </Achievement>
+  <Achievement id="203" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="53" />
+  </Achievement>
+  <Achievement id="204" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="54" />
+  </Achievement>
+  <Achievement id="205" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="55" />
+  </Achievement>
+  <Achievement id="206" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="56" />
+  </Achievement>
+  <Achievement id="207" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="57" />
+  </Achievement>
+  <Achievement id="208" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="58" />
+  </Achievement>
+  <Achievement id="209" valueType="1">
+    <numericalParam comparison="1" value="3.00" />
+    <strEqParam value="Ship_Race5_M_ATTACK_Rank5" />
+    <rank value="1" points="0" gold="0" />
+  </Achievement>
+  <Achievement id="210" valueType="2">
+    <rank value="15" points="10" gold="0" rewardTitle="66" />
+    <rank value="20" points="10" gold="0" rewardTitle="67" />
+    <rank value="25" points="10" gold="0" rewardTitle="68" />
+  </Achievement>
+  <Achievement id="211" valueType="1">
+    <rank value="250" points="10" gold="0" rewardTitle="83" />
+  </Achievement>
+  <Achievement id="212" valueType="1">
+    <numericalParam comparison="2" value="2.00" />
+    <rank value="1" points="5" gold="0" />
+    <rank value="3" points="10" gold="0" />
+    <rank value="5" points="15" gold="0" />
+    <rank value="10" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="213" valueType="1">
+    <numericalParam comparison="2" value="10.00" />
+    <rank value="1" points="5" gold="0" />
+    <rank value="3" points="10" gold="0" />
+    <rank value="5" points="15" gold="0" />
+    <rank value="10" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="214" valueType="1">
+    <numericalParam comparison="2" value="20.00" />
+    <rank value="1" points="5" gold="0" />
+    <rank value="3" points="10" gold="0" />
+    <rank value="5" points="15" gold="0" />
+    <rank value="10" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="215" valueType="1">
+    <numericalParam comparison="2" value="30.00" />
+    <rank value="1" points="5" gold="0" />
+    <rank value="3" points="10" gold="0" />
+    <rank value="5" points="15" gold="0" />
+    <rank value="10" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="216" valueType="1">
+    <numericalParam comparison="2" value="40.00" />
+    <rank value="1" points="5" gold="0" />
+    <rank value="3" points="10" gold="0" />
+    <rank value="5" points="15" gold="0" />
+    <rank value="10" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="217" valueType="1">
+    <numericalParam comparison="2" value="50.00" />
+    <rank value="1" points="5" gold="0" />
+    <rank value="3" points="10" gold="0" />
+    <rank value="5" points="15" gold="0" />
+    <rank value="10" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="218" valueType="2">
+    <rank value="5" points="5" gold="0" />
+    <rank value="20" points="5" gold="0" />
+    <rank value="40" points="5" gold="0" />
+    <rank value="60" points="10" gold="0" />
+    <rank value="80" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="150" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="219" valueType="2">
+    <rank value="5" points="5" gold="0" />
+    <rank value="20" points="5" gold="0" />
+    <rank value="40" points="5" gold="0" />
+    <rank value="60" points="10" gold="0" />
+    <rank value="80" points="10" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="150" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="220" valueType="1">
+    <rank value="42" points="10" gold="0" rewardTitle="84" />
+  </Achievement>
+  <Achievement id="221" valueType="2">
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="222" valueType="2">
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="223" valueType="2">
+    <rank value="1" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="224" valueType="2">
+    <rank value="10" points="5" gold="0" />
+  </Achievement>
+  <Achievement id="225" valueType="2">
+    <rank value="20" points="5" gold="0" />
+  </Achievement>
+  <Achievement id="226" valueType="2">
+    <rank value="30" points="5" gold="0" />
+  </Achievement>
+  <Achievement id="227" valueType="2">
+    <rank value="40" points="5" gold="0" />
+  </Achievement>
+  <Achievement id="228" valueType="2">
+    <rank value="50" points="10" gold="0" />
+  </Achievement>
+  <Achievement id="229" valueType="1">
+    <rank value="2" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="15" gold="0" />
+    <rank value="250" points="20" gold="0" />
+    <rank value="1000" points="25" gold="0" />
+    <rank value="5000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="230" valueType="1">
+    <rank value="2" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="15" gold="0" />
+    <rank value="250" points="20" gold="0" />
+    <rank value="1000" points="25" gold="0" />
+    <rank value="5000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="231" valueType="1">
+    <rank value="2" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="15" gold="0" />
+    <rank value="250" points="20" gold="0" />
+    <rank value="1000" points="25" gold="0" />
+    <rank value="5000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="232" valueType="1">
+    <rank value="10" points="5" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="1000" points="15" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="233" valueType="1">
+    <rank value="1000" points="5" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="100000" points="15" gold="0" />
+    <rank value="1000000" points="20" gold="0" />
+    <rank value="10000000" points="25" gold="0" />
+  </Achievement>
+  <Achievement id="234" valueType="1">
+    <rank value="10" points="5" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="1000" points="15" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="235" valueType="1">
+    <rank value="10" points="5" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="1000" points="15" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="236" valueType="1">
+    <rank value="2" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="15" gold="0" />
+    <rank value="1000" points="20" gold="0" />
+    <rank value="10000" points="25" gold="0" />
+  </Achievement>
+  <Achievement id="237" valueType="1">
+    <rank value="10" points="5" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="1000" points="15" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="238" valueType="1">
+    <rank value="2" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="15" gold="0" />
+    <rank value="250" points="20" gold="0" />
+    <rank value="1000" points="25" gold="0" />
+    <rank value="5000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="239" valueType="1">
+    <rank value="1000" points="5" gold="0" />
+    <rank value="10000" points="10" gold="0" />
+    <rank value="100000" points="15" gold="0" />
+    <rank value="1000000" points="20" gold="0" />
+    <rank value="10000000" points="25" gold="0" />
+  </Achievement>
+  <Achievement id="240" valueType="1">
+    <rank value="2" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="50" points="15" gold="0" />
+    <rank value="250" points="20" gold="0" />
+    <rank value="1000" points="25" gold="0" />
+    <rank value="5000" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="241" valueType="1">
+    <rank value="2" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="15" gold="0" />
+    <rank value="1000" points="20" gold="0" />
+    <rank value="10000" points="25" gold="0" />
+  </Achievement>
+  <Achievement id="242" valueType="1">
+    <rank value="10" points="5" gold="0" />
+    <rank value="100" points="10" gold="0" />
+    <rank value="1000" points="15" gold="0" />
+    <rank value="10000" points="20" gold="0" />
+  </Achievement>
+  <Achievement id="243" valueType="1">
+    <rank value="5" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="20" points="20" gold="0" />
+    <rank value="50" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="244" valueType="1">
+    <rank value="5" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="20" points="20" gold="0" />
+    <rank value="50" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="245" valueType="1">
+    <rank value="5" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="20" points="20" gold="0" />
+    <rank value="50" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="246" valueType="1">
+    <rank value="5" points="5" gold="0" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="20" points="20" gold="0" />
+    <rank value="50" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="247" valueType="1">
+    <rank value="10" points="10" gold="0" />
+    <rank value="100" points="20" gold="0" />
+    <rank value="300" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="250" valueType="1">
+    <rank value="100" points="10" gold="0" />
+    <rank value="250" points="20" gold="0" />
+    <rank value="500" points="40" gold="0" />
+  </Achievement>
+  <Achievement id="251" valueType="1">
+    <rank value="5" points="10" gold="0" />
+    <rank value="10" points="20" gold="0" />
+    <rank value="40" points="40" gold="0" />
+  </Achievement>
+  <Achievement id="252" valueType="1">
+    <numericalParam comparison="2" value="0.30" />
+    <numericalParam comparison="2" value="1.00" />
+    <rank value="10" points="10" gold="0" />
+    <rank value="30" points="20" gold="0" />
+    <rank value="100" points="30" gold="0" />
+  </Achievement>
+  <Achievement id="253" partType="6" valueType="3">
+    <part value="551" />
+    <rank value="1" points="10" gold="0" rewardTitle="146" />
+  </Achievement>
+  <Achievement id="254" valueType="1">
+    <rank value="5" points="10" gold="0" />
+    <rank value="15" points="20" gold="0" />
+    <rank value="30" points="40" gold="0" />
+  </Achievement>
+  <Achievement id="255" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="171" />
+  </Achievement>
+  <Achievement id="256" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="172" />
+  </Achievement>
+  <Achievement id="257" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="173" />
+  </Achievement>
+  <Achievement id="258" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="174" />
+  </Achievement>
+  <Achievement id="259" valueType="1">
+    <rank value="1" points="0" gold="0" rewardTitle="175" />
+  </Achievement>
+  <Achievement id="260" partType="6" valueType="3">
+    <part value="608" />
+    <rank value="1" points="10" gold="0" rewardTitle="187" />
+  </Achievement>
+  <Achievement id="261" partType="6" valueType="3">
+    <part value="696" />
+    <rank value="1" points="10" gold="0" rewardTitle="259" />
+  </Achievement>
+</Achievements>

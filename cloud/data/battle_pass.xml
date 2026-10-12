@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<battle_pass>
+  <stage>
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_1" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_2" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_3" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_4" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_5" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_6" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_7" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_8" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_9" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_10" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_11" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_12" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_13" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_14" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_15" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_16" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_17" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_18" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_19" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_20" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_21" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_22" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_23" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_24" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_25" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_26" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_27" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_28" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_29" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_30" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_31" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_32" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_33" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_34" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_35" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_36" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_37" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_38" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_39" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_40" cost="100" />
+    <reward gold="false" bundle="Bundle_Battle_Pass_1_41" cost="100" />
+  </stage>
+</battle_pass>

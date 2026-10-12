@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ExclusionLists>
+  <ExclusionDefs>
+    <Def name="Ship_UFO_L_GUARD_Rank5" />
+    <Def name="Ship_UFO_L_GUARD_Rank6" />
+    <Def name="Ship_UFO_L_GUARD_Rank7" />
+    <Def name="Ship_UFO_L_GUARD_Rank8" />
+    <Def name="Ship_UFO_L_GUARD_Rank9" />
+    <Def name="Ship_UFO_L_GUARD_Rank10" />
+    <Def name="Ship_UFO_L_GUARD_Rank11" />
+    <Def name="Ship_UFO_L_GUARD_Rank12" />
+    <Def name="Ship_UFO_L_GUARD_Rank13" />
+    <Def name="Ship_UFO_L_GUARD_Rank14" />
+    <Def name="Ship_UFO_L_GUARD_Rank15" />
+    <Def name="Module_EnergyReflector_T5_Tournament1" />
+    <Def name="Module_EnergyReflector_T5_Tournament2" />
+    <Def name="Module_EnergyReflector_T5_Tournament3" />
+    <Def name="Weapon_Plasmagun_Heavy_T5_Tournament" />
+    <Def name="Weapon_Laser_Economic_T5_Tournament" />
+    <Def name="Weapon_Laser_Heavy_T5_Tournament" />
+    <Def name="Weapon_Laser_Basic_T5_Tournament" />
+    <Def name="Ship_Race5_M_T5_Apeiron" />
+  </ExclusionDefs>
+  <ExclusionSubtypes>
+    <Subtype val="6001" />
+    <Subtype val="445" />
+    <Subtype val="439" />
+    <Subtype val="5505" />
+    <Subtype val="5506" />
+    <Subtype val="5507" />
+    <Subtype val="455" />
+    <Subtype val="450" />
+    <Subtype val="5501" />
+    <Subtype val="5508" />
+    <Subtype val="112" />
+    <Subtype val="69" />
+    <Subtype val="71" />
+    <Subtype val="73" />
+    <Subtype val="45" />
+    <Subtype val="46" />
+    <Subtype val="47" />
+  </ExclusionSubtypes>
+</ExclusionLists>

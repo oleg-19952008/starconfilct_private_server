@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<ShipQuests questsDaily="1" numTexts="30">
+  <RankParams>
+    <Rank rank="1" questsMax="1" />
+    <Rank rank="2" questsMax="1" />
+    <Rank rank="3" questsMax="1" />
+    <Rank rank="4" questsMax="1" />
+    <Rank rank="5" questsMax="1" />
+    <Rank rank="6" questsMax="1" />
+    <Rank rank="7" questsMax="1" />
+    <Rank rank="8" questsMax="1" />
+    <Rank rank="9" questsMax="1" />
+    <Rank rank="10" questsMax="1" />
+    <Rank rank="11" questsMax="1" />
+    <Rank rank="12" questsMax="1" />
+    <Rank rank="13" questsMax="1" />
+    <Rank rank="14" questsMax="1" />
+    <Rank rank="15" questsMax="1" />
+    <Rank rank="16" questsMax="1" />
+    <Rank rank="17" questsMax="1" />
+    <Rank rank="18" questsMax="1" />
+    <Rank rank="19" questsMax="1" />
+    <Rank rank="20" questsMax="1" />
+    <Rank rank="21" questsMax="1" />
+    <Rank rank="22" questsMax="1" />
+    <Rank rank="23" questsMax="1" />
+    <Rank rank="24" questsMax="1" />
+    <Rank rank="25" questsMax="1" />
+  </RankParams>
+  <ShipQuest duration="1" maxShips="2" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="2" requiredRank="3" baseRewardCredits="10000">
+    <RolesMask value="16" />
+    <RolesMask value="64" />
+    <RolesMask value="32" />
+  </ShipQuest>
+  <ShipQuest duration="1" maxShips="2" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="3" requiredRank="4" baseRewardCredits="8333">
+    <RolesMask value="272" />
+    <RolesMask value="192" />
+    <RolesMask value="544" />
+  </ShipQuest>
+  <ShipQuest duration="1" maxShips="3" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="3" requiredRank="5" baseRewardCredits="7407">
+    <RolesMask value="18" />
+    <RolesMask value="68" />
+    <RolesMask value="40" />
+  </ShipQuest>
+  <ShipQuest duration="1" maxShips="3" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="4" requiredRank="6" baseRewardCredits="6349">
+    <RolesMask value="152" />
+    <RolesMask value="578" />
+    <RolesMask value="292" />
+  </ShipQuest>
+  <ShipQuest duration="2" maxShips="4" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="4" requiredRank="7" baseRewardCredits="4761">
+    <RolesMask value="148" />
+    <RolesMask value="328" />
+    <RolesMask value="546" />
+  </ShipQuest>
+  <ShipQuest duration="2" maxShips="4" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="5" requiredRank="8" baseRewardCredits="5208">
+    <RolesMask value="530" />
+    <RolesMask value="324" />
+    <RolesMask value="168" />
+  </ShipQuest>
+  <ShipQuest duration="3" maxShips="5" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="6" requiredRank="9" baseRewardCredits="4166">
+    <RolesMask value="14" />
+    <RolesMask value="112" />
+    <RolesMask value="896" />
+  </ShipQuest>
+  <ShipQuest duration="3" maxShips="5" coefBase="1.00" coefRole="1.50" minShipRank="1" maxShipRank="6" requiredRank="10" baseRewardCredits="4166">
+    <RolesMask value="146" />
+    <RolesMask value="580" />
+    <RolesMask value="296" />
+  </ShipQuest>
+  <ShipQuest duration="4" maxShips="5" coefBase="1.00" coefRole="1.50" minShipRank="2" maxShipRank="7" requiredRank="11" baseRewardCredits="4444">
+    <RolesMask value="152" />
+    <RolesMask value="322" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="4" maxShips="5" coefBase="1.00" coefRole="1.50" minShipRank="3" maxShipRank="8" requiredRank="12" baseRewardCredits="4444">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="5" maxShips="6" coefBase="1.00" coefRole="1.50" minShipRank="4" maxShipRank="9" requiredRank="13" baseRewardCredits="3703">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="5" maxShips="6" coefBase="1.00" coefRole="1.50" minShipRank="5" maxShipRank="10" requiredRank="14" baseRewardCredits="3888">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="6" maxShips="6" coefBase="1.00" coefRole="1.50" minShipRank="6" maxShipRank="11" requiredRank="15" baseRewardCredits="3888">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="6" maxShips="6" coefBase="1.00" coefRole="1.50" minShipRank="7" maxShipRank="12" requiredRank="16" baseRewardCredits="3888">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="7" maxShips="7" coefBase="1.00" coefRole="1.50" minShipRank="8" maxShipRank="13" requiredRank="17" baseRewardCredits="3809">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="7" maxShips="7" coefBase="1.00" coefRole="1.50" minShipRank="9" maxShipRank="14" requiredRank="18" baseRewardCredits="3809">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="8" maxShips="7" coefBase="1.00" coefRole="1.50" minShipRank="10" maxShipRank="15" requiredRank="19" baseRewardCredits="3809">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="8" maxShips="7" coefBase="1.00" coefRole="1.50" minShipRank="12" maxShipRank="16" requiredRank="20" baseRewardCredits="4285">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="9" maxShips="8" coefBase="1.00" coefRole="1.50" minShipRank="14" maxShipRank="17" requiredRank="21" baseRewardCredits="3750">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="9" maxShips="8" coefBase="1.00" coefRole="1.50" minShipRank="15" maxShipRank="17" requiredRank="22" baseRewardCredits="3750">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="10" maxShips="8" coefBase="1.00" coefRole="1.50" minShipRank="15" maxShipRank="17" requiredRank="23" baseRewardCredits="4166">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="10" maxShips="8" coefBase="1.00" coefRole="1.50" minShipRank="15" maxShipRank="17" requiredRank="24" baseRewardCredits="4166">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+  <ShipQuest duration="10" maxShips="8" coefBase="1.00" coefRole="1.50" minShipRank="15" maxShipRank="17" requiredRank="25" baseRewardCredits="4166">
+    <RolesMask value="280" />
+    <RolesMask value="194" />
+    <RolesMask value="548" />
+  </ShipQuest>
+</ShipQuests>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Tournaments enable="1" roundsNum="3" registrationTime="10" preparationTime="1" roundTime="10" debriefingTimeMin="60" debriefingTimeMax="90">
+  <RoundRewards wins="0" mult="0.000000" />
+  <RoundRewards wins="1" mult="0.500000" />
+  <RoundRewards wins="2" mult="1.000000" />
+  <RoundRewards wins="3" mult="2.000000" />
+  <Tournament d="0" h="17" m="0" minRank="7" maxRank="9" botPresetName="BotsT3E" npcPresetName="BotsT3E">
+    <FinishRewards wins="0" gold="0" eventCredits="0" tokenCredits="0" />
+    <FinishRewards wins="1" gold="150" eventCredits="0" tokenCredits="0" />
+    <FinishRewards wins="2" gold="250" eventCredits="0" tokenCredits="0" />
+    <FinishRewards wins="3" gold="400" eventCredits="0" tokenCredits="0" />
+  </Tournament>
+  <Tournament d="6" h="16" m="0" minRank="7" maxRank="9" botPresetName="BotsT3E" npcPresetName="BotsT3E">
+    <FinishRewards wins="0" gold="0" eventCredits="0" tokenCredits="0" />
+    <FinishRewards wins="1" gold="150" eventCredits="0" tokenCredits="0" />
+    <FinishRewards wins="2" gold="250" eventCredits="0" tokenCredits="0" />
+    <FinishRewards wins="3" gold="400" eventCredits="0" tokenCredits="0" />
+  </Tournament>
+</Tournaments>

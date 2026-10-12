@@ -1,0 +1,3955 @@
+<?xml version="1.0"?>
+<Autogen upgradeModPerLevel="0.200000" donate_coef="0.200000" rank_coef="15.000000" upgrade_coefs="1.000000,2.000000,3.000000,10.000000" credits_coef="1000" sellCreditsPrice="1">
+  <UpgradeExpPriceCoeffs base="0.000000" base_coef="0.300000" divide_coef="0.050000" />
+  <DismantleCreditsPriceCoeffs base="500000.000000" base_coef="150.000000" divide_coef="0.500000" />
+  <DismantleGoldPriceCoeffs base="10.000000" base_coef="1.500000" divide_coef="0.500000" />
+  <ClassDesc>
+    <Class classId="0" name="COMMON" gold_dismantle="false">
+      <Affix affixGroupId="1" minModuleRank="4" />
+      <Affix affixGroupId="1" minModuleRank="4" />
+      <Affix affixGroupId="1" minModuleRank="10" />
+      <Affix affixGroupId="1" minModuleRank="15" />
+    </Class>
+    <Class classId="1" name="BALANCED" gold_dismantle="false">
+      <Affix affixGroupId="2" minModuleRank="5" />
+      <Affix affixGroupId="1" minModuleRank="5" />
+      <Affix affixGroupId="1" minModuleRank="10" />
+      <Affix affixGroupId="1" minModuleRank="15" />
+    </Class>
+    <Class classId="2" name="SPECIAL" gold_dismantle="true">
+      <Affix affixGroupId="3" minModuleRank="7" />
+      <Affix affixGroupId="1" minModuleRank="7" />
+      <Affix affixGroupId="1" minModuleRank="10" />
+      <Affix affixGroupId="1" minModuleRank="15" />
+    </Class>
+    <Class classId="3" name="DOUBLE" gold_dismantle="true">
+      <Affix affixGroupId="3" minModuleRank="7" />
+      <Affix affixGroupId="3" minModuleRank="7" />
+      <Affix affixGroupId="1" minModuleRank="7" />
+      <Affix affixGroupId="1" minModuleRank="10" />
+      <Affix affixGroupId="1" minModuleRank="15" />
+    </Class>
+  </ClassDesc>
+  <Affixes>
+    <AffixGroup groupId="1">
+      <Affix affixId="1" name="crit_chance" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="crit_chance_add" min="0.050000" max="0.090000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="crit_chance_add" min="0.090000" max="0.130000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="crit_chance_add" min="0.130000" max="0.170000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="crit_chance_add" min="0.170000" max="0.210000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crit_chance_add" min="0.210000" max="0.250000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crit_chance_add" min="0.250000" max="0.290000" />
+        </Level>
+      </Affix>
+      <Affix affixId="2" name="laser_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="laser_damage_mul" min="0.100000" max="0.220000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="laser_damage_mul" min="0.220000" max="0.340000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="laser_damage_mul" min="0.340000" max="0.460000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="laser_damage_mul" min="0.460000" max="0.580000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="laser_damage_mul" min="0.580000" max="0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="laser_damage_mul" min="0.700000" max="0.820000" />
+        </Level>
+      </Affix>
+      <Affix affixId="3" name="shield_regen" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="shield_regen_mul" min="0.100000" max="0.300000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="shield_regen_mul" min="0.300000" max="0.500000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="shield_regen_mul" min="0.500000" max="0.700000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="shield_regen_mul" min="0.700000" max="0.900000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="shield_regen_mul" min="0.900000" max="1.100000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="shield_regen_mul" min="1.100000" max="1.300000" />
+        </Level>
+      </Affix>
+      <Affix affixId="4" name="shield_resist" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="shield_resist_add" min="4.000000" max="8.000000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="shield_resist_add" min="8.000000" max="12.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_add" min="12.000000" max="16.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_add" min="16.000000" max="20.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_add" min="20.000000" max="24.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_add" min="24.000000" max="28.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="5" name="shield_resist_thermal" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="shield_resist_thermal_add" min="4.000000" max="13.000000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="shield_resist_thermal_add" min="13.000000" max="22.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_thermal_add" min="22.000000" max="31.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_thermal_add" min="31.000000" max="40.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_thermal_add" min="40.000000" max="49.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_thermal_add" min="49.000000" max="58.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="6" name="proj_speed" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="projectile_speed_mul" min="0.100000" max="0.140000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="projectile_speed_mul" min="0.140000" max="0.180000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="projectile_speed_mul" min="0.180000" max="0.220000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="projectile_speed_mul" min="0.220000" max="0.260000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="projectile_speed_mul" min="0.260000" max="0.300000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="projectile_speed_mul" min="0.300000" max="0.340000" />
+        </Level>
+      </Affix>
+      <Affix affixId="7" name="crit_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="crit_damage_add" min="0.050000" max="0.130000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="crit_damage_add" min="0.130000" max="0.210000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="crit_damage_add" min="0.210000" max="0.290000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="crit_damage_add" min="0.290000" max="0.370000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="crit_damage_add" min="0.370000" max="0.450000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="crit_damage_add" min="0.450000" max="0.530000" />
+        </Level>
+      </Affix>
+      <Affix affixId="8" name="plasma_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="plasma_damage_mul" min="0.100000" max="0.220000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="plasma_damage_mul" min="0.220000" max="0.340000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="plasma_damage_mul" min="0.340000" max="0.460000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="plasma_damage_mul" min="0.460000" max="0.580000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="plasma_damage_mul" min="0.580000" max="0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="plasma_damage_mul" min="0.700000" max="0.820000" />
+        </Level>
+      </Affix>
+      <Affix affixId="9" name="range" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="max_range_mul" min="0.120000" max="0.160000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="max_range_mul" min="0.160000" max="0.200000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="max_range_mul" min="0.200000" max="0.240000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="max_range_mul" min="0.240000" max="0.280000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="max_range_mul" min="0.280000" max="0.320000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_range_mul" min="0.320000" max="0.360000" />
+        </Level>
+      </Affix>
+      <Affix affixId="10" name="rail_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="railgun_damage_mul" min="0.100000" max="0.220000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="railgun_damage_mul" min="0.220000" max="0.340000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="railgun_damage_mul" min="0.340000" max="0.460000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="railgun_damage_mul" min="0.460000" max="0.580000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="railgun_damage_mul" min="0.580000" max="0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="railgun_damage_mul" min="0.700000" max="0.820000" />
+        </Level>
+      </Affix>
+      <Affix affixId="11" name="alien_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="alien_damage_mul" min="0.100000" max="0.300000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="alien_damage_mul" min="0.300000" max="0.500000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="alien_damage_mul" min="0.500000" max="0.700000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="alien_damage_mul" min="0.700000" max="0.900000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="alien_damage_mul" min="0.900000" max="1.100000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="alien_damage_mul" min="1.100000" max="1.300000" />
+        </Level>
+      </Affix>
+      <Affix affixId="12" name="shield_max" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="shield_max_mul" min="0.100000" max="0.200000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="shield_max_mul" min="0.200000" max="0.300000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_max_mul" min="0.300000" max="0.400000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_max_mul" min="0.400000" max="0.500000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_max_mul" min="0.500000" max="0.600000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_max_mul" min="0.600000" max="0.700000" />
+        </Level>
+      </Affix>
+      <Affix affixId="13" name="heat_sub" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="heat_sub_mul" min="0.100000" max="0.220000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="heat_sub_mul" min="0.220000" max="0.340000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="heat_sub_mul" min="0.340000" max="0.460000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="heat_sub_mul" min="0.460000" max="0.580000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="heat_sub_mul" min="0.580000" max="0.700000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="heat_sub_mul" min="0.700000" max="0.820000" />
+        </Level>
+      </Affix>
+      <Affix affixId="14" name="dispersion" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="dispersion_mul" min="-0.070000" max="-0.340000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="dispersion_mul" min="-0.340000" max="-0.610000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="dispersion_mul" min="-0.610000" max="-0.880000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="dispersion_mul" min="-0.880000" max="-1.150000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="dispersion_mul" min="-1.150000" max="-1.420000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="dispersion_mul" min="-1.420000" max="-1.690000" />
+        </Level>
+      </Affix>
+      <Affix affixId="15" name="crystal_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="crystal_damage_mul" min="0.100000" max="0.180000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="crystal_damage_mul" min="0.180000" max="0.260000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="crystal_damage_mul" min="0.260000" max="0.340000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="crystal_damage_mul" min="0.340000" max="0.420000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crystal_damage_mul" min="0.420000" max="0.500000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crystal_damage_mul" min="0.500000" max="0.580000" />
+        </Level>
+      </Affix>
+      <Affix affixId="16" name="shield_resist_kinetic" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="shield_resist_kinetic_add" min="4.000000" max="13.000000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="shield_resist_kinetic_add" min="13.000000" max="22.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_kinetic_add" min="22.000000" max="31.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_kinetic_add" min="31.000000" max="40.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_kinetic_add" min="40.000000" max="49.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_kinetic_add" min="49.000000" max="58.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="17" name="shield_resist_emp" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="shield_resist_emp_add" min="4.000000" max="13.000000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="shield_resist_emp_add" min="13.000000" max="22.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_emp_add" min="22.000000" max="31.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_emp_add" min="31.000000" max="40.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_emp_add" min="40.000000" max="49.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_emp_add" min="49.000000" max="58.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="18" name="rocket_cooldown" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="rocket_cooldown_coef_mul" min="-0.100000" max="-0.180000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="rocket_cooldown_coef_mul" min="-0.180000" max="-0.260000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="rocket_cooldown_coef_mul" min="-0.260000" max="-0.340000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="rocket_cooldown_coef_mul" min="-0.340000" max="-0.420000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="rocket_cooldown_coef_mul" min="-0.420000" max="-0.500000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="rocket_cooldown_coef_mul" min="-0.500000" max="-0.580000" />
+        </Level>
+      </Affix>
+      <Affix affixId="19" name="rocket_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="rocket_damage_coef_mul" min="0.100000" max="0.190000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="rocket_damage_coef_mul" min="0.190000" max="0.280000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="rocket_damage_coef_mul" min="0.280000" max="0.370000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="rocket_damage_coef_mul" min="0.370000" max="0.460000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="rocket_damage_coef_mul" min="0.460000" max="0.550000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="rocket_damage_coef_mul" min="0.550000" max="0.640000" />
+        </Level>
+      </Affix>
+      <Affix affixId="20" name="damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="damage_mul" min="0.100000" max="0.200000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="damage_mul" min="0.200000" max="0.300000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="damage_mul" min="0.300000" max="0.400000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="damage_mul" min="0.400000" max="0.500000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="damage_mul" min="0.500000" max="0.600000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="damage_mul" min="0.600000" max="0.700000" />
+        </Level>
+      </Affix>
+      <Affix affixId="21" name="cooldown" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="cooldown_mul" min="-0.100000" max="-0.130000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="cooldown_mul" min="-0.130000" max="-0.160000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="cooldown_mul" min="-0.160000" max="-0.190000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="cooldown_mul" min="-0.190000" max="-0.220000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="cooldown_mul" min="-0.220000" max="-0.250000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="cooldown_mul" min="-0.250000" max="-0.280000" />
+        </Level>
+      </Affix>
+      <Affix affixId="22" name="huge_damage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="signature_huge_damage_mul" min="0.100000" max="0.180000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="signature_huge_damage_mul" min="0.180000" max="0.260000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="signature_huge_damage_mul" min="0.260000" max="0.340000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="signature_huge_damage_mul" min="0.340000" max="0.420000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="signature_huge_damage_mul" min="0.420000" max="0.500000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="signature_huge_damage_mul" min="0.500000" max="0.580000" />
+        </Level>
+      </Affix>
+      <Affix affixId="23" name="lock_time" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="lock_time_mul" min="-0.100000" max="-0.400000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="lock_time_mul" min="-0.400000" max="-0.700000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="lock_time_mul" min="-0.700000" max="-1.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="lock_time_mul" min="-1.000000" max="-1.300000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="lock_time_mul" min="-1.300000" max="-1.600000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="lock_time_mul" min="-1.600000" max="-1.900000" />
+        </Level>
+      </Affix>
+      <Affix affixId="24" name="fire_rate" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="fire_rate_mul" min="0.050000" max="0.100000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="fire_rate_mul" min="0.100000" max="0.150000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="fire_rate_mul" min="0.150000" max="0.200000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="fire_rate_mul" min="0.200000" max="0.250000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="fire_rate_mul" min="0.250000" max="0.300000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="fire_rate_mul" min="0.300000" max="0.350000" />
+        </Level>
+      </Affix>
+      <Affix affixId="25" name="heat_add" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="4" index="0">
+          <Modifier name="heat_add_mul" min="-0.050000" max="-0.350000" />
+        </Level>
+        <Level rank="5" index="1">
+          <Modifier name="heat_add_mul" min="-0.350000" max="-0.650000" />
+        </Level>
+        <Level rank="7" index="2">
+          <Modifier name="heat_add_mul" min="-0.650000" max="-0.950000" />
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="heat_add_mul" min="-0.950000" max="-1.250000" />
+        </Level>
+        <Level rank="13" index="4">
+          <Modifier name="heat_add_mul" min="-1.250000" max="-1.550000" />
+        </Level>
+        <Level rank="16" index="5">
+          <Modifier name="heat_add_mul" min="-1.550000" max="-1.850000" />
+        </Level>
+      </Affix>
+    </AffixGroup>
+    <AffixGroup groupId="2">
+      <Affix affixId="26" name="damage_vs_aliendmg" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.150000" max="0.210000" />
+          <Modifier name="alien_damage_mul" min="-2.000000" max="-1.950000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="damage_mul" min="0.210000" max="0.270000" />
+          <Modifier name="alien_damage_mul" min="-1.950000" max="-1.900000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="damage_mul" min="0.270000" max="0.330000" />
+          <Modifier name="alien_damage_mul" min="-1.900000" max="-1.850000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="damage_mul" min="0.330000" max="0.390000" />
+          <Modifier name="alien_damage_mul" min="-1.850000" max="-1.800000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="0.390000" max="0.450000" />
+          <Modifier name="alien_damage_mul" min="-1.800000" max="-1.750000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="0.450000" max="0.510000" />
+          <Modifier name="alien_damage_mul" min="-1.750000" max="-1.700000" />
+        </Level>
+      </Affix>
+      <Affix affixId="27" name="critdmg_vs_critchance" moduleBaseDefName="AG_Base_Balanced_CritChance" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="crit_damage_add" min="0.200000" max="0.350000" />
+          <Modifier name="crit_chance_add" min="-0.800000" max="-0.720000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="crit_damage_add" min="0.350000" max="0.500000" />
+          <Modifier name="crit_chance_add" min="-0.720000" max="-0.640000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="crit_damage_add" min="0.500000" max="0.650000" />
+          <Modifier name="crit_chance_add" min="-0.640000" max="-0.560000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="crit_damage_add" min="0.650000" max="0.800000" />
+          <Modifier name="crit_chance_add" min="-0.560000" max="-0.480000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crit_damage_add" min="0.800000" max="0.950000" />
+          <Modifier name="crit_chance_add" min="-0.480000" max="-0.400000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crit_damage_add" min="0.950000" max="1.100000" />
+          <Modifier name="crit_chance_add" min="-0.400000" max="-0.320000" />
+        </Level>
+      </Affix>
+      <Affix affixId="28" name="projspeed_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="projectile_speed_mul" min="0.150000" max="0.280000" />
+          <Modifier name="damage_mul" min="-0.400000" max="-0.360000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="projectile_speed_mul" min="0.280000" max="0.410000" />
+          <Modifier name="damage_mul" min="-0.360000" max="-0.320000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="projectile_speed_mul" min="0.410000" max="0.540000" />
+          <Modifier name="damage_mul" min="-0.320000" max="-0.280000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="projectile_speed_mul" min="0.540000" max="0.670000" />
+          <Modifier name="damage_mul" min="-0.280000" max="-0.240000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="projectile_speed_mul" min="0.670000" max="0.800000" />
+          <Modifier name="damage_mul" min="-0.240000" max="-0.200000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="projectile_speed_mul" min="0.800000" max="0.930000" />
+          <Modifier name="damage_mul" min="-0.200000" max="-0.160000" />
+        </Level>
+      </Affix>
+      <Affix affixId="29" name="damage_vs_greendmg" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.150000" max="0.220000" />
+          <Modifier name="crystal_damage_mul" min="-2.000000" max="-1.950000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.220000" max="0.290000" />
+          <Modifier name="crystal_damage_mul" min="-1.950000" max="-1.900000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="0.290000" max="0.360000" />
+          <Modifier name="crystal_damage_mul" min="-1.900000" max="-1.850000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="0.360000" max="0.430000" />
+          <Modifier name="crystal_damage_mul" min="-1.850000" max="-1.800000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="0.430000" max="0.500000" />
+          <Modifier name="crystal_damage_mul" min="-1.800000" max="-1.750000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="0.500000" max="0.570000" />
+          <Modifier name="crystal_damage_mul" min="-1.750000" max="-1.700000" />
+        </Level>
+      </Affix>
+      <Affix affixId="30" name="damage_vs_critchance" moduleBaseDefName="AG_Base_Balanced_CritChance" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.500000" max="0.800000" />
+          <Modifier name="crit_chance_add" min="-0.700000" max="-0.620000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.800000" max="1.100000" />
+          <Modifier name="crit_chance_add" min="-0.620000" max="-0.540000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="1.100000" max="1.400000" />
+          <Modifier name="crit_chance_add" min="-0.540000" max="-0.460000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="1.400000" max="1.700000" />
+          <Modifier name="crit_chance_add" min="-0.460000" max="-0.380000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="1.700000" max="2.000000" />
+          <Modifier name="crit_chance_add" min="-0.380000" max="-0.300000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="2.000000" max="2.300000" />
+          <Modifier name="crit_chance_add" min="-0.300000" max="-0.220000" />
+        </Level>
+      </Affix>
+      <Affix affixId="31" name="dispersion_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="dispersion_mul" min="-0.150000" max="-0.400000" />
+          <Modifier name="damage_mul" min="-0.800000" max="-0.740000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="dispersion_mul" min="-0.400000" max="-0.650000" />
+          <Modifier name="damage_mul" min="-0.740000" max="-0.680000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="dispersion_mul" min="-0.650000" max="-0.900000" />
+          <Modifier name="damage_mul" min="-0.680000" max="-0.620000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="dispersion_mul" min="-0.900000" max="-1.150000" />
+          <Modifier name="damage_mul" min="-0.620000" max="-0.560000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="dispersion_mul" min="-1.150000" max="-1.400000" />
+          <Modifier name="damage_mul" min="-0.560000" max="-0.500000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="dispersion_mul" min="-1.400000" max="-1.650000" />
+          <Modifier name="damage_mul" min="-0.500000" max="-0.440000" />
+        </Level>
+      </Affix>
+      <Affix affixId="32" name="damage_vs_dispersion" moduleBaseDefName="AG_Base_Balanced_Dispersion" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.150000" max="0.370000" />
+          <Modifier name="dispersion_mul" min="0.900000" max="0.830000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.370000" max="0.590000" />
+          <Modifier name="dispersion_mul" min="0.830000" max="0.760000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="0.590000" max="0.810000" />
+          <Modifier name="dispersion_mul" min="0.760000" max="0.690000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="0.810000" max="1.030000" />
+          <Modifier name="dispersion_mul" min="0.690000" max="0.620000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="1.030000" max="1.250000" />
+          <Modifier name="dispersion_mul" min="0.620000" max="0.550000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="1.250000" max="1.470000" />
+          <Modifier name="dispersion_mul" min="0.550000" max="0.480000" />
+        </Level>
+      </Affix>
+      <Affix affixId="33" name="shield_vs_hull" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_max_mul" min="0.200000" max="0.450000" />
+          <Modifier name="hull_health_mul" min="-1.700000" max="-1.550000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_max_mul" min="0.450000" max="0.700000" />
+          <Modifier name="hull_health_mul" min="-1.550000" max="-1.400000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_max_mul" min="0.700000" max="0.950000" />
+          <Modifier name="hull_health_mul" min="-1.400000" max="-1.250000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_max_mul" min="0.950000" max="1.200000" />
+          <Modifier name="hull_health_mul" min="-1.250000" max="-1.100000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_max_mul" min="1.200000" max="1.450000" />
+          <Modifier name="hull_health_mul" min="-1.100000" max="-0.950000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_max_mul" min="1.450000" max="1.700000" />
+          <Modifier name="hull_health_mul" min="-0.950000" max="-0.800000" />
+        </Level>
+      </Affix>
+      <Affix affixId="34" name="heat_vs_cool" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="heat_add_mul" min="-0.150000" max="-0.400000" />
+          <Modifier name="heat_sub_mul" min="-0.400000" max="-0.360000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="heat_add_mul" min="-0.400000" max="-0.650000" />
+          <Modifier name="heat_sub_mul" min="-0.360000" max="-0.320000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="heat_add_mul" min="-0.650000" max="-0.900000" />
+          <Modifier name="heat_sub_mul" min="-0.320000" max="-0.280000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="heat_add_mul" min="-0.900000" max="-1.150000" />
+          <Modifier name="heat_sub_mul" min="-0.280000" max="-0.240000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="heat_add_mul" min="-1.150000" max="-1.400000" />
+          <Modifier name="heat_sub_mul" min="-0.240000" max="-0.200000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="heat_add_mul" min="-1.400000" max="-1.650000" />
+          <Modifier name="heat_sub_mul" min="-0.200000" max="-0.160000" />
+        </Level>
+      </Affix>
+      <Affix affixId="35" name="shieldres_vs_shieldregen" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_add" min="15.000000" max="27.000000" />
+          <Modifier name="shield_regen_mul" min="-1.500000" max="-1.380000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="shield_resist_add" min="27.000000" max="39.000000" />
+          <Modifier name="shield_regen_mul" min="-1.380000" max="-1.260000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="shield_resist_add" min="39.000000" max="51.000000" />
+          <Modifier name="shield_regen_mul" min="-1.260000" max="-1.140000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="shield_resist_add" min="51.000000" max="63.000000" />
+          <Modifier name="shield_regen_mul" min="-1.140000" max="-1.020000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_add" min="63.000000" max="75.000000" />
+          <Modifier name="shield_regen_mul" min="-1.020000" max="-0.900000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_add" min="75.000000" max="87.000000" />
+          <Modifier name="shield_regen_mul" min="-0.900000" max="-0.780000" />
+        </Level>
+      </Affix>
+      <Affix affixId="36" name="critchance_vs_critdmg" moduleBaseDefName="AG_Base_Balanced_CritDamage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="crit_chance_add" min="0.100000" max="0.160000" />
+          <Modifier name="crit_damage_add" min="-0.950000" max="-0.850000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="crit_chance_add" min="0.160000" max="0.220000" />
+          <Modifier name="crit_damage_add" min="-0.850000" max="-0.750000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="crit_chance_add" min="0.220000" max="0.280000" />
+          <Modifier name="crit_damage_add" min="-0.750000" max="-0.650000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="crit_chance_add" min="0.280000" max="0.340000" />
+          <Modifier name="crit_damage_add" min="-0.650000" max="-0.550000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crit_chance_add" min="0.340000" max="0.400000" />
+          <Modifier name="crit_damage_add" min="-0.550000" max="-0.450000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crit_chance_add" min="0.400000" max="0.460000" />
+          <Modifier name="crit_damage_add" min="-0.450000" max="-0.350000" />
+        </Level>
+      </Affix>
+      <Affix affixId="37" name="shieldmax_vs_shieldregen" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_max_mul" min="0.200000" max="0.400000" />
+          <Modifier name="shield_regen_mul" min="-1.500000" max="-1.380000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="shield_max_mul" min="0.400000" max="0.600000" />
+          <Modifier name="shield_regen_mul" min="-1.380000" max="-1.260000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="shield_max_mul" min="0.600000" max="0.800000" />
+          <Modifier name="shield_regen_mul" min="-1.260000" max="-1.140000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="shield_max_mul" min="0.800000" max="1.000000" />
+          <Modifier name="shield_regen_mul" min="-1.140000" max="-1.020000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_max_mul" min="1.000000" max="1.200000" />
+          <Modifier name="shield_regen_mul" min="-1.020000" max="-0.900000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_max_mul" min="1.200000" max="1.400000" />
+          <Modifier name="shield_regen_mul" min="-0.900000" max="-0.780000" />
+        </Level>
+      </Affix>
+      <Affix affixId="38" name="damage_vs_critdmg" moduleBaseDefName="AG_Base_Balanced_CritDamage" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.150000" max="0.400000" />
+          <Modifier name="crit_damage_add" min="-0.800000" max="-0.740000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.400000" max="0.650000" />
+          <Modifier name="crit_damage_add" min="-0.740000" max="-0.680000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="0.650000" max="0.900000" />
+          <Modifier name="crit_damage_add" min="-0.680000" max="-0.620000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="0.900000" max="1.150000" />
+          <Modifier name="crit_damage_add" min="-0.620000" max="-0.560000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="1.150000" max="1.400000" />
+          <Modifier name="crit_damage_add" min="-0.560000" max="-0.500000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="1.400000" max="1.650000" />
+          <Modifier name="crit_damage_add" min="-0.500000" max="-0.440000" />
+        </Level>
+      </Affix>
+      <Affix affixId="39" name="damage_vs_firerate" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.500000" max="0.800000" />
+          <Modifier name="fire_rate_mul" min="-1.000000" max="-0.940000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.800000" max="1.100000" />
+          <Modifier name="fire_rate_mul" min="-0.940000" max="-0.880000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="1.100000" max="1.400000" />
+          <Modifier name="fire_rate_mul" min="-0.880000" max="-0.820000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="1.400000" max="1.700000" />
+          <Modifier name="fire_rate_mul" min="-0.820000" max="-0.760000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="1.700000" max="2.000000" />
+          <Modifier name="fire_rate_mul" min="-0.760000" max="-0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="2.000000" max="2.300000" />
+          <Modifier name="fire_rate_mul" min="-0.700000" max="-0.640000" />
+        </Level>
+      </Affix>
+      <Affix affixId="40" name="heat_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="heat_add_mul" min="-0.150000" max="-0.400000" />
+          <Modifier name="damage_mul" min="-0.400000" max="-0.360000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="heat_add_mul" min="-0.400000" max="-0.650000" />
+          <Modifier name="damage_mul" min="-0.360000" max="-0.320000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="heat_add_mul" min="-0.650000" max="-0.900000" />
+          <Modifier name="damage_mul" min="-0.320000" max="-0.280000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="heat_add_mul" min="-0.900000" max="-1.150000" />
+          <Modifier name="damage_mul" min="-0.280000" max="-0.240000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="heat_add_mul" min="-1.150000" max="-1.400000" />
+          <Modifier name="damage_mul" min="-0.240000" max="-0.200000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="heat_add_mul" min="-1.400000" max="-1.650000" />
+          <Modifier name="damage_mul" min="-0.200000" max="-0.160000" />
+        </Level>
+      </Affix>
+      <Affix affixId="41" name="firerate_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="fire_rate_mul" min="0.300000" max="0.430000" />
+          <Modifier name="damage_mul" min="-0.400000" max="-0.360000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="fire_rate_mul" min="0.430000" max="0.560000" />
+          <Modifier name="damage_mul" min="-0.360000" max="-0.320000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="fire_rate_mul" min="0.560000" max="0.690000" />
+          <Modifier name="damage_mul" min="-0.320000" max="-0.280000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="fire_rate_mul" min="0.690000" max="0.820000" />
+          <Modifier name="damage_mul" min="-0.280000" max="-0.240000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="fire_rate_mul" min="0.820000" max="0.950000" />
+          <Modifier name="damage_mul" min="-0.240000" max="-0.200000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="fire_rate_mul" min="0.950000" max="1.080000" />
+          <Modifier name="damage_mul" min="-0.200000" max="-0.160000" />
+        </Level>
+      </Affix>
+      <Affix affixId="42" name="shieldregen_vs_shieldres" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_regen_mul" min="0.300000" max="0.600000" />
+          <Modifier name="shield_resist_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_regen_mul" min="0.600000" max="0.900000" />
+          <Modifier name="shield_resist_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_regen_mul" min="0.900000" max="1.200000" />
+          <Modifier name="shield_resist_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_regen_mul" min="1.200000" max="1.500000" />
+          <Modifier name="shield_resist_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_regen_mul" min="1.500000" max="1.800000" />
+          <Modifier name="shield_resist_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_regen_mul" min="1.800000" max="2.100000" />
+          <Modifier name="shield_resist_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="43" name="cool_vs_heat" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="heat_sub_mul" min="0.150000" max="0.400000" />
+          <Modifier name="heat_add_mul" min="0.400000" max="0.360000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="heat_sub_mul" min="0.400000" max="0.650000" />
+          <Modifier name="heat_add_mul" min="0.360000" max="0.320000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="heat_sub_mul" min="0.650000" max="0.900000" />
+          <Modifier name="heat_add_mul" min="0.320000" max="0.280000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="heat_sub_mul" min="0.900000" max="1.150000" />
+          <Modifier name="heat_add_mul" min="0.280000" max="0.240000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="heat_sub_mul" min="1.150000" max="1.400000" />
+          <Modifier name="heat_add_mul" min="0.240000" max="0.200000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="heat_sub_mul" min="1.400000" max="1.650000" />
+          <Modifier name="heat_add_mul" min="0.200000" max="0.160000" />
+        </Level>
+      </Affix>
+      <Affix affixId="44" name="shieldregen_vs_shieldmax" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_regen_mul" min="0.300000" max="0.600000" />
+          <Modifier name="shield_max_mul" min="-1.700000" max="-1.550000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_regen_mul" min="0.600000" max="0.900000" />
+          <Modifier name="shield_max_mul" min="-1.550000" max="-1.400000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_regen_mul" min="0.900000" max="1.200000" />
+          <Modifier name="shield_max_mul" min="-1.400000" max="-1.250000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_regen_mul" min="1.200000" max="1.500000" />
+          <Modifier name="shield_max_mul" min="-1.250000" max="-1.100000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_regen_mul" min="1.500000" max="1.800000" />
+          <Modifier name="shield_max_mul" min="-1.100000" max="-0.950000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_regen_mul" min="1.800000" max="2.100000" />
+          <Modifier name="shield_max_mul" min="-0.950000" max="-0.800000" />
+        </Level>
+      </Affix>
+      <Affix affixId="45" name="damage_vs_hugedmg" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.150000" max="0.220000" />
+          <Modifier name="signature_huge_damage_mul" min="-2.000000" max="-1.950000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.220000" max="0.290000" />
+          <Modifier name="signature_huge_damage_mul" min="-1.950000" max="-1.900000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="0.290000" max="0.360000" />
+          <Modifier name="signature_huge_damage_mul" min="-1.900000" max="-1.850000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="0.360000" max="0.430000" />
+          <Modifier name="signature_huge_damage_mul" min="-1.850000" max="-1.800000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="0.430000" max="0.500000" />
+          <Modifier name="signature_huge_damage_mul" min="-1.800000" max="-1.750000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="0.500000" max="0.570000" />
+          <Modifier name="signature_huge_damage_mul" min="-1.750000" max="-1.700000" />
+        </Level>
+      </Affix>
+      <Affix affixId="46" name="critdmg_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="crit_damage_add" min="0.200000" max="0.350000" />
+          <Modifier name="damage_mul" min="-0.900000" max="-0.850000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="crit_damage_add" min="0.350000" max="0.500000" />
+          <Modifier name="damage_mul" min="-0.850000" max="-0.800000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="crit_damage_add" min="0.500000" max="0.650000" />
+          <Modifier name="damage_mul" min="-0.800000" max="-0.750000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="crit_damage_add" min="0.650000" max="0.800000" />
+          <Modifier name="damage_mul" min="-0.750000" max="-0.700000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crit_damage_add" min="0.800000" max="0.950000" />
+          <Modifier name="damage_mul" min="-0.700000" max="-0.650000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crit_damage_add" min="0.950000" max="1.100000" />
+          <Modifier name="damage_mul" min="-0.650000" max="-0.600000" />
+        </Level>
+      </Affix>
+      <Affix affixId="47" name="empshld_vs_thermalshld" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_emp_add" min="25.000000" max="39.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_resist_emp_add" min="39.000000" max="53.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_emp_add" min="53.000000" max="67.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_emp_add" min="67.000000" max="81.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_emp_add" min="81.000000" max="95.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_emp_add" min="95.000000" max="109.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="48" name="greendmg_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="crystal_damage_mul" min="0.300000" max="0.500000" />
+          <Modifier name="damage_mul" min="-1.000000" max="-0.940000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="crystal_damage_mul" min="0.500000" max="0.700000" />
+          <Modifier name="damage_mul" min="-0.940000" max="-0.880000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="crystal_damage_mul" min="0.700000" max="0.900000" />
+          <Modifier name="damage_mul" min="-0.880000" max="-0.820000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="crystal_damage_mul" min="0.900000" max="1.100000" />
+          <Modifier name="damage_mul" min="-0.820000" max="-0.760000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crystal_damage_mul" min="1.100000" max="1.300000" />
+          <Modifier name="damage_mul" min="-0.760000" max="-0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crystal_damage_mul" min="1.300000" max="1.500000" />
+          <Modifier name="damage_mul" min="-0.700000" max="-0.640000" />
+        </Level>
+      </Affix>
+      <Affix affixId="49" name="damage_vs_heat" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.150000" max="0.270000" />
+          <Modifier name="heat_add_mul" min="0.650000" max="0.580000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.270000" max="0.390000" />
+          <Modifier name="heat_add_mul" min="0.580000" max="0.510000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="0.390000" max="0.510000" />
+          <Modifier name="heat_add_mul" min="0.510000" max="0.440000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="0.510000" max="0.630000" />
+          <Modifier name="heat_add_mul" min="0.440000" max="0.370000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="0.630000" max="0.750000" />
+          <Modifier name="heat_add_mul" min="0.370000" max="0.300000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="0.750000" max="0.870000" />
+          <Modifier name="heat_add_mul" min="0.300000" max="0.230000" />
+        </Level>
+      </Affix>
+      <Affix affixId="50" name="hugedmg_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="signature_huge_damage_mul" min="0.300000" max="0.500000" />
+          <Modifier name="damage_mul" min="-1.000000" max="-0.940000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="signature_huge_damage_mul" min="0.500000" max="0.700000" />
+          <Modifier name="damage_mul" min="-0.940000" max="-0.880000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="signature_huge_damage_mul" min="0.700000" max="0.900000" />
+          <Modifier name="damage_mul" min="-0.880000" max="-0.820000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="signature_huge_damage_mul" min="0.900000" max="1.100000" />
+          <Modifier name="damage_mul" min="-0.820000" max="-0.760000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="signature_huge_damage_mul" min="1.100000" max="1.300000" />
+          <Modifier name="damage_mul" min="-0.760000" max="-0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="signature_huge_damage_mul" min="1.300000" max="1.500000" />
+          <Modifier name="damage_mul" min="-0.700000" max="-0.640000" />
+        </Level>
+      </Affix>
+      <Affix affixId="51" name="railshld_vs_thermalshld" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_kinetic_add" min="25.000000" max="39.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_resist_kinetic_add" min="39.000000" max="53.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_kinetic_add" min="53.000000" max="67.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_kinetic_add" min="67.000000" max="81.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_kinetic_add" min="81.000000" max="95.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_kinetic_add" min="95.000000" max="109.000000" />
+          <Modifier name="shield_resist_thermal_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="52" name="empshld_vs_railshld" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_emp_add" min="25.000000" max="39.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_resist_emp_add" min="39.000000" max="53.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_emp_add" min="53.000000" max="67.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_emp_add" min="67.000000" max="81.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_emp_add" min="81.000000" max="95.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_emp_add" min="95.000000" max="109.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="53" name="railshld_vs_empshld" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_kinetic_add" min="25.000000" max="39.000000" />
+          <Modifier name="shield_resist_emp_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_resist_kinetic_add" min="39.000000" max="53.000000" />
+          <Modifier name="shield_resist_emp_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_kinetic_add" min="53.000000" max="67.000000" />
+          <Modifier name="shield_resist_emp_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_kinetic_add" min="67.000000" max="81.000000" />
+          <Modifier name="shield_resist_emp_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_kinetic_add" min="81.000000" max="95.000000" />
+          <Modifier name="shield_resist_emp_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_kinetic_add" min="95.000000" max="109.000000" />
+          <Modifier name="shield_resist_emp_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="54" name="thermalshld_vs_railshld" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_thermal_add" min="25.000000" max="39.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_resist_thermal_add" min="39.000000" max="53.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_thermal_add" min="53.000000" max="67.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_thermal_add" min="67.000000" max="81.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_thermal_add" min="81.000000" max="95.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_thermal_add" min="95.000000" max="109.000000" />
+          <Modifier name="shield_resist_kinetic_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="55" name="thermalshld_vs_empshld" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_thermal_add" min="25.000000" max="39.000000" />
+          <Modifier name="shield_resist_emp_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_resist_thermal_add" min="39.000000" max="53.000000" />
+          <Modifier name="shield_resist_emp_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_thermal_add" min="53.000000" max="67.000000" />
+          <Modifier name="shield_resist_emp_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_thermal_add" min="67.000000" max="81.000000" />
+          <Modifier name="shield_resist_emp_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_thermal_add" min="81.000000" max="95.000000" />
+          <Modifier name="shield_resist_emp_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_thermal_add" min="95.000000" max="109.000000" />
+          <Modifier name="shield_resist_emp_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="56" name="damage_vs_range" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="damage_mul" min="0.200000" max="0.480000" />
+          <Modifier name="max_range_mul" min="-1.500000" max="-1.300000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="damage_mul" min="0.480000" max="0.760000" />
+          <Modifier name="max_range_mul" min="-1.300000" max="-1.100000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="damage_mul" min="0.760000" max="1.040000" />
+          <Modifier name="max_range_mul" min="-1.100000" max="-0.900000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="damage_mul" min="1.040000" max="1.320000" />
+          <Modifier name="max_range_mul" min="-0.900000" max="-0.700000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="damage_mul" min="1.320000" max="1.600000" />
+          <Modifier name="max_range_mul" min="-0.700000" max="-0.500000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_mul" min="1.600000" max="1.880000" />
+          <Modifier name="max_range_mul" min="-0.500000" max="-0.300000" />
+        </Level>
+      </Affix>
+      <Affix affixId="57" name="critchance_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="crit_chance_add" min="0.120000" max="0.170000" />
+          <Modifier name="damage_mul" min="-1.200000" max="-1.100000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="crit_chance_add" min="0.170000" max="0.220000" />
+          <Modifier name="damage_mul" min="-1.100000" max="-1.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="crit_chance_add" min="0.220000" max="0.270000" />
+          <Modifier name="damage_mul" min="-1.000000" max="-0.900000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="crit_chance_add" min="0.270000" max="0.320000" />
+          <Modifier name="damage_mul" min="-0.900000" max="-0.800000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crit_chance_add" min="0.320000" max="0.370000" />
+          <Modifier name="damage_mul" min="-0.800000" max="-0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crit_chance_add" min="0.370000" max="0.420000" />
+          <Modifier name="damage_mul" min="-0.700000" max="-0.600000" />
+        </Level>
+      </Affix>
+      <Affix affixId="58" name="range_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="max_range_mul" min="0.300000" max="0.400000" />
+          <Modifier name="damage_mul" min="-0.800000" max="-0.740000" />
+        </Level>
+        <Level rank="7" index="1">
+          <Modifier name="max_range_mul" min="0.400000" max="0.500000" />
+          <Modifier name="damage_mul" min="-0.740000" max="-0.680000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="max_range_mul" min="0.500000" max="0.600000" />
+          <Modifier name="damage_mul" min="-0.680000" max="-0.620000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="max_range_mul" min="0.600000" max="0.700000" />
+          <Modifier name="damage_mul" min="-0.620000" max="-0.560000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="max_range_mul" min="0.700000" max="0.800000" />
+          <Modifier name="damage_mul" min="-0.560000" max="-0.500000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_range_mul" min="0.800000" max="0.900000" />
+          <Modifier name="damage_mul" min="-0.500000" max="-0.440000" />
+        </Level>
+      </Affix>
+      <Affix affixId="59" name="critchance_vs_firerate" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="crit_chance_add" min="0.100000" max="0.145000" />
+          <Modifier name="fire_rate_mul" min="-1.000000" max="-0.930000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="crit_chance_add" min="0.145000" max="0.190000" />
+          <Modifier name="fire_rate_mul" min="-0.930000" max="-0.860000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="crit_chance_add" min="0.190000" max="0.235000" />
+          <Modifier name="fire_rate_mul" min="-0.860000" max="-0.790000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="crit_chance_add" min="0.235000" max="0.280000" />
+          <Modifier name="fire_rate_mul" min="-0.790000" max="-0.720000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="crit_chance_add" min="0.280000" max="0.325000" />
+          <Modifier name="fire_rate_mul" min="-0.720000" max="-0.650000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="crit_chance_add" min="0.325000" max="0.370000" />
+          <Modifier name="fire_rate_mul" min="-0.650000" max="-0.580000" />
+        </Level>
+      </Affix>
+      <Affix affixId="60" name="firerate_vs_critchance" moduleBaseDefName="AG_Base_Balanced_CritChance" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="fire_rate_mul" min="0.300000" max="0.430000" />
+          <Modifier name="crit_chance_add" min="-0.950000" max="-0.890000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="fire_rate_mul" min="0.430000" max="0.560000" />
+          <Modifier name="crit_chance_add" min="-0.890000" max="-0.830000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="fire_rate_mul" min="0.560000" max="0.690000" />
+          <Modifier name="crit_chance_add" min="-0.830000" max="-0.770000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="fire_rate_mul" min="0.690000" max="0.820000" />
+          <Modifier name="crit_chance_add" min="-0.770000" max="-0.710000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="fire_rate_mul" min="0.820000" max="0.950000" />
+          <Modifier name="crit_chance_add" min="-0.710000" max="-0.650000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="fire_rate_mul" min="0.950000" max="1.080000" />
+          <Modifier name="crit_chance_add" min="-0.650000" max="-0.590000" />
+        </Level>
+      </Affix>
+      <Affix affixId="61" name="aliendmg_vs_damage" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.001000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="alien_damage_mul" min="0.500000" max="0.750000" />
+          <Modifier name="damage_mul" min="-1.000000" max="-0.940000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="alien_damage_mul" min="0.750000" max="1.000000" />
+          <Modifier name="damage_mul" min="-0.940000" max="-0.880000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="alien_damage_mul" min="1.000000" max="1.250000" />
+          <Modifier name="damage_mul" min="-0.880000" max="-0.820000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="alien_damage_mul" min="1.250000" max="1.500000" />
+          <Modifier name="damage_mul" min="-0.820000" max="-0.760000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="alien_damage_mul" min="1.500000" max="1.750000" />
+          <Modifier name="damage_mul" min="-0.760000" max="-0.700000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="alien_damage_mul" min="1.750000" max="2.000000" />
+          <Modifier name="damage_mul" min="-0.700000" max="-0.640000" />
+        </Level>
+      </Affix>
+      <Affix affixId="62" name="shieldmax_vs_shieldres" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_max_mul" min="0.200000" max="0.450000" />
+          <Modifier name="shield_resist_add" min="-90.000000" max="-80.000000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_max_mul" min="0.450000" max="0.700000" />
+          <Modifier name="shield_resist_add" min="-80.000000" max="-70.000000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_max_mul" min="0.700000" max="0.950000" />
+          <Modifier name="shield_resist_add" min="-70.000000" max="-60.000000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_max_mul" min="0.950000" max="1.200000" />
+          <Modifier name="shield_resist_add" min="-60.000000" max="-50.000000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_max_mul" min="1.200000" max="1.450000" />
+          <Modifier name="shield_resist_add" min="-50.000000" max="-40.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_max_mul" min="1.450000" max="1.700000" />
+          <Modifier name="shield_resist_add" min="-40.000000" max="-30.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="63" name="shieldres_vs_shieldmax" moduleBaseDefName="AG_Base_Balanced" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="5" index="0">
+          <Modifier name="shield_resist_add" min="15.000000" max="27.000000" />
+          <Modifier name="shield_max_mul" min="-1.700000" max="-1.550000" />
+        </Level>
+        <Level rank="6" index="1">
+          <Modifier name="shield_resist_add" min="27.000000" max="39.000000" />
+          <Modifier name="shield_max_mul" min="-1.550000" max="-1.400000" />
+        </Level>
+        <Level rank="8" index="2">
+          <Modifier name="shield_resist_add" min="39.000000" max="51.000000" />
+          <Modifier name="shield_max_mul" min="-1.400000" max="-1.250000" />
+        </Level>
+        <Level rank="11" index="3">
+          <Modifier name="shield_resist_add" min="51.000000" max="63.000000" />
+          <Modifier name="shield_max_mul" min="-1.250000" max="-1.100000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="shield_resist_add" min="63.000000" max="75.000000" />
+          <Modifier name="shield_max_mul" min="-1.100000" max="-0.950000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="shield_resist_add" min="75.000000" max="87.000000" />
+          <Modifier name="shield_max_mul" min="-0.950000" max="-0.800000" />
+        </Level>
+      </Affix>
+    </AffixGroup>
+    <AffixGroup groupId="3">
+      <Affix affixId="64" name="time_bomb" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_TimeBomb">
+              <SpellParam name="chance" min="0.060000" max="0.110000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_TimeBomb">
+              <SpellParam name="chance" min="0.110000" max="0.160000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_TimeBomb">
+              <SpellParam name="chance" min="0.160000" max="0.210000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_TimeBomb">
+              <SpellParam name="chance" min="0.210000" max="0.260000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_TimeBomb">
+              <SpellParam name="chance" min="0.260000" max="0.310000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_TimeBomb">
+              <SpellParam name="chance" min="0.310000" max="0.360000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="65" name="gravity_bomb" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_GravityBomb_Start">
+              <SpellParam name="chance" min="0.060000" max="0.110000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_GravityBomb_Start">
+              <SpellParam name="chance" min="0.110000" max="0.160000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_GravityBomb_Start">
+              <SpellParam name="chance" min="0.160000" max="0.210000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_GravityBomb_Start">
+              <SpellParam name="chance" min="0.210000" max="0.260000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_GravityBomb_Start">
+              <SpellParam name="chance" min="0.260000" max="0.310000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_GravityBomb_Start">
+              <SpellParam name="chance" min="0.310000" max="0.360000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="66" name="exploding_shield" moduleBaseDefName="AG_Base_Disabled_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="120.000000" max="110.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ShieldBlast">
+              <SpellParam name="influence_param" min="0.300000" max="1.300000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="cooldown" min="110.000000" max="100.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ShieldBlast">
+              <SpellParam name="influence_param" min="1.300000" max="2.300000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="cooldown" min="100.000000" max="90.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ShieldBlast">
+              <SpellParam name="influence_param" min="2.300000" max="3.300000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="cooldown" min="90.000000" max="80.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ShieldBlast">
+              <SpellParam name="influence_param" min="3.300000" max="4.300000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="cooldown" min="80.000000" max="70.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ShieldBlast">
+              <SpellParam name="influence_param" min="4.300000" max="5.300000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="70.000000" max="60.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ShieldBlast">
+              <SpellParam name="influence_param" min="5.300000" max="6.300000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="67" name="flying_dmgbuff_on_enemy_death" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_DamageBonusOnKill">
+              <SpellParam name="aura_range" min="50.000000" max="108.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_DamageBonusOnKill">
+              <SpellParam name="aura_range" min="108.000000" max="166.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_DamageBonusOnKill">
+              <SpellParam name="aura_range" min="166.000000" max="224.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_DamageBonusOnKill">
+              <SpellParam name="aura_range" min="224.000000" max="282.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_DamageBonusOnKill">
+              <SpellParam name="aura_range" min="282.000000" max="340.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_DamageBonusOnKill">
+              <SpellParam name="aura_range" min="340.000000" max="398.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="68" name="gun_lightning" moduleBaseDefName="AG_Weapon_LightningGun" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="damage_emp" min="250.000000" max="360.000000" />
+          <Modifier name="link_range" min="50.000000" max="75.000000" />
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="damage_emp" min="360.000000" max="470.000000" />
+          <Modifier name="link_range" min="75.000000" max="100.000000" />
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="damage_emp" min="470.000000" max="580.000000" />
+          <Modifier name="link_range" min="100.000000" max="125.000000" />
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="damage_emp" min="580.000000" max="690.000000" />
+          <Modifier name="link_range" min="125.000000" max="150.000000" />
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="damage_emp" min="690.000000" max="800.000000" />
+          <Modifier name="link_range" min="150.000000" max="175.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_emp" min="800.000000" max="910.000000" />
+          <Modifier name="link_range" min="175.000000" max="200.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="69" name="second_shield" moduleBaseDefName="AG_Base_Disabled_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="100.000000" max="91.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_SecondShield">
+              <SpellParam name="aura_param" min="0.100000" max="0.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="cooldown" min="91.000000" max="82.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_SecondShield">
+              <SpellParam name="aura_param" min="0.200000" max="0.300000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="cooldown" min="82.000000" max="73.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_SecondShield">
+              <SpellParam name="aura_param" min="0.300000" max="0.400000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="cooldown" min="73.000000" max="64.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_SecondShield">
+              <SpellParam name="aura_param" min="0.400000" max="0.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="cooldown" min="64.000000" max="55.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_SecondShield">
+              <SpellParam name="aura_param" min="0.500000" max="0.600000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="55.000000" max="46.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_SecondShield">
+              <SpellParam name="aura_param" min="0.600000" max="0.700000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="70" name="speed_on_enemy_death" moduleBaseDefName="AG_Base_OnEnemyDeath" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_Speed">
+              <SpellParam name="duration" min="2.500000" max="4.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_Speed">
+              <SpellParam name="duration" min="4.500000" max="6.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_Speed">
+              <SpellParam name="duration" min="6.500000" max="8.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="3">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_Speed">
+              <SpellParam name="duration" min="8.500000" max="10.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="4">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_Speed">
+              <SpellParam name="duration" min="10.500000" max="12.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="5">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_Speed">
+              <SpellParam name="duration" min="12.500000" max="14.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="71" name="anti_hull" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistHullDec">
+              <SpellParam name="aura_param" min="4.000000" max="11.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistHullDec">
+              <SpellParam name="aura_param" min="11.000000" max="18.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistHullDec">
+              <SpellParam name="aura_param" min="18.000000" max="25.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistHullDec">
+              <SpellParam name="aura_param" min="25.000000" max="32.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistHullDec">
+              <SpellParam name="aura_param" min="32.000000" max="39.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistHullDec">
+              <SpellParam name="aura_param" min="39.000000" max="46.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="72" name="gun_chain_buckshot" moduleBaseDefName="AG_Weapon_ChainBuckshot" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="damage_kinetic" min="300.000000" max="400.000000" />
+          <Modifier name="projectile_speed" min="250.000000" max="295.000000" />
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="damage_kinetic" min="400.000000" max="500.000000" />
+          <Modifier name="projectile_speed" min="295.000000" max="340.000000" />
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="damage_kinetic" min="500.000000" max="600.000000" />
+          <Modifier name="projectile_speed" min="340.000000" max="385.000000" />
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="damage_kinetic" min="600.000000" max="700.000000" />
+          <Modifier name="projectile_speed" min="385.000000" max="430.000000" />
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="damage_kinetic" min="700.000000" max="800.000000" />
+          <Modifier name="projectile_speed" min="430.000000" max="475.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_kinetic" min="800.000000" max="900.000000" />
+          <Modifier name="projectile_speed" min="475.000000" max="520.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="73" name="heal_by_damage_emp" moduleBaseDefName="AG_Base_Low_Health" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="80.000000" max="72.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Emp">
+              <SpellParam name="duration" min="3.000000" max="5.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <Modifier name="cooldown" min="72.000000" max="64.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Emp">
+              <SpellParam name="duration" min="5.500000" max="8.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="cooldown" min="64.000000" max="56.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Emp">
+              <SpellParam name="duration" min="8.000000" max="10.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="cooldown" min="56.000000" max="48.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Emp">
+              <SpellParam name="duration" min="10.500000" max="13.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="cooldown" min="48.000000" max="40.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Emp">
+              <SpellParam name="duration" min="13.000000" max="15.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="40.000000" max="32.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Emp">
+              <SpellParam name="duration" min="15.500000" max="18.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="74" name="defender_shield" moduleBaseDefName="AG_Base_Percent_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="max_shield_percent" min="0.100000" max="0.150000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_DefenderShield">
+              <SpellParam name="aura_param" min="2.000000" max="8.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="max_shield_percent" min="0.150000" max="0.200000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_DefenderShield">
+              <SpellParam name="aura_param" min="8.000000" max="14.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="max_shield_percent" min="0.200000" max="0.250000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_DefenderShield">
+              <SpellParam name="aura_param" min="14.000000" max="20.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="max_shield_percent" min="0.250000" max="0.300000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_DefenderShield">
+              <SpellParam name="aura_param" min="20.000000" max="26.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="max_shield_percent" min="0.300000" max="0.350000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_DefenderShield">
+              <SpellParam name="aura_param" min="26.000000" max="32.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_shield_percent" min="0.350000" max="0.400000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_DefenderShield">
+              <SpellParam name="aura_param" min="32.000000" max="38.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="75" name="gun_rocket_wall" moduleBaseDefName="AG_Weapon_RocketWall" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="damage_thermal" min="350.000000" max="470.000000" />
+          <Modifier name="projectile_speed" min="20.000000" max="30.000000" />
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="damage_thermal" min="470.000000" max="590.000000" />
+          <Modifier name="projectile_speed" min="30.000000" max="40.000000" />
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="damage_thermal" min="590.000000" max="710.000000" />
+          <Modifier name="projectile_speed" min="40.000000" max="50.000000" />
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="damage_thermal" min="710.000000" max="830.000000" />
+          <Modifier name="projectile_speed" min="50.000000" max="60.000000" />
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="damage_thermal" min="830.000000" max="950.000000" />
+          <Modifier name="projectile_speed" min="60.000000" max="70.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_thermal" min="950.000000" max="1070.000000" />
+          <Modifier name="projectile_speed" min="70.000000" max="80.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="76" name="hull_heal" moduleBaseDefName="AG_Base_OnShotWithCooldown_NoHack" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="45.000000" max="40.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_HullHeal">
+              <SpellParam name="aura_param" min="10.000000" max="20.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="40.000000" max="35.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_HullHeal">
+              <SpellParam name="aura_param" min="20.000000" max="30.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="35.000000" max="30.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_HullHeal">
+              <SpellParam name="aura_param" min="30.000000" max="40.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="30.000000" max="25.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_HullHeal">
+              <SpellParam name="aura_param" min="40.000000" max="50.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="25.000000" max="20.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_HullHeal">
+              <SpellParam name="aura_param" min="50.000000" max="60.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="20.000000" max="15.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_HullHeal">
+              <SpellParam name="aura_param" min="60.000000" max="70.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="77" name="shield_heal" moduleBaseDefName="AG_Base_OnShotWithCooldown_NoHack" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="45.000000" max="40.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_ShieldHeal">
+              <SpellParam name="aura_param" min="10.000000" max="20.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="40.000000" max="35.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_ShieldHeal">
+              <SpellParam name="aura_param" min="20.000000" max="30.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="35.000000" max="30.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_ShieldHeal">
+              <SpellParam name="aura_param" min="30.000000" max="40.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="30.000000" max="25.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_ShieldHeal">
+              <SpellParam name="aura_param" min="40.000000" max="50.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="25.000000" max="20.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_ShieldHeal">
+              <SpellParam name="aura_param" min="50.000000" max="60.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="20.000000" max="15.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_ShieldHeal">
+              <SpellParam name="aura_param" min="60.000000" max="70.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="78" name="gun_charged_thunder" moduleBaseDefName="AG_Weapon_ChargedThunder" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="damage_thermal" min="400.000000" max="470.000000" />
+          <Modifier name="max_range" min="200.000000" max="270.000000" />
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="damage_thermal" min="470.000000" max="540.000000" />
+          <Modifier name="max_range" min="270.000000" max="340.000000" />
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="damage_thermal" min="540.000000" max="610.000000" />
+          <Modifier name="max_range" min="340.000000" max="410.000000" />
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="damage_thermal" min="610.000000" max="680.000000" />
+          <Modifier name="max_range" min="410.000000" max="480.000000" />
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="damage_thermal" min="680.000000" max="750.000000" />
+          <Modifier name="max_range" min="480.000000" max="550.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_thermal" min="750.000000" max="820.000000" />
+          <Modifier name="max_range" min="550.000000" max="620.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="79" name="nuclear_on_enemy_death" moduleBaseDefName="AG_Base_OnEnemyDeath" moduleType="16" classMask="-1" raceMask="-1" precision="10.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_NuclearDeath">
+              <SpellParam name="aura_param" min="750.000000" max="1100.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_NuclearDeath">
+              <SpellParam name="aura_param" min="1100.000000" max="1450.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_NuclearDeath">
+              <SpellParam name="aura_param" min="1450.000000" max="1800.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_NuclearDeath">
+              <SpellParam name="aura_param" min="1800.000000" max="2150.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_NuclearDeath">
+              <SpellParam name="aura_param" min="2150.000000" max="2500.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_death_someone">
+            <Spell defName="Spell_AG_NuclearDeath">
+              <SpellParam name="aura_param" min="2500.000000" max="2850.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="80" name="reserve_shield" moduleBaseDefName="AG_Base_Disabled_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="140.000000" max="132.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ReserveShield">
+              <SpellParam name="influence_param" min="500.000000" max="950.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <Modifier name="cooldown" min="132.000000" max="124.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ReserveShield">
+              <SpellParam name="influence_param" min="950.000000" max="1400.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <Modifier name="cooldown" min="124.000000" max="116.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ReserveShield">
+              <SpellParam name="influence_param" min="1400.000000" max="1850.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="cooldown" min="116.000000" max="108.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ReserveShield">
+              <SpellParam name="influence_param" min="1850.000000" max="2300.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="4">
+          <Modifier name="cooldown" min="108.000000" max="100.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ReserveShield">
+              <SpellParam name="influence_param" min="2300.000000" max="2750.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="5">
+          <Modifier name="cooldown" min="100.000000" max="92.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_ReserveShield">
+              <SpellParam name="influence_param" min="2750.000000" max="3200.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="81" name="energy_shield" moduleBaseDefName="AG_Base_Disabled_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.100000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="100.000000" max="91.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_EnergyShield">
+              <SpellParam name="aura_param" min="2.000000" max="4.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <Modifier name="cooldown" min="91.000000" max="82.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_EnergyShield">
+              <SpellParam name="aura_param" min="4.000000" max="6.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <Modifier name="cooldown" min="82.000000" max="73.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_EnergyShield">
+              <SpellParam name="aura_param" min="6.000000" max="8.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="cooldown" min="73.000000" max="64.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_EnergyShield">
+              <SpellParam name="aura_param" min="8.000000" max="10.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="4">
+          <Modifier name="cooldown" min="64.000000" max="55.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_EnergyShield">
+              <SpellParam name="aura_param" min="10.000000" max="12.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="5">
+          <Modifier name="cooldown" min="55.000000" max="46.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_EnergyShield">
+              <SpellParam name="aura_param" min="12.000000" max="14.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="82" name="gun_random_rockets" moduleBaseDefName="AG_Weapon_RandomRockets" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="damage_thermal" min="400.000000" max="520.000000" />
+          <Modifier name="fire_rate" min="24.000000" max="30.000000" />
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="damage_thermal" min="520.000000" max="640.000000" />
+          <Modifier name="fire_rate" min="30.000000" max="36.000000" />
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="damage_thermal" min="640.000000" max="760.000000" />
+          <Modifier name="fire_rate" min="36.000000" max="42.000000" />
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="damage_thermal" min="760.000000" max="880.000000" />
+          <Modifier name="fire_rate" min="42.000000" max="48.000000" />
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="damage_thermal" min="880.000000" max="1000.000000" />
+          <Modifier name="fire_rate" min="48.000000" max="54.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_thermal" min="1000.000000" max="1120.000000" />
+          <Modifier name="fire_rate" min="54.000000" max="60.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="83" name="same_attraction" moduleBaseDefName="AG_Base_OnShotWithCooldown" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="25.000000" max="23.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SameAttraction">
+              <SpellParam name="aura_range" min="30.000000" max="50.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="23.000000" max="21.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SameAttraction">
+              <SpellParam name="aura_range" min="50.000000" max="70.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="21.000000" max="19.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SameAttraction">
+              <SpellParam name="aura_range" min="70.000000" max="90.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="19.000000" max="17.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SameAttraction">
+              <SpellParam name="aura_range" min="90.000000" max="110.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="17.000000" max="15.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SameAttraction">
+              <SpellParam name="aura_range" min="110.000000" max="130.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="15.000000" max="13.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SameAttraction">
+              <SpellParam name="aura_range" min="130.000000" max="150.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="84" name="speed_on_enemy_kill" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Speed">
+              <SpellParam name="chance" min="0.060000" max="0.170000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Speed">
+              <SpellParam name="chance" min="0.170000" max="0.280000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Speed">
+              <SpellParam name="chance" min="0.280000" max="0.390000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="3">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Speed">
+              <SpellParam name="chance" min="0.390000" max="0.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="4">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Speed">
+              <SpellParam name="chance" min="0.500000" max="0.610000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="5">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Speed">
+              <SpellParam name="chance" min="0.610000" max="0.720000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="85" name="damage_on_enemy_kill" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Damage">
+              <SpellParam name="chance" min="0.060000" max="0.170000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Damage">
+              <SpellParam name="chance" min="0.170000" max="0.280000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Damage">
+              <SpellParam name="chance" min="0.280000" max="0.390000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Damage">
+              <SpellParam name="chance" min="0.390000" max="0.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Damage">
+              <SpellParam name="chance" min="0.500000" max="0.610000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Damage">
+              <SpellParam name="chance" min="0.610000" max="0.720000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="86" name="anti_debuff" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Invulnerability">
+              <SpellParam name="chance" min="0.060000" max="0.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Invulnerability">
+              <SpellParam name="chance" min="0.200000" max="0.340000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Invulnerability">
+              <SpellParam name="chance" min="0.340000" max="0.480000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Invulnerability">
+              <SpellParam name="chance" min="0.480000" max="0.620000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Invulnerability">
+              <SpellParam name="chance" min="0.620000" max="0.760000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Invulnerability">
+              <SpellParam name="chance" min="0.760000" max="0.900000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="87" name="break_enemy_weapon" moduleType="16" classMask="-1" raceMask="-1" precision="5.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_BreakWeapon">
+              <SpellParam name="aura_param" min="150.000000" max="230.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_BreakWeapon">
+              <SpellParam name="aura_param" min="230.000000" max="310.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_BreakWeapon">
+              <SpellParam name="aura_param" min="310.000000" max="390.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_BreakWeapon">
+              <SpellParam name="aura_param" min="390.000000" max="470.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_BreakWeapon">
+              <SpellParam name="aura_param" min="470.000000" max="550.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_BreakWeapon">
+              <SpellParam name="aura_param" min="550.000000" max="630.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="88" name="turtle_shield" moduleBaseDefName="AG_Base_Percent_Speed_Slowdown" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="max_speed_percent" min="0.990000" max="0.950000" />
+          <SpellAction name="spell_on_max_speed_plus">
+            <Spell defName="Spell_AG_TurtleShield">
+              <SpellParam name="aura_param" min="75.000000" max="66.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="max_speed_percent" min="0.950000" max="0.910000" />
+          <SpellAction name="spell_on_max_speed_plus">
+            <Spell defName="Spell_AG_TurtleShield">
+              <SpellParam name="aura_param" min="66.000000" max="57.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="max_speed_percent" min="0.910000" max="0.870000" />
+          <SpellAction name="spell_on_max_speed_plus">
+            <Spell defName="Spell_AG_TurtleShield">
+              <SpellParam name="aura_param" min="57.000000" max="48.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="max_speed_percent" min="0.870000" max="0.830000" />
+          <SpellAction name="spell_on_max_speed_plus">
+            <Spell defName="Spell_AG_TurtleShield">
+              <SpellParam name="aura_param" min="48.000000" max="39.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="max_speed_percent" min="0.830000" max="0.790000" />
+          <SpellAction name="spell_on_max_speed_plus">
+            <Spell defName="Spell_AG_TurtleShield">
+              <SpellParam name="aura_param" min="39.000000" max="30.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_speed_percent" min="0.790000" max="0.750000" />
+          <SpellAction name="spell_on_max_speed_plus">
+            <Spell defName="Spell_AG_TurtleShield">
+              <SpellParam name="aura_param" min="30.000000" max="21.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="89" name="anti_shield" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistShieldDec">
+              <SpellParam name="aura_param" min="4.000000" max="11.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistShieldDec">
+              <SpellParam name="aura_param" min="11.000000" max="18.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistShieldDec">
+              <SpellParam name="aura_param" min="18.000000" max="25.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistShieldDec">
+              <SpellParam name="aura_param" min="25.000000" max="32.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistShieldDec">
+              <SpellParam name="aura_param" min="32.000000" max="39.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_ResistShieldDec">
+              <SpellParam name="aura_param" min="39.000000" max="46.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="90" name="gun_thunder" moduleBaseDefName="AG_Weapon_ThunderGun" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="damage_emp" min="250.000000" max="360.000000" />
+          <Modifier name="target_energy_cost" min="200.000000" max="175.000000" />
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="damage_emp" min="360.000000" max="470.000000" />
+          <Modifier name="target_energy_cost" min="175.000000" max="150.000000" />
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="damage_emp" min="470.000000" max="580.000000" />
+          <Modifier name="target_energy_cost" min="150.000000" max="125.000000" />
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="damage_emp" min="580.000000" max="690.000000" />
+          <Modifier name="target_energy_cost" min="125.000000" max="100.000000" />
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="damage_emp" min="690.000000" max="800.000000" />
+          <Modifier name="target_energy_cost" min="100.000000" max="75.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_emp" min="800.000000" max="910.000000" />
+          <Modifier name="target_energy_cost" min="75.000000" max="50.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="91" name="energy_steal" moduleBaseDefName="AG_Base_OnShotWithCooldown_NoHack" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="15.000000" max="13.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_EnergyVampire">
+              <SpellParam name="influence_param" min="35.000000" max="47.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="13.000000" max="11.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_EnergyVampire">
+              <SpellParam name="influence_param" min="47.000000" max="59.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="11.000000" max="9.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_EnergyVampire">
+              <SpellParam name="influence_param" min="59.000000" max="71.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="9.000000" max="7.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_EnergyVampire">
+              <SpellParam name="influence_param" min="71.000000" max="83.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="7.000000" max="5.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_EnergyVampire">
+              <SpellParam name="influence_param" min="83.000000" max="95.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="5.000000" max="3.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_EnergyVampire">
+              <SpellParam name="influence_param" min="95.000000" max="107.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="92" name="shield_vampire" moduleBaseDefName="AG_Base_Percent_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="max_shield_percent" min="0.100000" max="0.150000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_ShieldVampire">
+              <SpellParam name="aura_param" min="50.000000" max="85.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="max_shield_percent" min="0.150000" max="0.200000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_ShieldVampire">
+              <SpellParam name="aura_param" min="85.000000" max="120.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="max_shield_percent" min="0.200000" max="0.250000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_ShieldVampire">
+              <SpellParam name="aura_param" min="120.000000" max="155.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="max_shield_percent" min="0.250000" max="0.300000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_ShieldVampire">
+              <SpellParam name="aura_param" min="155.000000" max="190.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="max_shield_percent" min="0.300000" max="0.350000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_ShieldVampire">
+              <SpellParam name="aura_param" min="190.000000" max="225.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_shield_percent" min="0.350000" max="0.400000" />
+          <SpellAction name="spell_on_max_shield_minus">
+            <Spell defName="Spell_AG_ShieldVampire">
+              <SpellParam name="aura_param" min="225.000000" max="260.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="93" name="ghost_shield" moduleBaseDefName="AG_Base_Disabled_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.100000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="140.000000" max="132.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_GhostShield">
+              <SpellParam name="duration" min="1.000000" max="3.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="cooldown" min="132.000000" max="124.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_GhostShield">
+              <SpellParam name="duration" min="3.500000" max="6.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="cooldown" min="124.000000" max="116.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_GhostShield">
+              <SpellParam name="duration" min="6.000000" max="8.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="cooldown" min="116.000000" max="108.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_GhostShield">
+              <SpellParam name="duration" min="8.500000" max="11.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="cooldown" min="108.000000" max="100.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_GhostShield">
+              <SpellParam name="duration" min="11.000000" max="13.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="100.000000" max="92.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_GhostShield">
+              <SpellParam name="duration" min="13.500000" max="16.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="94" name="gun_charged_rail" moduleBaseDefName="AG_Weapon_ChargedRail" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="damage_kinetic" min="400.000000" max="470.000000" />
+          <Modifier name="projectile_speed" min="300.000000" max="375.000000" />
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="damage_kinetic" min="470.000000" max="540.000000" />
+          <Modifier name="projectile_speed" min="375.000000" max="450.000000" />
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="damage_kinetic" min="540.000000" max="610.000000" />
+          <Modifier name="projectile_speed" min="450.000000" max="525.000000" />
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="damage_kinetic" min="610.000000" max="680.000000" />
+          <Modifier name="projectile_speed" min="525.000000" max="600.000000" />
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="damage_kinetic" min="680.000000" max="750.000000" />
+          <Modifier name="projectile_speed" min="600.000000" max="675.000000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="damage_kinetic" min="750.000000" max="820.000000" />
+          <Modifier name="projectile_speed" min="675.000000" max="750.000000" />
+        </Level>
+      </Affix>
+      <Affix affixId="95" name="dynamic_shield" moduleBaseDefName="AG_Base_Percent_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="max_shield_percent" min="0.990000" max="0.950000" />
+          <SpellAction name="spell_on_max_shield_plus">
+            <Spell defName="Spell_AG_DynamicShield">
+              <SpellParam name="aura_param" min="2.000000" max="8.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="max_shield_percent" min="0.950000" max="0.910000" />
+          <SpellAction name="spell_on_max_shield_plus">
+            <Spell defName="Spell_AG_DynamicShield">
+              <SpellParam name="aura_param" min="8.000000" max="14.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="max_shield_percent" min="0.910000" max="0.870000" />
+          <SpellAction name="spell_on_max_shield_plus">
+            <Spell defName="Spell_AG_DynamicShield">
+              <SpellParam name="aura_param" min="14.000000" max="20.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="max_shield_percent" min="0.870000" max="0.830000" />
+          <SpellAction name="spell_on_max_shield_plus">
+            <Spell defName="Spell_AG_DynamicShield">
+              <SpellParam name="aura_param" min="20.000000" max="26.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="max_shield_percent" min="0.830000" max="0.790000" />
+          <SpellAction name="spell_on_max_shield_plus">
+            <Spell defName="Spell_AG_DynamicShield">
+              <SpellParam name="aura_param" min="26.000000" max="32.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_shield_percent" min="0.790000" max="0.750000" />
+          <SpellAction name="spell_on_max_shield_plus">
+            <Spell defName="Spell_AG_DynamicShield">
+              <SpellParam name="aura_param" min="32.000000" max="38.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="96" name="damage_to_power" moduleBaseDefName="AG_Base_Mid_Health" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="200.000000" max="191.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToPower">
+              <SpellParam name="aura_param" min="350.000000" max="500.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="cooldown" min="191.000000" max="182.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToPower">
+              <SpellParam name="aura_param" min="500.000000" max="650.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="cooldown" min="182.000000" max="173.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToPower">
+              <SpellParam name="aura_param" min="650.000000" max="800.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="cooldown" min="173.000000" max="164.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToPower">
+              <SpellParam name="aura_param" min="800.000000" max="950.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="cooldown" min="164.000000" max="155.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToPower">
+              <SpellParam name="aura_param" min="950.000000" max="1100.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="155.000000" max="146.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToPower">
+              <SpellParam name="aura_param" min="1100.000000" max="1250.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="97" name="blackout_shield" moduleBaseDefName="AG_Base_Disabled_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="120.000000" max="110.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_Blackout_Shield">
+              <SpellParam name="target_range" min="40.000000" max="65.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="cooldown" min="110.000000" max="100.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_Blackout_Shield">
+              <SpellParam name="target_range" min="65.000000" max="90.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="cooldown" min="100.000000" max="90.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_Blackout_Shield">
+              <SpellParam name="target_range" min="90.000000" max="115.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="cooldown" min="90.000000" max="80.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_Blackout_Shield">
+              <SpellParam name="target_range" min="115.000000" max="140.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="cooldown" min="80.000000" max="70.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_Blackout_Shield">
+              <SpellParam name="target_range" min="140.000000" max="165.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="70.000000" max="60.000000" />
+          <SpellAction name="shield_disabled_spell">
+            <Spell defName="Spell_AG_Blackout_Shield">
+              <SpellParam name="target_range" min="165.000000" max="190.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="98" name="collision_immune_shield" moduleBaseDefName="AG_Base_Collision_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="max_shield_percent" min="0.990000" max="0.870000" />
+        </Level>
+        <Level rank="9" index="1">
+          <Modifier name="max_shield_percent" min="0.870000" max="0.750000" />
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="max_shield_percent" min="0.750000" max="0.630000" />
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="max_shield_percent" min="0.630000" max="0.510000" />
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="max_shield_percent" min="0.510000" max="0.390000" />
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_shield_percent" min="0.390000" max="0.270000" />
+        </Level>
+      </Affix>
+      <Affix affixId="99" name="shield_on_enemy_kill" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Shield">
+              <SpellParam name="chance" min="0.060000" max="0.170000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Shield">
+              <SpellParam name="chance" min="0.170000" max="0.280000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Shield">
+              <SpellParam name="chance" min="0.280000" max="0.390000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="3">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Shield">
+              <SpellParam name="chance" min="0.390000" max="0.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="4">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Shield">
+              <SpellParam name="chance" min="0.500000" max="0.610000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="5">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Shield">
+              <SpellParam name="chance" min="0.610000" max="0.720000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="100" name="slow_shield" moduleBaseDefName="AG_Base_Percent_Speed" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="max_speed_percent" min="0.050000" max="0.090000" />
+          <SpellAction name="spell_on_max_speed_minus">
+            <Spell defName="Spell_AG_SlowShield">
+              <SpellParam name="aura_param" min="5.000000" max="10.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="max_speed_percent" min="0.090000" max="0.130000" />
+          <SpellAction name="spell_on_max_speed_minus">
+            <Spell defName="Spell_AG_SlowShield">
+              <SpellParam name="aura_param" min="10.000000" max="15.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="max_speed_percent" min="0.130000" max="0.170000" />
+          <SpellAction name="spell_on_max_speed_minus">
+            <Spell defName="Spell_AG_SlowShield">
+              <SpellParam name="aura_param" min="15.000000" max="20.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="max_speed_percent" min="0.170000" max="0.210000" />
+          <SpellAction name="spell_on_max_speed_minus">
+            <Spell defName="Spell_AG_SlowShield">
+              <SpellParam name="aura_param" min="20.000000" max="25.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="max_speed_percent" min="0.210000" max="0.250000" />
+          <SpellAction name="spell_on_max_speed_minus">
+            <Spell defName="Spell_AG_SlowShield">
+              <SpellParam name="aura_param" min="25.000000" max="30.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="max_speed_percent" min="0.250000" max="0.290000" />
+          <SpellAction name="spell_on_max_speed_minus">
+            <Spell defName="Spell_AG_SlowShield">
+              <SpellParam name="aura_param" min="30.000000" max="35.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="101" name="spike_ram" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpikeRam">
+              <SpellParam name="aura_param" min="0.800000" max="2.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpikeRam">
+              <SpellParam name="aura_param" min="2.000000" max="3.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpikeRam">
+              <SpellParam name="aura_param" min="3.200000" max="4.400000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="3">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpikeRam">
+              <SpellParam name="aura_param" min="4.400000" max="5.600000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="4">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpikeRam">
+              <SpellParam name="aura_param" min="5.600000" max="6.800000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="5">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpikeRam">
+              <SpellParam name="aura_param" min="6.800000" max="8.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="102" name="low_damage" moduleBaseDefName="AG_Base_OnShotWithCooldown" moduleType="16" classMask="-1" raceMask="-1" precision="0.100000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="15.000000" max="13.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_DamageDec">
+              <SpellParam name="aura_param" min="0.070000" max="0.320000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="13.000000" max="11.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_DamageDec">
+              <SpellParam name="aura_param" min="0.320000" max="0.570000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="11.000000" max="9.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_DamageDec">
+              <SpellParam name="aura_param" min="0.570000" max="0.820000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="9.000000" max="7.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_DamageDec">
+              <SpellParam name="aura_param" min="0.820000" max="1.070000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="7.000000" max="5.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_DamageDec">
+              <SpellParam name="aura_param" min="1.070000" max="1.320000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="5.000000" max="3.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_DamageDec">
+              <SpellParam name="aura_param" min="1.320000" max="1.570000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="103" name="spike_shield" moduleBaseDefName="AG_Base_OnDamage_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="charge_damage" min="9000.000000" max="8140.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_SpikeShield">
+              <SpellParam name="aura_param" min="500.000000" max="950.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="charge_damage" min="8140.000000" max="7280.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_SpikeShield">
+              <SpellParam name="aura_param" min="950.000000" max="1400.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="charge_damage" min="7280.000000" max="6420.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_SpikeShield">
+              <SpellParam name="aura_param" min="1400.000000" max="1850.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="charge_damage" min="6420.000000" max="5560.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_SpikeShield">
+              <SpellParam name="aura_param" min="1850.000000" max="2300.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="charge_damage" min="5560.000000" max="4700.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_SpikeShield">
+              <SpellParam name="aura_param" min="2300.000000" max="2750.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="charge_damage" min="4700.000000" max="3840.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_SpikeShield">
+              <SpellParam name="aura_param" min="2750.000000" max="3200.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="104" name="set_on_fire" moduleBaseDefName="AG_Base_OnShotWithCooldown" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="25.000000" max="23.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnFire">
+              <SpellParam name="aura_param" min="125.000000" max="185.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="23.000000" max="21.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnFire">
+              <SpellParam name="aura_param" min="185.000000" max="245.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="21.000000" max="19.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnFire">
+              <SpellParam name="aura_param" min="245.000000" max="305.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="19.000000" max="17.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnFire">
+              <SpellParam name="aura_param" min="305.000000" max="365.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="17.000000" max="15.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnFire">
+              <SpellParam name="aura_param" min="365.000000" max="425.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="15.000000" max="13.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnFire">
+              <SpellParam name="aura_param" min="425.000000" max="485.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="105" name="unstable_shield" moduleBaseDefName="AG_Base_OnDamage_Shield" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="charge_damage" min="9000.000000" max="8140.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_ShieldExplosion">
+              <SpellParam name="chance" min="0.050000" max="0.090000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <Modifier name="charge_damage" min="8140.000000" max="7280.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_ShieldExplosion">
+              <SpellParam name="chance" min="0.090000" max="0.130000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="charge_damage" min="7280.000000" max="6420.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_ShieldExplosion">
+              <SpellParam name="chance" min="0.130000" max="0.170000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="charge_damage" min="6420.000000" max="5560.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_ShieldExplosion">
+              <SpellParam name="chance" min="0.170000" max="0.210000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="charge_damage" min="5560.000000" max="4700.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_ShieldExplosion">
+              <SpellParam name="chance" min="0.210000" max="0.250000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="charge_damage" min="4700.000000" max="3840.000000" />
+          <SpellAction name="charge_spell_on_damage">
+            <Spell defName="Spell_AG_ShieldExplosion">
+              <SpellParam name="chance" min="0.250000" max="0.290000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="106" name="gun_impulse" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Impulse">
+              <SpellParam name="influence_param" min="-10.000000" max="-15.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Impulse">
+              <SpellParam name="influence_param" min="-15.000000" max="-20.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Impulse">
+              <SpellParam name="influence_param" min="-20.000000" max="-25.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="3">
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Impulse">
+              <SpellParam name="influence_param" min="-25.000000" max="-30.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="4">
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Impulse">
+              <SpellParam name="influence_param" min="-30.000000" max="-35.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="5">
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Impulse">
+              <SpellParam name="influence_param" min="-35.000000" max="-40.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="107" name="flying_heal_on_enemy_death" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_HealBonusOnKill">
+              <SpellParam name="aura_range" min="50.000000" max="108.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_HealBonusOnKill">
+              <SpellParam name="aura_range" min="108.000000" max="166.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_HealBonusOnKill">
+              <SpellParam name="aura_range" min="166.000000" max="224.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_HealBonusOnKill">
+              <SpellParam name="aura_range" min="224.000000" max="282.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_HealBonusOnKill">
+              <SpellParam name="aura_range" min="282.000000" max="340.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_equip">
+            <Spell defName="Spell_AG_HealBonusOnKill">
+              <SpellParam name="aura_range" min="340.000000" max="398.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="108" name="freeze_gun" moduleBaseDefName="AG_Base_OnShotWithCooldown" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="15.000000" max="13.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Freeze">
+              <SpellParam name="aura_param" min="0.070000" max="0.320000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="13.000000" max="11.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Freeze">
+              <SpellParam name="aura_param" min="0.320000" max="0.570000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="11.000000" max="9.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Freeze">
+              <SpellParam name="aura_param" min="0.570000" max="0.820000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="9.000000" max="7.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Freeze">
+              <SpellParam name="aura_param" min="0.820000" max="1.070000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="7.000000" max="5.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Freeze">
+              <SpellParam name="aura_param" min="1.070000" max="1.320000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="5.000000" max="3.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Freeze">
+              <SpellParam name="aura_param" min="1.320000" max="1.570000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="109" name="firerate_on_kill" moduleType="16" classMask="-1" raceMask="-1" precision="0.050000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_FireRate">
+              <SpellParam name="chance" min="0.060000" max="0.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_FireRate">
+              <SpellParam name="chance" min="0.200000" max="0.340000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_FireRate">
+              <SpellParam name="chance" min="0.340000" max="0.480000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_FireRate">
+              <SpellParam name="chance" min="0.480000" max="0.620000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_FireRate">
+              <SpellParam name="chance" min="0.620000" max="0.760000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_FireRate">
+              <SpellParam name="chance" min="0.760000" max="0.900000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="110" name="heal_by_damage_kinetic" moduleBaseDefName="AG_Base_Low_Health" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="80.000000" max="72.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Kinetic">
+              <SpellParam name="duration" min="3.000000" max="5.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <Modifier name="cooldown" min="72.000000" max="64.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Kinetic">
+              <SpellParam name="duration" min="5.500000" max="8.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="cooldown" min="64.000000" max="56.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Kinetic">
+              <SpellParam name="duration" min="8.000000" max="10.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="cooldown" min="56.000000" max="48.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Kinetic">
+              <SpellParam name="duration" min="10.500000" max="13.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="cooldown" min="48.000000" max="40.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Kinetic">
+              <SpellParam name="duration" min="13.000000" max="15.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="40.000000" max="32.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Kinetic">
+              <SpellParam name="duration" min="15.500000" max="18.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="111" name="aim_on_kill" moduleType="16" classMask="-1" raceMask="-1" precision="0.050000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_AimDeath">
+              <SpellParam name="chance" min="0.060000" max="0.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_AimDeath">
+              <SpellParam name="chance" min="0.200000" max="0.340000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_AimDeath">
+              <SpellParam name="chance" min="0.340000" max="0.480000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_AimDeath">
+              <SpellParam name="chance" min="0.480000" max="0.620000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_AimDeath">
+              <SpellParam name="chance" min="0.620000" max="0.760000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_AimDeath">
+              <SpellParam name="chance" min="0.760000" max="0.900000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="112" name="detonate_ammo" moduleType="16" classMask="-1" raceMask="-1" precision="0.050000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Detonate">
+              <SpellParam name="chance" min="0.060000" max="0.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Detonate">
+              <SpellParam name="chance" min="0.200000" max="0.340000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Detonate">
+              <SpellParam name="chance" min="0.340000" max="0.480000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Detonate">
+              <SpellParam name="chance" min="0.480000" max="0.620000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Detonate">
+              <SpellParam name="chance" min="0.620000" max="0.760000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_Detonate">
+              <SpellParam name="chance" min="0.760000" max="0.900000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="113" name="heal_on_enemy_kill" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Heal">
+              <SpellParam name="chance" min="0.060000" max="0.170000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="8" index="1">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Heal">
+              <SpellParam name="chance" min="0.170000" max="0.280000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="2">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Heal">
+              <SpellParam name="chance" min="0.280000" max="0.390000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="3">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Heal">
+              <SpellParam name="chance" min="0.390000" max="0.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="4">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Heal">
+              <SpellParam name="chance" min="0.500000" max="0.610000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="5">
+          <SpellAction name="spell_on_kill">
+            <Spell defName="Spell_AG_SpawnBonus_Heal">
+              <SpellParam name="chance" min="0.610000" max="0.720000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="114" name="set_on_emp_fire" moduleBaseDefName="AG_Base_OnShotWithCooldown" moduleType="16" classMask="-1" raceMask="-1" precision="1.000000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="25.000000" max="23.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnEmpFire">
+              <SpellParam name="aura_param" min="125.000000" max="185.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="10" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="23.000000" max="21.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnEmpFire">
+              <SpellParam name="aura_param" min="185.000000" max="245.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="12" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="21.000000" max="19.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnEmpFire">
+              <SpellParam name="aura_param" min="245.000000" max="305.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="19.000000" max="17.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnEmpFire">
+              <SpellParam name="aura_param" min="305.000000" max="365.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="16" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="17.000000" max="15.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnEmpFire">
+              <SpellParam name="aura_param" min="365.000000" max="425.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="15.000000" max="13.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_SetOnEmpFire">
+              <SpellParam name="aura_param" min="425.000000" max="485.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="115" name="dispersion_dec_on_kill" moduleType="16" classMask="-1" raceMask="-1" precision="0.050000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_DispersionDec">
+              <SpellParam name="chance" min="0.060000" max="0.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_DispersionDec">
+              <SpellParam name="chance" min="0.200000" max="0.340000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_DispersionDec">
+              <SpellParam name="chance" min="0.340000" max="0.480000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_DispersionDec">
+              <SpellParam name="chance" min="0.480000" max="0.620000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_DispersionDec">
+              <SpellParam name="chance" min="0.620000" max="0.760000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_kill">
+            <Spell defName="Spell_AG_DispersionDec">
+              <SpellParam name="chance" min="0.760000" max="0.900000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="116" name="blastwave_thermal" moduleBaseDefName="AG_Base_OnShotWithCooldown" moduleType="16" classMask="-1" raceMask="-1" precision="0.050000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="spell_on_weapon_hit_timeout" min="12.000000" max="10.500000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Blastwave_Thermal">
+              <SpellParam name="influence_param" min="1.000000" max="3.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <Modifier name="spell_on_weapon_hit_timeout" min="10.500000" max="9.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Blastwave_Thermal">
+              <SpellParam name="influence_param" min="3.000000" max="5.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="spell_on_weapon_hit_timeout" min="9.000000" max="7.500000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Blastwave_Thermal">
+              <SpellParam name="influence_param" min="5.000000" max="7.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="spell_on_weapon_hit_timeout" min="7.500000" max="6.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Blastwave_Thermal">
+              <SpellParam name="influence_param" min="7.000000" max="9.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="spell_on_weapon_hit_timeout" min="6.000000" max="4.500000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Blastwave_Thermal">
+              <SpellParam name="influence_param" min="9.000000" max="11.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="spell_on_weapon_hit_timeout" min="4.500000" max="3.000000" />
+          <SpellAction name="spell_on_weapon_hit">
+            <Spell defName="Spell_AG_Blastwave_Thermal">
+              <SpellParam name="influence_param" min="11.000000" max="13.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="117" name="stop_barrel_rotation" moduleType="16" classMask="-1" raceMask="-1" precision="0.010000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_StopBarrelRot">
+              <SpellParam name="chance" min="0.060000" max="0.200000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_StopBarrelRot">
+              <SpellParam name="chance" min="0.200000" max="0.340000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_StopBarrelRot">
+              <SpellParam name="chance" min="0.340000" max="0.480000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_StopBarrelRot">
+              <SpellParam name="chance" min="0.480000" max="0.620000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_StopBarrelRot">
+              <SpellParam name="chance" min="0.620000" max="0.760000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <SpellAction name="spell_on_weapon_crit">
+            <Spell defName="Spell_AG_StopBarrelRot">
+              <SpellParam name="chance" min="0.760000" max="0.900000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+      <Affix affixId="118" name="heal_by_damage_thermal" moduleBaseDefName="AG_Base_Low_Health" moduleType="16" classMask="-1" raceMask="-1" precision="0.500000" cost_coef ="1.000000">
+        <Level rank="7" index="0">
+          <Modifier name="cooldown" min="80.000000" max="72.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Thermal">
+              <SpellParam name="duration" min="3.000000" max="5.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="9" index="1">
+          <Modifier name="cooldown" min="72.000000" max="64.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Thermal">
+              <SpellParam name="duration" min="5.500000" max="8.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="11" index="2">
+          <Modifier name="cooldown" min="64.000000" max="56.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Thermal">
+              <SpellParam name="duration" min="8.000000" max="10.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="13" index="3">
+          <Modifier name="cooldown" min="56.000000" max="48.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Thermal">
+              <SpellParam name="duration" min="10.500000" max="13.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="15" index="4">
+          <Modifier name="cooldown" min="48.000000" max="40.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Thermal">
+              <SpellParam name="duration" min="13.000000" max="15.500000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+        <Level rank="17" index="5">
+          <Modifier name="cooldown" min="40.000000" max="32.000000" />
+          <SpellAction name="spell_on_max_health_minus">
+            <Spell defName="Spell_AG_DamageToHeal_Thermal">
+              <SpellParam name="duration" min="15.500000" max="18.000000" />
+            </Spell>
+          </SpellAction>
+        </Level>
+      </Affix>
+    </AffixGroup>
+  </Affixes>
+</Autogen>

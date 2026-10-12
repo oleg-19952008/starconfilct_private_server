@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<StarterPack credits="0" goldCredits="0" tokenCredits="0">
+  <Vessel defName="Ship_Race1_M_T1" put_in_battle_slot="1" />
+</StarterPack>

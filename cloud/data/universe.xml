@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Universe conflictDurationTime="50" civilianZoneCost="1000" civilianZoneDuration="43200" moveCoefFar="95.00" moveCoefClose="45.00">
+  <NewYearStages>
+    <Stage idx="0" day="0" />
+    <Stage idx="1" day="7" />
+    <Stage idx="2" day="11" />
+    <Stage idx="3" day="13" />
+    <Stage idx="4" day="17" />
+    <Stage idx="5" day="22" />
+    <Stage idx="6" day="27" />
+  </NewYearStages>
+</Universe>

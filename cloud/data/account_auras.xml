@@ -1,0 +1,1308 @@
+<?xml version="1.0"?>
+<AccountAuras aurasNum="397">
+  <AccountAura defName="Brawl_Oreon_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Oreon_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Event_credits_discount_50_2" category="0" durationInHours="3" isResetBundleContent="1" strParam="Bundle_NY2017_T1_Exchange_sale_2">
+    <NumericalParams gold_credits_mul="-0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutAbility_1_T5_Active" category="0" durationInHours="3" strParam="Bundle_GreenScoutAbility_1_T5" />
+  <AccountAura defName="Brawl_Temple_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Temple_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="GrimCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="AsteroidPremiumLoot10" category="0" durationInHours="240" isProlongable="1" />
+  <AccountAura defName="YithMor90Creds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Gold_bonus_test" category="9" durationInHours="18">
+    <NumericalParams gold_credits_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin10_7" category="0" durationInHours="24" strParam="Bundle_Tin10_7">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="GoldShipForFree2" category="0" durationInHours="72">
+    <AltDiscountDef defName="Ship_Race1_S_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T3_PremUniq" />
+    <AltDiscountDef defName="Ship_Race1_M_T4_Steam" />
+    <AltDiscountDef defName="Ship_Race1_S_T3_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_L_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T4_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_M_T4_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_M_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race2_M_T3_Steam" />
+    <AltDiscountDef defName="Ship_Race1_M_T3_Steam" />
+    <AltDiscountDef defName="Ship_Race2_L_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race1_S_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race1_M_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race1_L_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race2_S_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race2_M_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race2_L_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race3_S_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race3_M_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race3_L_T4_Glass" />
+    <AltDiscountDef defName="Bundle_GoldShips_Monocrystals2" />
+    <AltDiscountDef defName="Bundle_GoldShips_AliensShipParts2" />
+    <AltDiscountDef defName="Ship_Race1_S_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race1_M_T1_Dlc" />
+    <AltDiscountDef defName="Ship_Race1_M_T3_Dlc" />
+    <AltDiscountDef defName="Ship_Race1_M_T2_Pirate" />
+    <AltDiscountDef defName="Ship_Race1_L_T3_Pirate" />
+    <AltDiscountDef defName="Ship_Race3_S_T1_Dlc" />
+    <AltDiscountDef defName="Ship_Race3_S_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race3_S_T3_Dlc" />
+    <AltDiscountDef defName="Ship_Race3_M_T2_Pirate" />
+    <AltDiscountDef defName="Ship_Race3_L_T4_Snow" />
+    <AltDiscountDef defName="Ship_Race2_S_T3_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_L_T3_Dlc" />
+    <AltDiscountDef defName="Ship_Race2_L_T5_Steam" />
+    <AltDiscountDef defName="Ship_Race2_S_T5_Doctor" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="sticker_SantaPirat_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_SantaPirat_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Oreon_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Oreon_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Steamer_2" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" experience_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="NewYear2017_ShieldResist" category="0" durationInHours="1" isProlongable="1">
+    <NumericalParams shield_resist_thermal_add="10.000" shield_resist_emp_add="10.000" shield_resist_kinetic_add="10.000" />
+  </AccountAura>
+  <AccountAura defName="SummerCredits15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Miningstation_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Miningstation_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Pvp_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Pvp_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP22_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP22_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="sticker_Gifts_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_Gifts_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_03" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_03" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DragThir90Creds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="CarolingianCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Haloween22_Hunter_Revard" category="0" durationInHours="36">
+    <AltDiscountDef defName="Bundle_Haloween22_Hunter_Revard" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BaphometCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="DragThirCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_07" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_07" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP17_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP17_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_ScrapAttractor_T5_Discount" category="0" durationInHours="3" strParam="Bundle_Iridium_ScrapAttractor_T5" />
+  <AccountAura defName="BattlePass_AditionalCell_SUM2026" category="0" durationInHours="2160" onlyForBattlePass="1" />
+  <AccountAura defName="Brawl_Encounter_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Encounter_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP20_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP20_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Equipment_Parts_Visible" category="0" />
+  <AccountAura defName="Drug_RepBoost15wide" category="3" durationInCounters="5" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin10_3" category="0" durationInHours="24" strParam="Bundle_Tin10_3">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_05" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_05" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Seven_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Seven_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_LootAssuranceWinLose" category="3" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="2.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Temple_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Temple_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_2" category="0" durationInHours="744" />
+  <AccountAura defName="Elite_Donater_BP19_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP19_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="CorLegibusCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_StarterPack_Offer_T3_chest" category="0" durationInHours="48" isResetBundleContent="1" strParam="Bundle_StarterPack_Offer_T3_chest_real">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NewYear_2021_2" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_2">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_RepBoost15" category="3" durationInCounters="5" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_3" category="0" durationInHours="24" strParam="Bundle_OWFest_24_3">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_1" category="0" durationInHours="768" />
+  <AccountAura defName="BattlePassCredits30" category="0" durationInCounters="30" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="BattlePassExp15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="NewGround_End" category="0">
+    <AltDiscountDef defName="Bundle_NewGround_End" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tokens_Dart_T4_Active" category="0" durationInHours="3" strParam="Bundle_Tokens_Dart_T4" />
+  <AccountAura defName="TreasureMap_2" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_Speed" category="4" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams max_speed_mul="0.050" />
+  </AccountAura>
+  <AccountAura defName="NewYearLootAttempts15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="1.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_1Rev" category="0" durationInHours="240" strParam="Bundle_A25FOR30_1Rev">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="SeeressCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Halloween_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Halloween_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Daily_Pvp_open" category="0" durationInHours="18" strParam="Bundle_Daily_Pvp" />
+  <AccountAura defName="Gold_bonus_offer_50" category="9" durationInHours="48">
+    <NumericalParams gold_credits_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Halloween_2020_4" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_4">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Rank_9_builds_Sai" category="0" durationInHours="48" isResetBundleContent="1" strParam="Bundle_Sai_Build">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Daily_Pvp_2x" category="0" durationInCounters="1" durationCounterEvent="2" isGameplaySpecific="1" />
+  <AccountAura defName="Daily_Brawl_2x" category="0" durationInCounters="1" durationCounterEvent="2" isGameplaySpecific="1" />
+  <AccountAura defName="sticker_Rudolf_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_Rudolf_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="TreasureMap_6" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_6" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BoosterPack_Silver" category="0" durationInCounters="60" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="ShrikeCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Drug_Damage" category="4" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams damage_mul="0.050" />
+  </AccountAura>
+  <AccountAura defName="WeekyKnickers_Revard" category="0" strParam="Bundle_WeekyKnickers_Revard">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DLCCredExp120" category="0" durationInCounters="60" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Halloween_2020_5" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Parts_T2_Ghost_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Parts_T2_Ghost_Unique">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Haloween22_Witch_Revard" category="0" durationInHours="36">
+    <AltDiscountDef defName="Bundle_Haloween22_Witch_Revard" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP13_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP13_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_10" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_10" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Daily_Raid_open" category="0" durationInHours="18" strParam="Bundle_Daily_Raid" />
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_7_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_7" />
+  <AccountAura defName="Bundle_NewYear_2021_4" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_4">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NewYear_2021_6" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_6">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP14_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP14_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_7" category="0" durationInHours="24" strParam="Bundle_OWFest_24_7">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_TotalResist" category="4" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams hull_resist_kinetic_add="5.000" hull_resist_thermal_add="5.000" hull_resist_emp_add="5.000" shield_resist_thermal_add="5.000" shield_resist_kinetic_add="5.000" shield_resist_emp_add="5.000" />
+  </AccountAura>
+  <AccountAura defName="DailyCredits5" category="0" durationInHours="3">
+    <NumericalParams credits_reward_mul="0.050" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NEW2021YEAR_GUN_2" category="0" durationInHours="24" strParam="Bundle_NEW2021YEAR_GUN_2">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP15_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP15_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Parts_T3_Unique_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Parts_T3_Unique">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="CorpEconomyExp30" category="0" durationInCounters="30" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP12_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP12_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Rop2025_End" category="0">
+    <AltDiscountDef defName="Bundle_Rop2025_End" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Halloween_2020_7" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_7">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="SaiCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Brawl_MAZE_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_MAZE_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutAbility_v2_3_T5_Active" category="0" durationInHours="3" strParam="Bundle_GreenScoutAbility_v2_3_T5" />
+  <AccountAura defName="Drug_LootTry" category="3" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="2.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Halloween_2020_1" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_1">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="CinquedeaCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="ChaosCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="PalomCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP20_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP20_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Paper_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Paper_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_1" category="0" durationInHours="24" strParam="Bundle_Summer_2023_1">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DLCCredExp100" category="0" durationInCounters="100" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Drug_LootAssuranceWinLoseTry" category="3" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="2.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP18_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP18_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Daily_Brawl" category="0" durationInCounters="1" durationCounterEvent="3" isGameplaySpecific="1" />
+  <AccountAura defName="Elite_Donater_BP22_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP22_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="YithMorCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_5" category="0" durationInHours="24" strParam="Bundle_Summer_2023_5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="sticker_CristhmasTree_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_CristhmasTree_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP19_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP19_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DailyCredits25" category="0" durationInHours="3">
+    <NumericalParams credits_reward_mul="0.250" />
+  </AccountAura>
+  <AccountAura defName="Five_Days_Bundle_Discount" category="8" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Secret_Chest_T5">
+    <NumericalParams credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_Overload" category="4" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams max_speed_mul="0.030" damage_mul="0.040" />
+  </AccountAura>
+  <AccountAura defName="DragonflyCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Seven_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Seven_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="NewbieKingDvergr_Revard" category="0" strParam="Bundle_NewbieKingDvergr_Revard">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Brains_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Brains_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DailyCredits35" category="0" durationInHours="3">
+    <NumericalParams credits_reward_mul="0.350" />
+  </AccountAura>
+  <AccountAura defName="SalamanderCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="WaspCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_7" category="0" durationInHours="24" strParam="Bundle_Summer_2023_7">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="sticker_Sox_14_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_Sox_14_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Brains_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Brains_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutCabine_T2_Discount" category="0" durationInHours="3" strParam="Bundle_GreenScoutCabine_T2" />
+  <AccountAura defName="Brawl_Support_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Support_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="SaturnCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Palom_new_player" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_PalomMKII_details">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Oreon_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Oreon_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Eden_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Eden_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NewYear_2021_FINAL" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_Final">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Parts_T5_Karud_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Parts_T5_Karud_Unique">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_4" category="0" durationInHours="24" strParam="Bundle_OWFest_24_4">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="CookCannon_Rev" category="0" durationInHours="240" strParam="Bundle_CookCannon_Rev">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DailyCredits15" category="0" durationInHours="3">
+    <NumericalParams credits_reward_mul="0.150" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Rank8_SupressorPack_Offer_T3_chest" category="0" durationInHours="48" isResetBundleContent="1" strParam="Bundle_Rank8_SupressorPack_Offer_T3_chest_real">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="WeekyKnickers_ExpCred20x5" category="0" durationInCounters="20" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="4.000" credits_reward_mul="4.000" />
+  </AccountAura>
+  <AccountAura defName="ConfessorCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_09" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_09" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Temple_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Temple_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="PhoenixCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="TauKita90Creds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="LootAttempts15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="1.000" />
+  </AccountAura>
+  <AccountAura defName="Rank_9_builds_All" category="0" durationInHours="48" isResetBundleContent="1" strParam="Rank_9_builds_auras">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="ApeironCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="OWFestLootAttempts15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="1.000" />
+  </AccountAura>
+  <AccountAura defName="QTEST_1" category="0" durationInHours="8760" isProlongable="1" />
+  <AccountAura defName="AceCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_FINAL" category="0" durationInHours="24" strParam="Bundle_Summer_2023_Final">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_10Rev" category="0" durationInHours="240" strParam="Bundle_A25FOR30_10Rev">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_9Rev" category="0" durationInHours="240" strParam="Bundle_A25FOR30_9Rev">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DLCCredExp50_2" category="0" durationInCounters="50" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_8Rev" category="0" durationInHours="240" strParam="Bundle_A25FOR30_8Rev">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="NyxCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_2Rev" category="0" durationInHours="240" strParam="Bundle_A25FOR30_2Rev">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_RepBoost200" category="3" durationInCounters="6" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="2.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GiftsforSale_1april_day2_bundle" category="0" durationInHours="1" isResetBundleContent="1" strParam="Bundle_GiftsforSale_1april_day2_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="ZeTa_Revard" category="0" strParam="Bundle_ZeTa_Revard">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Pvp_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Pvp_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Ariadna" category="0" durationInHours="24" strParam="Bundle_Ariadna">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="NewYear2017_Speed" category="0" durationInHours="1" isProlongable="1">
+    <NumericalParams max_speed_mul="0.050" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_10" category="0" durationInHours="336" />
+  <AccountAura defName="A25FOR30_9" category="0" durationInHours="360" />
+  <AccountAura defName="Steamer_3" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" experience_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_3" category="0" durationInHours="720" />
+  <AccountAura defName="Drug_RepBoost200_10" category="3" durationInCounters="12" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="2.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NewYear_2021_1" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_1">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="HadrianCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Encounter_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Encounter_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_RailVolcano_T2_Active" category="0" durationInHours="3" strParam="Bundle_RailVolcano_T2" />
+  <AccountAura defName="Bundle_Iridium_Overseer_T4_1_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T4_1" />
+  <AccountAura defName="NewbieKnickers_8Rev" category="0" durationInHours="192" />
+  <AccountAura defName="NewbieKnickers_8" category="0" durationInHours="24" strParam="Bundle_NewbieKnickers_8">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="NewbieKnickers_Start" category="0" durationInHours="240" strParam="Bundle_NewbieKnickers_Start">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="NewbieHarpy_Revard" category="0" strParam="Bundle_NewbieHarpy_Revard">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tokens_Spiral_T4_Active" category="0" durationInHours="3" strParam="Bundle_Tokens_Spiral_T4" />
+  <AccountAura defName="NewYearCredits15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Aura_Rop2025_Witness" category="0">
+    <AltDiscountDef defName="Bundle_Rop2025_Witness" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="PilumCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin10_6" category="0" durationInHours="24" strParam="Bundle_Tin10_6">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Encounter_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Encounter_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BarkCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="AmberCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="HiddenSeekerCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="HellasCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Miningstation_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Miningstation_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BattlePassCredits20" category="0" durationInCounters="20" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Rank_9_builds_Styx" category="0" durationInHours="48" isResetBundleContent="1" strParam="Bundle_Styx_Build">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_ChinaNY_2025" category="0" durationInHours="24" strParam="Bundle_ChinaNY_2025">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BasheCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="PerseiCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_04" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_04" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="PsiloiCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="DailySynergy5" category="0" durationInHours="3">
+    <NumericalParams experience_reward_mul="0.050" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin11_FINAL" category="0" durationInHours="24" strParam="Bundle_Tin11_Final">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_06" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_06" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Halloween_2020_2" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_2">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutAbility_v2_1_T5_Active" category="0" durationInHours="3" strParam="Bundle_GreenScoutAbility_v2_1_T5" />
+  <AccountAura defName="Destroyer_Of_Mercy_Revard" category="0" strParam="Bundle_Destroyer_Of_Mercy_Revard">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_5_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_5" />
+  <AccountAura defName="Aura_Rop2025_Contemplator" category="0">
+    <AltDiscountDef defName="Bundle_Rop2025_Contemplator" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin10_5" category="0" durationInHours="24" strParam="Bundle_Tin10_5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NewYear_2021_3" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_3">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin10_4" category="0" durationInHours="24" strParam="Bundle_Tin10_4">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_2" category="0" durationInHours="24" strParam="Bundle_OWFest_24_2">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin10_1" category="0" durationInHours="24" strParam="Bundle_Tin10_1">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GiftsforSale_1april_day1_bundle" category="0" durationInHours="1" isResetBundleContent="1" strParam="Bundle_GiftsforSale_1april_day1_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_ExpBoost15" category="3" durationInCounters="5" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.200" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Seven_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Seven_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BattlePassCredits15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="OWFestCredits15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="BloodTormentorCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="BattlePassCreditsExp30" category="0" durationInCounters="30" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest11_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest11">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_1" category="0" durationInHours="24" strParam="Bundle_OWFest_24_1">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BattlePassExp20" category="0" durationInCounters="20" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_FINAL" category="0" durationInHours="24" strParam="Bundle_OWFest_24_Final">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_8_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_8" />
+  <AccountAura defName="DailySynergy15" category="0" durationInHours="3">
+    <NumericalParams experience_reward_mul="0.150" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_5" category="0" durationInHours="24" strParam="Bundle_OWFest_24_5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tin10_2" category="0" durationInHours="24" strParam="Bundle_Tin10_2">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="OWFestExp15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="TreasureMap_3" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Support_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Support_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Daily_Coop" category="0" durationInCounters="1" durationCounterEvent="3" isGameplaySpecific="1" />
+  <AccountAura defName="NEWBIE" category="1" durationInCounters="600" durationCounterEvent="2" isGameplaySpecific="1">
+    <NumericalParams rocket_damage_coef_mul="0.300" damage_mul="0.300" hull_resist_kinetic_add="25.000" hull_resist_thermal_add="25.000" hull_resist_emp_add="25.000" shield_resist_kinetic_add="25.000" shield_resist_thermal_add="25.000" shield_resist_emp_add="25.000" />
+  </AccountAura>
+  <AccountAura defName="Gold_bonus_25" category="9" durationInHours="24">
+    <NumericalParams gold_credits_mul="0.250" />
+  </AccountAura>
+  <AccountAura defName="CorVulnusCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Parts_T1_Palom_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Parts_T1_Palom_Unique">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="ProcyonCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="BattlePassExp30" category="0" durationInCounters="30" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="ManulCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="LokiCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Tin10Exp15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="LazyRaiderCreds" category="0" durationInHours="720" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="MaulerCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="SiriusCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="NewbieKnickers_Revard" category="0" strParam="Bundle_NewbieKnickers_Revard">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Miningstation_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Miningstation_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_EggRoller2026" category="0">
+    <AltDiscountDef defName="Bundle_EggRoller2026" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP23_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP23_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Halloween_2020_3" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_3">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP23_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP23_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Rank_9_builds_NukemI" category="0" durationInHours="48" isResetBundleContent="1" strParam="Bundle_NukemI_Build">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP21_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP21_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Event_credits_discount_50" category="0" durationInHours="3" isResetBundleContent="1" strParam="Bundle_NY2017_T1_Exchange_sale">
+    <NumericalParams gold_credits_mul="-0.500" />
+  </AccountAura>
+  <AccountAura defName="CultisticTitle" category="0" durationInHours="168">
+    <AltDiscountDef defName="Bundle_CultisticTitle" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP21_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP21_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DailySynergy35" category="0" durationInHours="3">
+    <NumericalParams experience_reward_mul="0.350" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP18_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP18_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP17_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP17_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP16_2" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP16_2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP16_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP16_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Halloween_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Halloween_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="GoldShipForFree" category="0" durationInHours="72">
+    <AltDiscountDef defName="Ship_Race1_S_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race1_S_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race1_M_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race1_L_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race2_M_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T2_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T3_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T4_Premium" />
+    <AltDiscountDef defName="Ship_Race3_S_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race3_M_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race3_L_T5_Premium" />
+    <AltDiscountDef defName="Ship_Race2_L_T3_PremUniq" />
+    <AltDiscountDef defName="Ship_Race1_M_T4_Steam" />
+    <AltDiscountDef defName="Ship_Race1_S_T3_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_L_T1_Premium" />
+    <AltDiscountDef defName="Ship_Race2_S_T4_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_M_T4_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_M_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race2_M_T3_Steam" />
+    <AltDiscountDef defName="Ship_Race1_M_T3_Steam" />
+    <AltDiscountDef defName="Ship_Race2_L_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race1_S_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race1_M_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race1_L_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race2_S_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race2_M_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race2_L_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race3_S_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race3_M_T4_Glass" />
+    <AltDiscountDef defName="Ship_Race3_L_T4_Glass" />
+    <AltDiscountDef defName="Bundle_GoldShips_Monocrystals" />
+    <AltDiscountDef defName="Bundle_GoldShips_AliensShipParts" />
+    <AltDiscountDef defName="Ship_Race1_S_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race1_M_T1_Dlc" />
+    <AltDiscountDef defName="Ship_Race1_M_T3_Dlc" />
+    <AltDiscountDef defName="Ship_Race1_M_T2_Pirate" />
+    <AltDiscountDef defName="Ship_Race1_L_T3_Pirate" />
+    <AltDiscountDef defName="Ship_Race3_S_T1_Dlc" />
+    <AltDiscountDef defName="Ship_Race3_S_T2_Steam" />
+    <AltDiscountDef defName="Ship_Race3_S_T3_Dlc" />
+    <AltDiscountDef defName="Ship_Race3_M_T2_Pirate" />
+    <AltDiscountDef defName="Ship_Race3_L_T4_Snow" />
+    <AltDiscountDef defName="Ship_Race2_S_T3_Pirate" />
+    <AltDiscountDef defName="Ship_Race2_L_T3_Dlc" />
+    <AltDiscountDef defName="Ship_Race2_L_T5_Steam" />
+    <AltDiscountDef defName="Ship_Race2_S_T5_Doctor" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Exp50x15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Pirate_1" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP13_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP13_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="SummerLootAttempts15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="1.000" />
+  </AccountAura>
+  <AccountAura defName="SummerExp15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_6" category="0" durationInHours="24" strParam="Bundle_Summer_2023_6">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DailySynergy25" category="0" durationInHours="3">
+    <NumericalParams experience_reward_mul="0.250" />
+  </AccountAura>
+  <AccountAura defName="BattlePass_EventCred50_NY23" category="0" durationInHours="2160" onlyForBattlePass="1">
+    <NumericalParams imaginary_reward_mul="1.000" />
+  </AccountAura>
+  <AccountAura defName="BoosterPack_Gold" category="0" durationInCounters="60" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Gold_bonus_offer_25" category="9" durationInHours="48">
+    <NumericalParams gold_credits_mul="0.250" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NEW2021YEAR_GUN_3" category="0" durationInHours="24" strParam="Bundle_NEW2021YEAR_GUN_3">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Daily_Coop_2x" category="0" durationInCounters="1" durationCounterEvent="2" isGameplaySpecific="1" />
+  <AccountAura defName="Parts_T2_KiteE_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Parts_T2_KiteE_Unique">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_3" category="0" durationInHours="24" strParam="Bundle_Summer_2023_3">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NewYear_2021_5" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_RailVolcano_T5_Active" category="0" durationInHours="3" strParam="Bundle_RailVolcano_T5" />
+  <AccountAura defName="Brawl_Support_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Support_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="VigilantCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Halloween_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Halloween_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Daily_GenerousBundle" category="0" isResetBundleContent="1" />
+  <AccountAura defName="Bundle_Halloween_2020_6" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_6">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="TreasureMap_1" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tokens_Gargoyle_T4_Active" category="0" durationInHours="3" strParam="Bundle_Tokens_Gargoyle_T4" />
+  <AccountAura defName="Bundle_GreenScoutNodes_T2_StarterPack_Discount" category="0" durationInHours="168" strParam="Bundle_GreenScoutNodes_T2_StarterPack">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T3_1_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T3_1" />
+  <AccountAura defName="Bundle_BlackRelayRace_11" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_11" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GiftsforSale_1april_day3_bundle" category="0" durationInHours="1" isResetBundleContent="1" strParam="Bundle_GiftsforSale_1april_day3_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="CutterCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Tin10Credits15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="NewYear2017_credits" category="0" durationInHours="1" isProlongable="1">
+    <NumericalParams credits_reward_mul="0.250" />
+  </AccountAura>
+  <AccountAura defName="Bundle_QuestGoldReplacer" category="0" durationInHours="3" strParam="Bundle_QuestGoldReplacer">
+    <NumericalParams credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="sticker_CoockieMan_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_CoockieMan_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="TreasureMap_8" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_8" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BattlePassExp10" category="0" durationInCounters="10" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest8_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest8">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="TreasureMap_7" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_7" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="TreasureMap_5" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_5" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="sticker_Snowman_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_Snowman_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_8" category="0" durationInHours="384" />
+  <AccountAura defName="DLCCredExp30" category="0" durationInCounters="30" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="TreasureMap_4" category="0">
+    <AltDiscountDef defName="Bundle_BP22_Treasure_4" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_HullResist" category="4" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams hull_resist_kinetic_add="10.000" hull_resist_thermal_add="10.000" hull_resist_emp_add="10.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_OWFest_24_6" category="0" durationInHours="24" strParam="Bundle_OWFest_24_6">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenEngineerCabine_T3_Discount" category="0" durationInHours="3" strParam="Bundle_GreenEngineerCabine_T3" />
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest3_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest3">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest2_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest2">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest1_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest1">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest6_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest6">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutAbility_2_T5_Active" category="0" durationInHours="3" strParam="Bundle_GreenScoutAbility_2_T5" />
+  <AccountAura defName="Brawl_Paper_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Paper_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_2" category="0" durationInHours="24" strParam="Bundle_Summer_2023_2">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_RailVolcano_T4_Active" category="0" durationInHours="3" strParam="Bundle_RailVolcano_T4" />
+  <AccountAura defName="FootballTrophys22" category="0">
+    <AltDiscountDef defName="Bundle_FootballTrophys22" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_RailVolcano_T3_Active" category="0" durationInHours="3" strParam="Bundle_RailVolcano_T3" />
+  <AccountAura defName="CorpEconomyCredBoost" category="0" durationInHours="24" isProlongable="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Eden_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Eden_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutCabine_T3_Discount" category="0" durationInHours="3" strParam="Bundle_GreenScoutCabine_T3" />
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest9_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest9">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Rank8_BoosterPack_Offer_T3_chest" category="0" durationInHours="48" isResetBundleContent="1" strParam="Bundle_Rank8_BoosterPack_Offer_T3_chest_real">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_3_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_3" />
+  <AccountAura defName="Credits50x15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T4_3_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T4_3" />
+  <AccountAura defName="Bundle_BlackRelayRace_01" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_01" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Daily_Pve" category="0" durationInCounters="1" durationCounterEvent="3" isGameplaySpecific="1" />
+  <AccountAura defName="NewYear2017_HullResist" category="0" durationInHours="1" isProlongable="1">
+    <NumericalParams hull_resist_thermal_add="10.000" hull_resist_emp_add="10.000" hull_resist_kinetic_add="10.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_FINALRevard" category="0" strParam="Bundle_A25FOR30_FINALRevard">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Pirate_2" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="BoosterPack_Platinum" category="0" durationInCounters="180" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" loot_attempts_add="1.000" />
+  </AccountAura>
+  <AccountAura defName="A25FOR30_3Rev" category="0" durationInHours="240" strParam="Bundle_A25FOR30_3Rev">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Paper_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Paper_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="BattlePass_AditionalCell_CredBoost" category="0" durationInHours="24" isProlongable="1">
+    <NumericalParams credits_reward_mul="4.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_MAZE_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_MAZE_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="OW2Destroyer_Revard" category="0" strParam="Bundle_OW2Destroyer">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_ClanWar_Win" category="0" durationInHours="24" strParam="Bundle_ClanWar_Win">
+    <NumericalParams credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="RP_Loot" category="0" durationInCounters="3" durationCounterEvent="3" strParam="s8256_pve_raid_planetoid" />
+  <AccountAura defName="Gold_bonus_50" category="9" durationInHours="24">
+    <NumericalParams gold_credits_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="PiratBasePve_TreasureChest" category="0">
+    <AltDiscountDef defName="Bundle_Treasure_LeVasser" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutAbility_3_T5_Active" category="0" durationInHours="3" strParam="Bundle_GreenScoutAbility_3_T5" />
+  <AccountAura defName="Bundle_Iridium_ScrapAttractor_T4_Discount" category="0" durationInHours="3" strParam="Bundle_Iridium_ScrapAttractor_T4" />
+  <AccountAura defName="Bundle_Iridium_ScrapAttractor_T3_Discount" category="0" durationInHours="3" strParam="Bundle_Iridium_ScrapAttractor_T3" />
+  <AccountAura defName="Daily_Pvp" category="0" durationInCounters="1" durationCounterEvent="3" isGameplaySpecific="1" />
+  <AccountAura defName="Bundle_Parts_T4_Unique_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Parts_T4_Unique">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Halloween_2020_FINAL" category="0" durationInHours="24" strParam="Bundle_Halloween_2020_Final">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="NewYear2017_Damage" category="0" durationInHours="1" isProlongable="1">
+    <NumericalParams damage_mul="0.050" />
+  </AccountAura>
+  <AccountAura defName="Steamer_1" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" loot_attempts_add="1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest7_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest7">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NEW2021YEAR_GUN_1" category="0" durationInHours="24" strParam="Bundle_NEW2021YEAR_GUN_1">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="RW_Loot" category="0" durationInCounters="3" durationCounterEvent="3" strParam="pve_raid_waterharvest" />
+  <AccountAura defName="Bundle_LevelUp_T5_Discount" category="0" durationInHours="168" strParam="Bundle_LevelUp_T5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Tokens_Shuttle_T4_Active" category="0" durationInHours="3" strParam="Bundle_Tokens_Shuttle_T4" />
+  <AccountAura defName="Daily_Pve_2x" category="0" durationInCounters="1" durationCounterEvent="2" isGameplaySpecific="1" />
+  <AccountAura defName="SawtoothCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest10_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest10">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_2_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_2" />
+  <AccountAura defName="Brawl_Brains_reward2" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Brains_reward2" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Tin10LootAttempts15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams loot_attempts_add="1.000" />
+  </AccountAura>
+  <AccountAura defName="RazorCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_4_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_4" />
+  <AccountAura defName="Bundle_Tin10_FINAL" category="0" durationInHours="24" strParam="Bundle_Tin10_Final">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_6_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_6" />
+  <AccountAura defName="Parts_T3_Reaper_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Parts_T3_Reaper_Unique">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Summer_2023_4" category="0" durationInHours="24" strParam="Bundle_Summer_2023_4">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Daily_Pve_open" category="0" durationInHours="18" strParam="Bundle_Daily_Pve" />
+  <AccountAura defName="Bundle_GreenScoutAbility_v2_2_T5_Active" category="0" durationInHours="3" strParam="Bundle_GreenScoutAbility_v2_2_T5" />
+  <AccountAura defName="Raid_Loot" category="0" durationInCounters="2" durationCounterEvent="3" strParam="pve_raid" />
+  <AccountAura defName="HalloweenBoost" category="0" durationInHours="72" isProlongable="1">
+    <NumericalParams experience_reward_mul="0.666" credits_reward_mul="0.666" />
+  </AccountAura>
+  <AccountAura defName="Golden_Quest" category="0" durationInHours="720" isProlongable="1" />
+  <AccountAura defName="BonusSynergy50" category="0" durationInHours="3">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Golden_Aura_BattlePass" category="0" durationInHours="720" isProlongable="1" />
+  <AccountAura defName="First_Day_Bundle_Discount" category="8" durationInHours="18" isResetBundleContent="1" strParam="Bundle_DailyChest_T1">
+    <NumericalParams credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest5_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Drug_ShieldResist" category="4" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams shield_resist_emp_add="10.000" shield_resist_thermal_add="10.000" shield_resist_kinetic_add="10.000" />
+  </AccountAura>
+  <AccountAura defName="Equipment_Parts_Discount" category="0" durationInHours="18" isResetBundleContent="1" strParam="Bundle_Vessel_Equipment_Parts_T5">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP14_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP14_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DLCCredExp60" category="0" durationInCounters="60" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="BearCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Drug_RepBoost200_2" category="3" durationInCounters="3" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="2.000" />
+  </AccountAura>
+  <AccountAura defName="Brawl_Pvp_reward1" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_Pvp_reward1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Returned_boost_50" category="0" durationInHours="24">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Elite_Donater_BP15_1" category="0">
+    <AltDiscountDef defName="Bundle_Elite_Donater_BP15_1" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T5_1_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T5_1" />
+  <AccountAura defName="Bundle_NewYear_2021_7" category="0" durationInHours="24" strParam="Bundle_NewYear_2021_7">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="HeliosCreds" category="0" durationInHours="2160" isProlongable="1" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Brawl_MAZE_reward3" category="0">
+    <AltDiscountDef defName="Bundle_Brawl_MAZE_reward3" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_ProtazanEvent" category="0" durationInHours="360" />
+  <AccountAura defName="NewYearExp15" category="0" durationInCounters="15" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T3_2_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T3_2" />
+  <AccountAura defName="Bundle_NY2018_Pizza_T1_Chest4_Discount" category="0" durationInHours="168" strParam="Bundle_NY2018_Pizza_T1_Chest4">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="sticker_SantaSled_chest_Discount" category="0" durationInHours="24" isResetBundleContent="1" strParam="Bundle_sticker_SantaSled_T5_chest">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_QuestEvent_Birthday2020" category="0" durationInHours="72" strParam="Bundle_QuestEvent_Birthday2020">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="DLCCredExp50_1" category="0" durationInCounters="50" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams experience_reward_mul="0.500" credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="BonusCredits50" category="0" durationInHours="3">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="BattlePassCredits10" category="0" durationInCounters="10" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_08" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_08" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="CorpEconomyCredits30" category="0" durationInCounters="30" durationCounterEvent="1" isProlongable="1" isGameplaySpecific="1">
+    <NumericalParams credits_reward_mul="0.500" />
+  </AccountAura>
+  <AccountAura defName="NewYear2017_experience" category="0" durationInHours="1" isProlongable="1">
+    <NumericalParams experience_reward_mul="0.250" />
+  </AccountAura>
+  <AccountAura defName="Bundle_Iridium_Overseer_T4_2_open" category="0" durationInHours="18" strParam="Bundle_Iridium_Overseer_T4_2" />
+  <AccountAura defName="Bundle_QuestEvent_StayHome" category="0" durationInHours="24" strParam="Bundle_QuestEvent_StayHome">
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_EggRoller2025" category="0">
+    <AltDiscountDef defName="Bundle_EggRoller2025" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_BlackRelayRace_02" category="0">
+    <AltDiscountDef defName="Bundle_BlackRelayRace_02" />
+    <NumericalParams gold_credits_mul="-1.000" />
+  </AccountAura>
+  <AccountAura defName="ReaperCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+  <AccountAura defName="Rank_9_builds_Parallax" category="0" durationInHours="48" isResetBundleContent="1" strParam="Bundle_Parallax_Build">
+    <NumericalParams gold_credits_mul="0.000" />
+  </AccountAura>
+  <AccountAura defName="Bundle_GreenScoutAbility_4_T5_Active" category="0" durationInHours="3" strParam="Bundle_GreenScoutAbility_4_T5" />
+  <AccountAura defName="HeliconCreds" category="0" keepExpired="1">
+    <NumericalParams credits_reward_mul="0.100" />
+  </AccountAura>
+</AccountAuras>

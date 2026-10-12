@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DefaultFactionRep>
+  <Faction value="0" />
+  <Faction value="0" />
+  <Faction value="0" />
+  <Faction value="0" />
+  <Faction value="-50000" />
+</DefaultFactionRep>
+<FactionRepMax value="50000" />

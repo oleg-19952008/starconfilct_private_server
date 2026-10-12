@@ -1,0 +1,772 @@
+<?xml version="1.0"?>
+<ReputationRank>
+  <Rank rep="0" />
+  <Rank rep="4200" />
+  <Rank rep="11400" />
+  <Rank rep="24000" />
+  <Rank rep="48000" />
+  <Rank rep="95000" />
+  <Rank rep="165000" />
+  <Rank rep="265000" />
+  <Rank rep="394000" />
+  <Rank rep="545000" />
+  <Rank rep="720000" />
+  <Rank rep="910000" />
+  <Rank rep="1115000" />
+  <Rank rep="1650000" />
+  <Rank rep="2300000" />
+  <Rank rep="3000000" />
+  <Rank rep="3800000" />
+  <Rank rep="4500000" />
+</ReputationRank>
+<VesselExpPoolCap value="5000000" />
+<EventCreditsCap value="300" />
+<CreditsCap value="400000000" />
+<TokensCap value="10000" />
+<VesselLvl>
+  <Rank>
+    <Level exp="1000" />
+    <Level exp="1300" />
+    <Level exp="1500" />
+    <Level exp="2500" />
+    <Level exp="15500" />
+    <Level exp="16500" />
+    <Level exp="17500" />
+    <Level exp="18500" />
+    <Level exp="19500" />
+    <Level exp="110500" />
+  </Rank>
+  <Rank>
+    <Level exp="1200" />
+    <Level exp="1300" />
+    <Level exp="1500" />
+    <Level exp="2750" />
+    <Level exp="18000" />
+    <Level exp="19500" />
+    <Level exp="111000" />
+    <Level exp="112500" />
+    <Level exp="114000" />
+    <Level exp="115500" />
+  </Rank>
+  <Rank>
+    <Level exp="1200" />
+    <Level exp="1300" />
+    <Level exp="1500" />
+    <Level exp="3000" />
+    <Level exp="5000" />
+    <Level exp="122500" />
+    <Level exp="127000" />
+    <Level exp="131500" />
+    <Level exp="136000" />
+    <Level exp="140500" />
+  </Rank>
+  <Rank>
+    <Level exp="1200" />
+    <Level exp="1300" />
+    <Level exp="1500" />
+    <Level exp="3000" />
+    <Level exp="5000" />
+    <Level exp="10000" />
+    <Level exp="128500" />
+    <Level exp="137500" />
+    <Level exp="146500" />
+    <Level exp="155500" />
+  </Rank>
+  <Rank>
+    <Level exp="1200" />
+    <Level exp="1300" />
+    <Level exp="1500" />
+    <Level exp="3000" />
+    <Level exp="5000" />
+    <Level exp="10000" />
+    <Level exp="12500" />
+    <Level exp="157500" />
+    <Level exp="172500" />
+    <Level exp="187500" />
+  </Rank>
+  <Rank>
+    <Level exp="1200" />
+    <Level exp="1300" />
+    <Level exp="1500" />
+    <Level exp="3000" />
+    <Level exp="5000" />
+    <Level exp="12000" />
+    <Level exp="14500" />
+    <Level exp="93000" />
+    <Level exp="113000" />
+    <Level exp="133000" />
+  </Rank>
+  <Rank>
+    <Level exp="5000" />
+    <Level exp="8000" />
+    <Level exp="12000" />
+    <Level exp="24000" />
+    <Level exp="30000" />
+    <Level exp="40000" />
+    <Level exp="50000" />
+    <Level exp="70000" />
+    <Level exp="147000" />
+    <Level exp="187000" />
+  </Rank>
+  <Rank>
+    <Level exp="5000" />
+    <Level exp="8000" />
+    <Level exp="12000" />
+    <Level exp="24000" />
+    <Level exp="30000" />
+    <Level exp="40000" />
+    <Level exp="50000" />
+    <Level exp="80000" />
+    <Level exp="256000" />
+    <Level exp="341000" />
+  </Rank>
+  <Rank>
+    <Level exp="10000" />
+    <Level exp="21000" />
+    <Level exp="32000" />
+    <Level exp="43000" />
+    <Level exp="54000" />
+    <Level exp="65000" />
+    <Level exp="85000" />
+    <Level exp="100000" />
+    <Level exp="150000" />
+    <Level exp="267000" />
+  </Rank>
+  <Rank>
+    <Level exp="10000" />
+    <Level exp="21000" />
+    <Level exp="32000" />
+    <Level exp="43000" />
+    <Level exp="54000" />
+    <Level exp="65000" />
+    <Level exp="90000" />
+    <Level exp="115000" />
+    <Level exp="205000" />
+    <Level exp="295000" />
+  </Rank>
+  <Rank>
+    <Level exp="15000" />
+    <Level exp="27000" />
+    <Level exp="39000" />
+    <Level exp="51000" />
+    <Level exp="63000" />
+    <Level exp="75000" />
+    <Level exp="95000" />
+    <Level exp="115000" />
+    <Level exp="225000" />
+    <Level exp="335000" />
+  </Rank>
+  <Rank>
+    <Level exp="18000" />
+    <Level exp="31000" />
+    <Level exp="44000" />
+    <Level exp="57000" />
+    <Level exp="70000" />
+    <Level exp="83000" />
+    <Level exp="108000" />
+    <Level exp="133000" />
+    <Level exp="243000" />
+    <Level exp="353000" />
+  </Rank>
+  <Rank>
+    <Level exp="20000" />
+    <Level exp="37000" />
+    <Level exp="54000" />
+    <Level exp="71000" />
+    <Level exp="88000" />
+    <Level exp="105000" />
+    <Level exp="145000" />
+    <Level exp="185000" />
+    <Level exp="345000" />
+    <Level exp="505000" />
+  </Rank>
+  <Rank>
+    <Level exp="25000" />
+    <Level exp="45000" />
+    <Level exp="65000" />
+    <Level exp="85000" />
+    <Level exp="105000" />
+    <Level exp="125000" />
+    <Level exp="165000" />
+    <Level exp="300000" />
+    <Level exp="545000" />
+    <Level exp="585000" />
+  </Rank>
+  <Rank>
+    <Level exp="30000" />
+    <Level exp="62000" />
+    <Level exp="94000" />
+    <Level exp="126000" />
+    <Level exp="158000" />
+    <Level exp="200000" />
+    <Level exp="250000" />
+    <Level exp="400000" />
+    <Level exp="700000" />
+    <Level exp="1550000" />
+  </Rank>
+  <Rank>
+    <Level exp="30000" />
+    <Level exp="62000" />
+    <Level exp="94000" />
+    <Level exp="126000" />
+    <Level exp="158000" />
+    <Level exp="250000" />
+    <Level exp="350000" />
+    <Level exp="550000" />
+    <Level exp="850000" />
+    <Level exp="1550000" />
+  </Rank>
+  <Rank>
+    <Level exp="30000" />
+    <Level exp="62000" />
+    <Level exp="100000" />
+    <Level exp="150000" />
+    <Level exp="200000" />
+    <Level exp="350000" />
+    <Level exp="450000" />
+    <Level exp="650000" />
+    <Level exp="950000" />
+    <Level exp="1550000" />
+  </Rank>
+  <Rank>
+    <Level exp="40000" />
+    <Level exp="80000" />
+    <Level exp="150000" />
+    <Level exp="200000" />
+    <Level exp="250000" />
+    <Level exp="400000" />
+    <Level exp="500000" />
+    <Level exp="700000" />
+    <Level exp="999999" />
+    <Level exp="1550000" />
+  </Rank>
+</VesselLvl>
+<VesselMaxLvl>
+  <Rank level="5" />
+  <Rank level="5" />
+  <Rank level="6" />
+  <Rank level="7" />
+  <Rank level="8" />
+  <Rank level="8" />
+  <Rank level="9" />
+  <Rank level="9" />
+  <Rank level="9" />
+  <Rank level="10" />
+  <Rank level="10" />
+  <Rank level="10" />
+  <Rank level="10" />
+  <Rank level="10" />
+  <Rank level="10" />
+  <Rank level="10" />
+  <Rank level="10" />
+  <Rank level="10" />
+</VesselMaxLvl>
+<LobbySettings>
+  <Setting levelName="s1338_pandora_anomaly" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_anomaly" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_anomaly" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_anomaly" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_anomaly" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_anomaly" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_threshold" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_asteroidcity" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_ancientcomplex" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_ancientcomplex" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_ancientcomplex" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_concourse" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_concourse" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_concourse" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_concourse" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_concourse" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_concourse" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_concourse" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_barrierdebris" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_gasgiant" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_gasgiant" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_gasgiant" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_gasgiant" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_gasgiant" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_gasgiant" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s8256_thar_lavastone" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s1338_pandora_dreadnwreck" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1347_livestation" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1347_livestation" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1420_ceres3_northmsite" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s1340_aliendestsatation" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s1338_devilsjaw" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="da_prototype" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="da_prototype" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="da_prototype" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="da_prototype" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="da_prototype" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="desttown" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="desttown" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="desttown" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="desttown" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="desttown" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="desttown" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_alienruins" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_alienruins" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_alienruins" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_alienruins" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_alienruins" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="sirus_debrissite" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="sirus_debrissite" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="lumen_constructionsite" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="lumen_constructionsite" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="nalnifan_gate_carib" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="nalnifan_gate_carib" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="da_deathstar" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="da_deathstar" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="da_deathstar" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="da_deathstar" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="planet_war_7" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="planet_war_7" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="planet_war_7" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="planet_war_7" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="pvp_omega" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="pvp_omega" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="pvp_transstance" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="pvp_transstance" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="allidium_yard" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="allidium_yard" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="asteroids_sattelite" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="pvp_fed_test_map" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="s1347_smallstation" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="s1347_smallstation" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="captain_kidds_berth" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="captain_kidds_berth" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="captain_kidds_berth" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="northern_berth" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="northern_berth" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="northern_berth" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="spyglass" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="spyglass" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="skeleton_island" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="skeleton_island" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="skeleton_island" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="the_fort" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="the_fort" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="foul_ground" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="foul_ground" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="foul_ground" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="3" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="23" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="11" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_lunar_l_pvp" gameMode="4" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_lunar_l_pvp" gameMode="9" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_lunar_l_pvp" gameMode="10" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_lunar_l_pvp" gameMode="12" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_lunar_l_pvp" gameMode="13" forbiddenOnLive="0" />
+  <Setting levelName="pve.loot_geostation_normal" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.pve_empfrontier_waves_T1" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.capture_repairbase_t1" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.asteroid_building_t1" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.bigship_building_easy" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.piratebay_hard" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.pve_jericho_base_t2" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.pve_frozen_station_t2" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.nalnifan_lumen_waves_T1" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.planet_war_waves_T1" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.pve_desttown_waves_easy" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.bigship_building_2_easy" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="s1338_hg_pandora_anomaly" gameMode="24" forbiddenOnLive="0" />
+  <Setting levelName="pve.rescue_pirates_base" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="dreadnoughtbattle_map_02" gameMode="14" forbiddenOnLive="0" />
+  <Setting levelName="pve.magnificent_seven" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.stealth" gameMode="7" forbiddenOnLive="0" />
+  <Setting levelName="pve.pve_raid_waterharvest_t3" gameMode="7" forbiddenOnLive="1" />
+  <Setting levelName="pve.pve_raid_waterharvest_t4" gameMode="7" forbiddenOnLive="1" />
+  <Setting levelName="pve.pve_raid_waterharvest_t5" gameMode="7" forbiddenOnLive="1" />
+  <Setting levelName="pve.pve_raid" gameMode="7" forbiddenOnLive="1" />
+  <Setting levelName="pve.pve_planetoidraid" gameMode="7" forbiddenOnLive="1" />
+  <Setting levelName="desttown" gameMode="25" forbiddenOnLive="0" />
+  <Setting levelName="pve.pve_temple_of_last_hope" gameMode="7" forbiddenOnLive="1" />
+  <Setting levelName="football" gameMode="21" forbiddenOnLive="1" />
+  <Setting levelName="paper_airplanes" gameMode="26" forbiddenOnLive="1" />
+  <Setting levelName="da_deathstar" gameMode="27" forbiddenOnLive="1" />
+  <Setting levelName="allidium_yard" gameMode="28" forbiddenOnLive="1" />
+  <Setting levelName="s8256_thar_concourse" gameMode="29" forbiddenOnLive="1" />
+  <Setting levelName="s1340_thar_alienruins" gameMode="30" forbiddenOnLive="0" />
+  <Setting levelName="excavation_elyd_empty_bion_l_pvp" gameMode="30" forbiddenOnLive="0" />
+  <Setting levelName="s1340_thar_aliendebris13" gameMode="30" forbiddenOnLive="0" />
+  <Setting levelName="paper_airplanes" gameMode="31" forbiddenOnLive="1" />
+  <Setting levelName="s1338_br_pandora_anomaly" gameMode="22" forbiddenOnLive="1" />
+</LobbySettings>
+<PVEMissions>
+  <Mission name="pve_raid" levelName="pve_raid" rank="10" rankMax="17" accountRank="1" disabled="0" raid="1" difficulty="" />
+  <Mission name="pve_empfrontier_waves_T1" levelName="pve_transit_emp_rock_frontier" rank="1" rankMax="17" accountRank="8" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="pve_desttown_waves_easy" levelName="pve_desttown" rank="1" rankMax="17" accountRank="8" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="nalnifan_lumen_waves_T1" levelName="pve_wave_nalnifan_gate_lumen" rank="1" rankMax="17" accountRank="4" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="TestMission" levelName="test_ai" rank="1" rankMax="15" accountRank="1" disabled="1" raid="0" difficulty="" />
+  <Mission name="bigship_newbie_mission" levelName="s1550_pve_newbie_mission" rank="1" rankMax="1" accountRank="1" disabled="1" raid="0" difficulty="" />
+  <Mission name="pve_raid_waterharvest_t4" levelName="pve_raid_waterharvest" rank="10" rankMax="12" accountRank="1" disabled="0" raid="1" difficulty="" />
+  <Mission name="pve_empfrontier_waves_T5" levelName="pve_transit_emp_rock_frontier" rank="6" rankMax="17" accountRank="12" disabled="0" raid="0" difficulty="hard" />
+  <Mission name="stealth" levelName="pve_stealth" rank="1" rankMax="17" accountRank="8" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="capture_repairbase_t1" levelName="s1550_pve_capture_repairbase" rank="1" rankMax="17" accountRank="3" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="loot_geostation_normal" levelName="s1347_geostation" rank="1" rankMax="17" accountRank="5" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="nalnifan_lumen_waves_T5" levelName="pve_wave_nalnifan_gate_lumen" rank="6" rankMax="17" accountRank="10" disabled="0" raid="0" difficulty="hard" />
+  <Mission name="pve_jericho_base_t2" levelName="pve_jericho_base" rank="1" rankMax="17" accountRank="6" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="bigship_building_2_easy" levelName="s1550_pve_bigship_building_2" rank="1" rankMax="17" accountRank="7" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="pve_frozen_station_t2" levelName="pve_frozen_station" rank="1" rankMax="17" accountRank="6" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="bigship_building_easy" levelName="s1550_pve_bigship_building" rank="1" rankMax="17" accountRank="1" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="bigship_building_2_hard" levelName="s1550_pve_bigship_building_2" rank="6" rankMax="17" accountRank="11" disabled="0" raid="0" difficulty="hard" />
+  <Mission name="pve_temple_of_last_hope" levelName="pve_temple_of_last_hope" rank="1" rankMax="17" accountRank="5" disabled="0" raid="0" difficulty="wave" />
+  <Mission name="pve_debrissite_t2" levelName="empire_sirus_debrissite" rank="4" rankMax="9" accountRank="1" disabled="1" raid="0" difficulty="" />
+  <Mission name="asteroid_building_t1" levelName="s1550_pve_asteroid_building" rank="1" rankMax="17" accountRank="7" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="pve_planetoidraid" levelName="s8256_pve_raid_planetoid" rank="13" rankMax="17" accountRank="1" disabled="0" raid="1" difficulty="hard" />
+  <Mission name="piratebay_hard" levelName="s1515_piratebay" rank="6" rankMax="17" accountRank="12" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="rescue_pirates_base" levelName="pve_rescue_pirates_base" rank="1" rankMax="17" accountRank="8" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="planet_war_waves_T1" levelName="pve_wave_planet_war" rank="1" rankMax="17" accountRank="2" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="pve_raid_waterharvest_t3" levelName="pve_raid_waterharvest" rank="7" rankMax="9" accountRank="1" disabled="0" raid="1" difficulty="" />
+  <Mission name="planet_war_waves_T5" levelName="pve_wave_planet_war" rank="6" rankMax="17" accountRank="9" disabled="0" raid="0" difficulty="hard" />
+  <Mission name="pve_desttown_waves_hard" levelName="pve_desttown" rank="6" rankMax="17" accountRank="12" disabled="0" raid="0" difficulty="hard" />
+  <Mission name="magnificent_seven" levelName="pve_magnificent_seven" rank="1" rankMax="17" accountRank="5" disabled="0" raid="0" difficulty="easy" />
+  <Mission name="pve_raid_waterharvest_t5" levelName="pve_raid_waterharvest" rank="13" rankMax="17" accountRank="1" disabled="0" raid="1" difficulty="" />
+</PVEMissions>
+<ReferralsSettings referrerGoldBonusRate="0.000">
+  <Program id="0" requiredAction="46" requiredValue="1">
+    <rewardsReferee premium="72" />
+  </Program>
+  <Program id="1" requiredAction="46" requiredValue="6">
+    <rewardsReferrer premium="24" />
+  </Program>
+  <Program id="2" requiredAction="46" requiredValue="9">
+    <rewardsReferrer premium="48" />
+  </Program>
+  <Program id="3" requiredAction="46" requiredValue="12">
+    <rewardsReferrer premium="72" />
+  </Program>
+</ReferralsSettings>
+<TutorialRewards>
+  <TutorialReward stage="0" credits="52350" goldCredits="0" goldCreditsBonus="0" vesselExp="2150" premiumTime="0" />
+  <TutorialReward stage="1" credits="0" goldCredits="0" goldCreditsBonus="0" vesselExp="0" premiumTime="48" />
+  <TutorialReward stage="2" credits="0" goldCredits="0" goldCreditsBonus="0" vesselExp="0" premiumTime="0" />
+  <TutorialReward stage="3" credits="148520" goldCredits="0" goldCreditsBonus="0" vesselExp="1780" premiumTime="0" />
+</TutorialRewards>
+<DailyAuras>
+  <DailyAura defName="Daily_Pvp" />
+  <DailyAura defName="Daily_Pve" />
+  <DailyAura defName="Daily_Coop" />
+  <DailyAura defName="Daily_Brawl" />
+  <DailyAura defName="Daily_Pvp_2x" />
+  <DailyAura defName="Daily_Pve_2x" />
+  <DailyAura defName="Daily_Coop_2x" />
+  <DailyAura defName="Daily_Brawl_2x" />
+</DailyAuras>
+<Teaching StudentMaxRank="6" TeacherMinRank="9" TeacherMinFights="200" MaxTeachers="1" MaxStudents="5" />
+<RaidSchedule>
+  <Period level="s8256_pve_raid_planetoid" start="0" finish="0" />
+  <Period level="s8256_pve_raid_planetoid" start="2" finish="2" />
+  <Period level="s8256_pve_raid_planetoid" start="4" finish="4" />
+  <Period level="s8256_pve_raid_planetoid" start="6" finish="6" />
+  <Period level="s8256_pve_raid_planetoid" start="8" finish="8" />
+  <Period level="s8256_pve_raid_planetoid" start="10" finish="10" />
+  <Period level="s8256_pve_raid_planetoid" start="12" finish="12" />
+  <Period level="s8256_pve_raid_planetoid" start="14" finish="14" />
+  <Period level="s8256_pve_raid_planetoid" start="16" finish="16" />
+  <Period level="s8256_pve_raid_planetoid" start="18" finish="18" />
+  <Period level="s8256_pve_raid_planetoid" start="20" finish="20" />
+  <Period level="s8256_pve_raid_planetoid" start="22" finish="22" />
+  <Period level="pve_raid_waterharvest" start="24" finish="24" />
+  <Period level="pve_raid_waterharvest" start="26" finish="26" />
+  <Period level="pve_raid_waterharvest" start="28" finish="28" />
+  <Period level="pve_raid_waterharvest" start="30" finish="30" />
+  <Period level="pve_raid_waterharvest" start="32" finish="32" />
+  <Period level="pve_raid_waterharvest" start="34" finish="34" />
+  <Period level="pve_raid_waterharvest" start="36" finish="36" />
+  <Period level="pve_raid_waterharvest" start="38" finish="38" />
+  <Period level="pve_raid_waterharvest" start="40" finish="40" />
+  <Period level="pve_raid_waterharvest" start="42" finish="42" />
+  <Period level="pve_raid_waterharvest" start="44" finish="44" />
+  <Period level="pve_raid_waterharvest" start="46" finish="46" />
+  <Period level="pve_raid" start="48" finish="48" />
+  <Period level="pve_raid" start="50" finish="50" />
+  <Period level="pve_raid" start="52" finish="52" />
+  <Period level="pve_raid" start="54" finish="54" />
+  <Period level="pve_raid" start="56" finish="56" />
+  <Period level="pve_raid" start="58" finish="58" />
+  <Period level="pve_raid" start="60" finish="60" />
+  <Period level="pve_raid" start="62" finish="62" />
+  <Period level="pve_raid" start="64" finish="64" />
+  <Period level="pve_raid" start="66" finish="66" />
+  <Period level="pve_raid" start="68" finish="68" />
+  <Period level="pve_raid" start="70" finish="70" />
+  <Period level="s8256_pve_raid_planetoid" start="72" finish="72" />
+  <Period level="s8256_pve_raid_planetoid" start="74" finish="74" />
+  <Period level="s8256_pve_raid_planetoid" start="76" finish="76" />
+  <Period level="s8256_pve_raid_planetoid" start="78" finish="78" />
+  <Period level="s8256_pve_raid_planetoid" start="80" finish="80" />
+  <Period level="s8256_pve_raid_planetoid" start="82" finish="82" />
+  <Period level="s8256_pve_raid_planetoid" start="84" finish="84" />
+  <Period level="s8256_pve_raid_planetoid" start="86" finish="86" />
+  <Period level="s8256_pve_raid_planetoid" start="88" finish="88" />
+  <Period level="s8256_pve_raid_planetoid" start="90" finish="90" />
+  <Period level="s8256_pve_raid_planetoid" start="92" finish="92" />
+  <Period level="s8256_pve_raid_planetoid" start="94" finish="94" />
+  <Period level="pve_raid" start="96" finish="96" />
+  <Period level="pve_raid" start="98" finish="98" />
+  <Period level="pve_raid" start="100" finish="100" />
+  <Period level="pve_raid" start="102" finish="102" />
+  <Period level="pve_raid" start="104" finish="104" />
+  <Period level="pve_raid" start="106" finish="106" />
+  <Period level="pve_raid" start="108" finish="108" />
+  <Period level="pve_raid" start="110" finish="110" />
+  <Period level="pve_raid" start="112" finish="112" />
+  <Period level="pve_raid" start="114" finish="114" />
+  <Period level="pve_raid" start="116" finish="116" />
+  <Period level="pve_raid" start="118" finish="118" />
+  <Period level="pve_raid_waterharvest" start="120" finish="120" />
+  <Period level="pve_raid_waterharvest" start="122" finish="122" />
+  <Period level="pve_raid_waterharvest" start="124" finish="124" />
+  <Period level="pve_raid_waterharvest" start="126" finish="126" />
+  <Period level="pve_raid_waterharvest" start="128" finish="128" />
+  <Period level="pve_raid_waterharvest" start="130" finish="130" />
+  <Period level="pve_raid_waterharvest" start="132" finish="132" />
+  <Period level="pve_raid_waterharvest" start="134" finish="134" />
+  <Period level="pve_raid_waterharvest" start="136" finish="136" />
+  <Period level="pve_raid_waterharvest" start="138" finish="138" />
+  <Period level="pve_raid_waterharvest" start="140" finish="140" />
+  <Period level="pve_raid_waterharvest" start="142" finish="142" />
+  <Period level="pve_raid_waterharvest" start="144" finish="144" />
+  <Period level="pve_raid" start="146" finish="146" />
+  <Period level="s8256_pve_raid_planetoid" start="148" finish="148" />
+  <Period level="pve_raid_waterharvest" start="150" finish="150" />
+  <Period level="pve_raid" start="152" finish="152" />
+  <Period level="s8256_pve_raid_planetoid" start="154" finish="154" />
+  <Period level="pve_raid_waterharvest" start="156" finish="156" />
+  <Period level="pve_raid" start="158" finish="158" />
+  <Period level="s8256_pve_raid_planetoid" start="160" finish="160" />
+  <Period level="pve_raid_waterharvest" start="162" finish="162" />
+  <Period level="pve_raid" start="164" finish="164" />
+  <Period level="s8256_pve_raid_planetoid" start="166" finish="166" />
+</RaidSchedule>
+<LeagueTeamSettings maxTeamSize="9" maxNumAcceptedMembers="100" maxNumAcceptedMembersForMajor="14" minShipRank="11" battleSize="5" majorLeagueInvitePenaltyTime="48">
+  <ActiveTime>
+    <Period start="17" finish="18" />
+  </ActiveTime>
+</LeagueTeamSettings>
+<FootballSettings maxTeamSize="3" />
+<ClanUpgrades>
+  <capacity>
+    <Level value="20" />
+    <Level value="30" />
+    <Level value="40" />
+    <Level value="50" />
+    <Level value="100" />
+    <Level value="150" />
+    <Level value="200" />
+    <Level value="250" />
+    <Level value="300" />
+    <Level value="350" />
+    <Level value="400" />
+    <Level value="450" />
+    <Level value="500" />
+  </capacity>
+  <resourceLimit>
+    <Level value="100000" />
+  </resourceLimit>
+</ClanUpgrades>
+<ClanHighRank value="9" />
+<LockRank>
+  <Race_0 ranks="1 1 1 1 1 1 1 1 1 1 5 5 5 5 5 10 10 10" />
+  <Race_1 ranks="1 1 1 1 1 1 1 1 1 1 5 5 5 5 5 10 10 10" />
+  <Race_2 ranks="1 1 1 1 1 1 1 1 1 1 5 5 5 5 5 10 10 10" />
+  <Race_3 ranks="1 1 1 1 1 1 1 1 1 1 5 5 5 5 5 10 10 10" />
+  <Race_4 ranks="1 1 1 1 1 1 1 1 1 1 5 5 5 5 5 10 10 10" />
+</LockRank>
+<VesselMaxLevel>
+  <_5 />
+  <_5 />
+  <_6 />
+  <_7 />
+  <_8 />
+  <_8 />
+  <_9 />
+  <_9 />
+  <_9 />
+  <_10 />
+  <_10 />
+  <_10 />
+  <_10 />
+  <_10 />
+  <_10 />
+  <_10 />
+  <_10 />
+  <_10 />
+</VesselMaxLevel>
+<TradingLimits maxAttachments="3" maxDealsPerDay="0" expirationTime="900" maxAdverts="5" advertDuration="172800" />
+<TradingTax>
+  <Limit moneyMax="500" tax="0.000000" />
+  <Limit moneyMax="2000" tax="0.100000" />
+  <Limit moneyMax="4000" tax="0.200000" />
+  <Limit moneyMax="10000" tax="0.300000" />
+  <Limit moneyMax="18446744073709551615" tax="0.500000" />
+</TradingTax>
+<FreeSpace jumpToZonePriceType="3" jumpToZonePriceValue="5" />
+<AccountRank>
+  <Rank exp="200" />
+  <Rank exp="400" />
+  <Rank exp="600" />
+  <Rank exp="800" />
+  <Rank exp="1000" />
+  <Rank exp="1200" />
+  <Rank exp="1400" />
+  <Rank exp="1600" />
+  <Rank exp="1800" />
+  <Rank exp="2000" />
+  <Rank exp="2200" />
+  <Rank exp="2500" />
+  <Rank exp="3000" />
+  <Rank exp="3500" />
+  <Rank exp="4000" />
+  <Rank exp="4500" />
+  <Rank exp="5000" />
+  <Rank exp="5500" />
+  <Rank exp="6000" />
+  <Rank exp="6500" />
+  <Rank exp="8000" />
+  <Rank exp="9000" />
+  <Rank exp="10000" />
+  <Rank exp="12500" />
+</AccountRank>
+<AccountExpGains>
+  <Source exp="5" />
+  <Source exp="10" />
+  <Source exp="15" />
+  <Source exp="20" />
+  <Source exp="25" />
+  <Source exp="20" />
+  <Source exp="20" />
+</AccountExpGains>
+<MilitaryRank militaryRankMax="15">
+  <Rewards>
+    <Reward type="1" value="1000000" />
+  </Rewards>
+  <Rewards>
+    <Reward type="5" value="100000" />
+  </Rewards>
+  <Rewards>
+    <Reward type="2" value="100" />
+  </Rewards>
+  <Rewards>
+    <Reward type="6" value="50" def="Aliens_ship_part" />
+  </Rewards>
+  <Rewards>
+    <Reward type="6" value="25" def="Iridium_monocrystall" />
+  </Rewards>
+  <Rewards>
+    <Reward type="2" value="500" />
+  </Rewards>
+  <Rewards>
+    <Reward type="9" value="82" />
+    <Reward type="2" value="700" />
+  </Rewards>
+  <Rewards>
+    <Reward type="6" value="100" def="WeaponMod_Plasma_Alien_Killer" />
+    <Reward type="6" value="100" def="WeaponMod_Laser_Alien_Killer" />
+    <Reward type="6" value="100" def="WeaponMod_Rail_Alien_Killer" />
+  </Rewards>
+  <Rewards>
+    <Reward type="13" value="0" def="rank_1" />
+    <Reward type="13" value="0" def="Camouflage_CanadianDesert" />
+  </Rewards>
+  <Rewards>
+    <Reward type="13" value="0" def="rank_2" />
+    <Reward type="6" value="100" def="WeaponMod_Plasma_Huge_Killer" />
+    <Reward type="6" value="100" def="WeaponMod_Laser_Huge_Killer" />
+    <Reward type="6" value="100" def="WeaponMod_Rail_Huge_Killer" />
+  </Rewards>
+  <Rewards>
+    <Reward type="13" value="0" def="rank_3" />
+    <Reward type="6" value="100" def="SpaceMissile_MagnetMine_T5_Mk3" />
+    <Reward type="6" value="100" def="Expendable_BattleDroneMedium_T5_Mk3" />
+    <Reward type="6" value="100" def="Expendable_BattleDroneLarge_T5_Mk3" />
+  </Rewards>
+  <Rewards>
+    <Reward type="13" value="0" def="rank_4" />
+    <Reward type="2" value="1000" />
+  </Rewards>
+  <Rewards>
+    <Reward type="13" value="0" def="rank_5" />
+    <Reward type="2" value="1500" />
+  </Rewards>
+  <Rewards>
+    <Reward type="13" value="0" def="rank_6" />
+    <Reward type="2" value="2000" />
+  </Rewards>
+  <Rewards>
+    <Reward type="13" value="0" def="rank_7" />
+    <Reward type="2" value="2500" />
+  </Rewards>
+</MilitaryRank>
+<UnlimPve credits_A_1="0.017400" credits_Z_1="250.000000" credits_min_1="400000" credits_max_1="400000000" resource_A_1="0.019500" resource_Z_1="62.000000" resource_min_1="5" resource_max_1="656" resource_defName_1="pve_resource" credits_A_2="0.016700" credits_Z_2="243.000000" credits_min_2="200000" credits_max_2="200000000" resource_A_2="0.014300" resource_Z_2="52.000000" resource_min_2="5" resource_max_2="739" resource_defName_2="pve_resource" />

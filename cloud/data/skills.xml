@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Talents>
+  <TalentGroup requiredShipRank="1" talent0="2" talent1="1" talent2="0" />
+  <TalentGroup requiredShipRank="2" talent0="4" talent1="3" talent2="5" />
+  <TalentGroup requiredShipRank="3" talent0="10" talent1="11" talent2="9" />
+  <TalentGroup requiredShipRank="4" talent0="13" talent1="14" talent2="12" />
+  <TalentGroup requiredShipRank="5" talent0="18" talent1="19" talent2="20" />
+  <TalentGroup requiredShipRank="6" talent0="22" talent1="23" talent2="21" />
+  <TalentGroup requiredShipRank="7" talent0="24" talent1="25" talent2="26" />
+  <TalentGroup requiredShipRank="8" talent0="6" talent1="7" talent2="8" />
+  <TalentGroup requiredShipRank="9" talent0="27" talent1="29" talent2="28" />
+  <TalentGroup requiredShipRank="10" talent0="15" talent1="16" talent2="17" />
+  <TalentGroup requiredShipRank="11" talent0="30" talent1="31" talent2="32" />
+  <TalentGroup requiredShipRank="12" talent0="33" talent1="35" talent2="34" />
+  <TalentGroup requiredShipRank="13" talent0="36" talent1="37" talent2="38" />
+  <TalentGroup requiredShipRank="14" talent0="39" talent1="40" talent2="41" />
+  <TalentGroup requiredShipRank="15" talent0="42" talent1="43" talent2="44" />
+</Talents>
+<TalentSetCosts>
+  <TalentSetCost />
+  <TalentSetCost rank="15" gold_credits="2000" />
+  <TalentSetCost rank="15" gold_credits="2000" />
+  <TalentSetCost rank="15" gold_credits="2000" />
+</TalentSetCosts>

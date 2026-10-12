@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<!-- -->
+<GoldExchangeRate value="400"/>
+
+<!-- -->
+<BonusBundle points="10000" def="Bundle_Chest_Gold_Reward"/>
+
+<!-- -->
+<SalvageTokenConversion value="0.1"/>
+<SalvagePremiumTokenConversion value="0.5"/>
+<SalvagePremiumPriceConversion value="0.00055"/>
+
+<!-- -->
+<BuybackCostModifier value="0.1"/>
+<VesselBuybackCostModifier value="0.25"/>
+<DeconserveCostModifier value="0.8"/>
+
+<!-- -->
+<SingleBudgetItem value="1" />
+
+<!-- -->
+<MailTrading tax="0.1" /> 
+
+<!-- -->
+<DurabilityRestoreCostModifier value="0.05078125"/>
+
+<!-- -->
+<FactionChangeCostPerRank value="30000" />
+
+<!-- -->
+<NickNameChangeCost value="3000" />
+
+<!-- -->
+<CreditPacks>
+    <Pack price="20" value="140000" bonusValue="0" name="TinyCreditPack" />
+    <Pack price="100" value="702000" bonusValue="38000" name="SmallCreditPack" />
+    <Pack price="1000" value="7000000" bonusValue="700000" name="MediumCreditPack" />
+    <Pack price="2500" value="17500000" bonusValue="2400000" name="BigCreditPack" />
+    <Pack price="5000" value="35000000" bonusValue="6200000" name="HudgeCreditPack" />
+    <Pack price="10000" value="70000000" bonusValue="17500000" name="GreatCreditPack" />
+</CreditPacks>
+
+<!-- Inventory Extensions -->
+<InventoryExtensions baseSize="50">
+	<Extension size="75"	credits="25000"				goldCredits="0" />
+	<Extension size="100"	credits="25000"				goldCredits="0" />
+	<Extension size="125"	credits="50000"				goldCredits="0" />
+	<Extension size="150"	credits="75000"				goldCredits="0" />
+	<Extension size="200"	credits="100000"			goldCredits="0" />
+	<Extension size="250"	credits="100000"			goldCredits="0" />
+	<Extension size="300"	credits="100000"			goldCredits="0" />
+	<Extension size="350"	credits="100000"			goldCredits="0" />
+	<Extension size="400"	credits="200000"			goldCredits="0" />
+	<Extension size="450"	credits="200000"			goldCredits="0" />
+	<Extension size="500"	credits="300000"			goldCredits="0" />
+	<Extension size="550"	credits="300000"			goldCredits="0" />
+	<Extension size="600"	credits="400000"			goldCredits="0" />
+	<Extension size="650"	credits="400000"			goldCredits="0" />
+	<Extension size="700"	credits="500000"			goldCredits="0" />
+	<Extension size="750"	credits="500000"			goldCredits="0" />
+	<Extension size="800"	credits="600000"			goldCredits="0" />
+	<Extension size="850"	credits="600000"			goldCredits="0" />
+	<Extension size="900"	credits="700000"			goldCredits="0" />
+	<Extension size="950"	credits="700000"			goldCredits="0" />
+	<Extension size="1000"	credits="800000"			goldCredits="0" />
+	<Extension size="1050"	credits="800000"			goldCredits="0" />
+	<Extension size="1100"	credits="900000"			goldCredits="0" />
+	<Extension size="1300"	credits="1500000"			goldCredits="0" />
+	<Extension size="1500"	credits="2000000"			goldCredits="0" />
+	<Extension size="1750"	credits="3000000"			goldCredits="0" />
+	<Extension size="2000"	credits="4000000"			goldCredits="0" />
+	<Extension size="2250"	credits="5000000"			goldCredits="0" />
+	<Extension size="2500"	credits="6000000"			goldCredits="0" />
+	<Extension size="2750"	credits="0"			goldCredits="30000" />
+	<!--<Extension size="3000"	credits="0"			goldCredits="60000" />	--> <!-- Данное расширение решили отложить до весны 2026 (если не будет нареканий на расширение до 2750 мест - откроем -->
+</InventoryExtensions>
+
+<!-- Autogen Inventory Extensions -->
+<AutogenInventoryExtensions baseSize="10">
+    <Extension size="20" credits="1000000" goldCredits="0" />
+    <Extension size="30" credits="2000000" goldCredits="0" />
+    <Extension size="40" credits="4000000" goldCredits="0" />
+    <Extension size="50" credits="8000000" goldCredits="0" />
+    <Extension size="60" credits="10000000" goldCredits="0" />
+    <Extension size="70" credits="15000000" goldCredits="0" />
+    <Extension size="80" credits="20000000" goldCredits="0" />
+    <Extension size="90" credits="30000000" goldCredits="0" />
+    <Extension size="100" credits="40000000" goldCredits="0" />
+    <Extension size="110" credits="60000000" goldCredits="0" />
+    <Extension size="120" credits="80000000" goldCredits="0" />
+    <Extension size="130" credits="100000000" goldCredits="0" />
+    <Extension size="140" credits="150000000" goldCredits="0" />
+    <Extension size="150" credits="200000000" goldCredits="0" />
+</AutogenInventoryExtensions>
+
+<!-- charge time is in seconds. 60 = 1 minute, 3600 = 1 hour -->
+<FreeRepairs>
+	<Charge time="259200"/>
+	<Charge time="259200"/>
+	<Charge time="259200"/>
+</FreeRepairs>
+
+<!-- -->
+<PremiumTimePrices>
+	<PremiumTime duration="24" 	goldCredits="300" licenseName="DailyLicenseCard" />
+	<PremiumTime duration="72" 	goldCredits="500" licenseName="ThreeDayLicenseCard" />
+	<PremiumTime duration="168" goldCredits="1000" licenseName="WeeklyLicenseCard" />
+	<PremiumTime duration="720" goldCredits="3000" licenseName="MonthlyLicenseCard" />
+	<PremiumTime duration="2160" goldCredits="8500" licenseName="HalfAnnualLicenseCard" />
+	<PremiumTime duration="4320" goldCredits="15500" licenseName="AnnualLicenseCard" />
+	<PremiumTime duration="24" 	goldCredits="240" hidden="1" licenseName="DailyLicenseCardHidden" />
+	<PremiumTime duration="72" 	goldCredits="400" hidden="1" licenseName="ThreeDayLicenseCardHidden" />
+	<PremiumTime duration="168" goldCredits="800" hidden="1" licenseName="WeeklyLicenseCardHidden" />
+	<PremiumTime duration="720" goldCredits="2400" hidden="1" licenseName="MonthlyLicenseCardHidden" />
+	<PremiumTime duration="2160" goldCredits="6800" hidden="1" licenseName="HalfAnnualLicenseCardHidden" />
+	<PremiumTime duration="4320" goldCredits="12400" hidden="1" licenseName="AnnualLicenseCardHidden" />
+</PremiumTimePrices>
+
+<!-- slot requires this much reputation and auto unlocks OR can be bought instantly with gold-->
+<BattleSlotPrice goldCredits="5000"	accountRankReq	="12"		/>
+
+
+<!-- -->
+<ClanRegistrationCost tokenCredits="1500" />
+<ClanChangeNameCost tokenCredits="1000" />
+<ClanChangeTagCost tokenCredits="1000" />
+<ClanChangeRaceCost credits="1000000" />
+
+<ClanUpgrades>
+	<capacity>
+		<Level1 tokenCredits="1500" /> 		<!-- 20 -->
+		<Level2 tokenCredits="1500" /> 		<!-- 30 -->
+		<Level3 tokenCredits="1500" /> 		<!-- 40 -->
+		<Level4 tokenCredits="1500" /> 		<!-- 50 -->
+		<Level5 tokenCredits="1500" /> 		<!-- 100 -->
+		<Level6 tokenCredits="1500" /> 		<!-- 150 -->
+		<Level7 tokenCredits="1500" /> 		<!-- 200 -->
+		<Level8 tokenCredits="1500" /> 		<!-- 250 -->
+		<Level9 tokenCredits="1500" /> 		<!-- 300 -->
+		<Level10 tokenCredits="1500" /> 	<!-- 350 -->
+		<Level11 tokenCredits="1500" /> 	<!-- 400 -->
+		<Level12 tokenCredits="1500" /> 	<!-- 450 -->
+		<Level13 tokenCredits="1500" /> 	<!-- 500 -->
+	</capacity>
+	<resourceLimit>
+		<Level1 tokenCredits="3000000" /> 		<!-- 1000 -->
+		<Level2 tokenCredits="3000000" /> 		<!-- 2000 -->
+		<Level3 tokenCredits="3000000" /> 		<!-- 3000 -->
+		<Level4 tokenCredits="3000000" /> 		<!-- 4000 -->
+		<Level5 tokenCredits="3000000" /> 		<!-- 5000 -->
+	</resourceLimit>
+</ClanUpgrades>
+
+<ClanRecourceExchangeRate>
+    <iridium value="2" />
+    <overcap_to_iridium value="5" />
+    <credits_to_iridium value="200000" />
+    <gold_to_iridium value="2" />
+    <auc_grant value="1" />
+    <iridium_for_clanship value="2" />
+    <iridium_for_clanship_repair value="2" />
+</ClanRecourceExchangeRate>
+
+<!-- -->
+<SocialRewards>
+    <FB credits="0" goldCredits="0" premiumTime="24" />
+    <VK credits="0" goldCredits="0" premiumTime="24" />
+    <Steam credits="0" goldCredits="0" premiumTime="24" />
+</SocialRewards>
+
+<!-- -->
+<AutoPilotCosts>
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+	<Cost credits="0" goldCredits="0" />
+</AutoPilotCosts>
+
+<!-- -->
+<KarmaResetCost goldCredits="500" />
+
+<!-- -->
+<FactionRepResetCost goldCredits="2000" />
+
+<!-- goldCredits = Zen * ArcExchangeRate -->
+<ArcZenExchangeRate value="3.2" />
+
+<ArcBonusGold>
+</ArcBonusGold>
+
+<!-- -->
+<TimeIntervalOffset value="0"/>
+
+<!-- Personal discount offers for completing BattlePass stages  -->
+<BattlePassPersonalOffers>
+</BattlePassPersonalOffers>

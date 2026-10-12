@@ -1,0 +1,985 @@
+<?xml version="1.0"?>
+<Stickers>
+  <Sticker name="Smile_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="March_8_Heart">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Mechanist">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Latvia">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Marker_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Fl_Sweden">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Doom" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Dragon_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Old_roger" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Chili">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="SC">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Africa">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Mad_monkey" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_China">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Greece">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Angry_Head">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Lion_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_France">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fr_Wardens">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Ra_Federation">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Netherlands">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Cards_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Japan">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Australia">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Defender" cantBeBought="1" aid="20">
+    <Price duration="24" cost="20" goldCost="0" />
+    <Price duration="168" cost="50" goldCost="0" />
+    <Price duration="-1" cost="100" goldCost="0" />
+  </Sticker>
+  <Sticker name="Pirate_flag_neon" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Ukraine">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Austria">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Russia">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Supertest" cantBeBought="1" />
+  <Sticker name="Half_skull" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_08">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_UK">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Federation_elite">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Jericho_elite">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_04">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Skull_06">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Jamaica">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Egypt">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="New_roger" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Kazakhstan">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Australia">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Lion_03">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Germany">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ireland">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Dollar_01">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Fl_China">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Dice_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Dead_spider" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_07">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Star_03">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Spain">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ze_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Jamaica">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Burn2death" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_UN">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Star_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Lion_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Pinup_01">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Fl_Portugal">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_NATO">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Tneo_dc" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Inferon" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fr_Raid">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Zerk1" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Gryphon_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Vatone" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Cyprus">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Africa_S">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Varzhak" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Devil">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Algeria">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Roen" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Czech">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Mexica">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Dominican">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Nemesis">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Pacific">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Evilbearardi" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Canada">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Comradtroy" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ciber_skull" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ciber_eagle" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Smile_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Albania">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Christmas_Ball" cantBeBought="1" />
+  <Sticker name="Hook" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_USA">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Russia">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="March_8_Heart_01" aid="21">
+    <Price duration="24" cost="20" goldCost="0" />
+    <Price duration="168" cost="50" goldCost="0" />
+    <Price duration="-1" cost="100" goldCost="0" />
+  </Sticker>
+  <Sticker name="Insignia_Cuba">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Red_beard" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Berzerker">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Trefoil" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Saber_cross" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Pirate_flag" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Brazil">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Brazil">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Golden_axe" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_USA">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Spain">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Empire_Elite">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Unicorn_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Cookie" cantBeBought="1" />
+  <Sticker name="Crab">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Italy">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fragile_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Wreath">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fragile_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fr_Vanguard">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Cards_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Defender_star" cantBeBought="1">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Fr_Tech">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Hieroglyph_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Unicorn">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Explosion">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Santa_Scull" cantBeBought="1" />
+  <Sticker name="Fay">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Eagle_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="March_8_Rose">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Atester" cantBeBought="1" />
+  <Sticker name="Santa_Hat" cantBeBought="1" />
+  <Sticker name="Fl_Finland">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Bulldog">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Moonlight" cantBeBought="1" />
+  <Sticker name="Insignia_Finland">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Christmas_Tree" cantBeBought="1" />
+  <Sticker name="Holy_skull">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Eagle_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Mexico">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Raven" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Portugal">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ze_03">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ibalrog" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Wolf_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_UK">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Evil_heart">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ze_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="CBT" cantBeBought="1" />
+  <Sticker name="Snowman" cantBeBought="1" />
+  <Sticker name="Jericho_cat">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fr_Legion">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Fl_Denmark">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ra_Empire">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Devilgirl">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_09">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Developer" cantBeBought="1" />
+  <Sticker name="Insignia_India">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_03">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Rudolf" cantBeBought="1" />
+  <Sticker name="Armenia">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Mistletoe" cantBeBought="1" />
+  <Sticker name="Pilot_skull">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Christmas_Girl" cantBeBought="1" />
+  <Sticker name="Insignia_Ukraine">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Bells" cantBeBought="1" />
+  <Sticker name="Insignia_Urugvay">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Croatia">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Caramel_Cane" cantBeBought="1" />
+  <Sticker name="Fl_Poland">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Hieroglyph_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Phoenix_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Syria">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Singapore">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Ra_Jericho">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Bulgaria">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_France">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="White_wolf">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Germany">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Abkhaz">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Star_01">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Insignia_Philippines">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_05">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Trefoil_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Loi" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Crown_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Japan">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_India">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Radiation">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Austria">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Hungary">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Hammer_and_sickle_02">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Cross_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Egypt">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Snowflake" cantBeBought="1" />
+  <Sticker name="Hammer_and_sickle_01">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Insignia_Poland">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_NZ">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Cross_skull">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Norway">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Sweden">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Belarus">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Star_05">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Skull_02">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Jericho_dream" cantBeBought="1">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Billiard_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Norway">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Scotland">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Pinup_03">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+  <Sticker name="Lion_04">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Cross_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fr_Armada">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="30" />
+    <Price duration="-1" cost="0" goldCost="150" />
+  </Sticker>
+  <Sticker name="Pigeon">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Serbia">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Star_04">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Fl_Canada">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Phoenix_01">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Insignia_Denmark">
+    <Price duration="24" cost="15000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="40" />
+    <Price duration="-1" cost="0" goldCost="120" />
+  </Sticker>
+  <Sticker name="Pinup_02">
+    <Price duration="24" cost="20000" goldCost="0" />
+    <Price duration="168" cost="0" goldCost="50" />
+    <Price duration="-1" cost="0" goldCost="300" />
+  </Sticker>
+</Stickers>

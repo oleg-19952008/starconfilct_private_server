@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<SlotMachines>
+  <Machine name="SimpleSilver" currency="0" currency_amount="10000">
+    <Combination index="0">
+      <Reward type="1">
+        <Content name="stringId" valueType="3" value="GambleReward" />
+      </Reward>
+      <Reward type="3">
+        <Content name="credits" valueType="2" value="1000000" />
+      </Reward>
+    </Combination>
+    <Combination index="1">
+      <Reward type="5">
+        <Content name="defName" valueType="3" value="Module_Suicide_T1_Mk1" />
+        <Content name="amount" valueType="2" value="1" />
+      </Reward>
+    </Combination>
+    <Combination index="2">
+      <Reward type="3">
+        <Content name="credits" valueType="2" value="1000000" />
+      </Reward>
+    </Combination>
+    <ProbabilityTable mainIndex="0" mainProbability="1.000000" secondaryIndex="0" />
+    <ProbabilityTable mainIndex="1" mainProbability="0.600000" secondaryIndex="0" />
+    <ProbabilityTable mainIndex="2" mainProbability="0.300000" secondaryIndex="0" />
+  </Machine>
+  <Machine name="EpicPlasma" currency="0" currency_amount="10000">
+    <Combination index="0">
+      <Reward type="1">
+        <Content name="stringId" valueType="3" value="GambleReward" />
+      </Reward>
+      <Reward type="5">
+        <Content name="defName" valueType="3" value="SpaceMissile_Barrage_T2_Prem" />
+        <Content name="amount" valueType="2" value="5" />
+      </Reward>
+    </Combination>
+    <Combination index="1">
+      <Reward type="1">
+        <Content name="stringId" valueType="3" value="GambleReward" />
+      </Reward>
+      <Reward type="5">
+        <Content name="defName" valueType="3" value="Weapon_Plasmagun_Basic_T2_Epic" />
+        <Content name="amount" valueType="2" value="1" />
+      </Reward>
+    </Combination>
+    <Combination index="2">
+      <Reward type="1">
+        <Content name="stringId" valueType="3" value="GambleReward" />
+      </Reward>
+      <Reward type="3">
+        <Content name="credits" valueType="2" value="5000" />
+      </Reward>
+    </Combination>
+    <Combination index="3">
+      <Reward type="1">
+        <Content name="stringId" valueType="3" value="GambleRewardLoyalty" />
+      </Reward>
+      <Reward type="4">
+        <Content name="loyalty" valueType="2" value="1000" />
+        <Content name="faction" valueType="2" value="1" />
+      </Reward>
+    </Combination>
+    <ProbabilityTable mainIndex="0" mainProbability="1.000000" secondaryIndex="0" />
+    <ProbabilityTable mainIndex="1" mainProbability="0.400000" secondaryIndex="3" />
+    <ProbabilityTable mainIndex="2" mainProbability="0.400000" secondaryIndex="3" />
+    <ProbabilityTable mainIndex="3" mainProbability="0.800000" secondaryIndex="0" />
+  </Machine>
+</SlotMachines>

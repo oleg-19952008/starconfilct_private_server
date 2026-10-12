@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<Rules>
+	<!--
+	<Rule type="def" defName="[исходный деф]" goldCredits="[дать золота]" credits="[дать кредитов]" newDefName="[заменить дефом]" silent="[сделать бесшумно]"/>
+	-->
+
+	<!--
+	<Rule type="def" defName="Ship_Crystall_S_Rank5" credits="1" silent="1" />
+	<Rule type="def" defName="BP_FakeBlueprint" credits="1" silent="1" />
+	-->
+
+	<!--<Rule type="def" defName="ModulePassive_AutoRepairUnit_Premium_Mk1" goldCredits="10" credits="0" newDefName="" silent="1"/> -->
+	
+	<!-- 
+	<Rule type="def" defName="Ship_Race1_M_T2_Steam" newDefName="Ship_Race1_M_T3_Steam" />
+	<Rule type="def" defName="Ship_Race1_S_T3_Steam" newDefName="Ship_Race1_S_T2_Steam" />
+	<Rule type="def" defName="Ship_Race3_M_T2_Steam" newDefName="Ship_Race3_M_T3_Steam" />
+	-->
+	<!-- <Rule type="def" defName="Ship_Race2_L_T4_Steam"  silent="1"/> -->
+	
+	<!-- <Rule type="def" defName="Ship_Race1_L_T5_2" credits="0" silent="1"/> -->
+	
+	<!-- 
+	<Rule type="def" defName="Weapon_Nanobots_Cloud_T1_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Nanobots_Cloud_T2_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Nanobots_Cloud_T3_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Nanobots_Cloud_T4_Mk1" credits="10000" silent="1"/>
+	
+	<Rule type="def" defName="Weapon_Cold_Ray_T1_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Cold_Ray_T2_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Cold_Ray_T3_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Cold_Ray_T4_Mk1" credits="10000" silent="1"/>
+		
+	<Rule type="def" defName="Weapon_Sparks_Cannon_T1_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Sparks_Cannon_T2_Mk1" credits="10000" silent="1"/>	
+	<Rule type="def" defName="Weapon_Sparks_Cannon_T3_Mk1" credits="10000" silent="1"/>
+	<Rule type="def" defName="Weapon_Sparks_Cannon_T4_Mk1" credits="10000" silent="1"/>
+	-->
+
+
+<!--
+Из за того что БП переехали из ресурсов в блу принты, чекер не проходит их без этой замены.
+
+<Rule type="def" defName="BP_AchillesTargetingUnit_T5_Craft" credits="300000" silent="1"/>
+<Rule type="def" defName="BP_Afterburner_T5_Craft" credits="300000" silent="1"/>
+<Rule type="def" defName="BP_G2D2" credits="500000" silent="1"/>
+<Rule type="def" defName="BP_Iridium_monocrystall" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_LaserPenetrate" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_PlasmaCold" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_RailPerfect" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_ReverseThruster_T3" credits="100000" silent="1"/>
+<Rule type="def" defName="BP_ReverseThruster_T4" credits="150000" silent="1"/>
+<Rule type="def" defName="BP_ReverseThruster_T5" credits="200000" silent="1"/>
+<Rule type="def" defName="BP_ShieldEmitter_T5_Craft" credits="300000" silent="1"/>
+<Rule type="def" defName="BP_SpaceMissile_DoomDay_T5" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Laser_Basic_T3_Rel" credits="200000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Laser_Basic_T4_Rel" credits="300000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Laser_Basic_T5_Rel" credits="500000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Plasmagun_Basic_T3_Rel" credits="200000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Plasmagun_Basic_T4_Rel" credits="300000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Plasmagun_Basic_T5_Rel" credits="500000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Railgun_Basic_T3_Rel" credits="200000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Railgun_Basic_T4_Rel" credits="300000" silent="1"/>
+<Rule type="def" defName="BP_Weapon_Railgun_Basic_T5_Rel" credits="500000" silent="1"/>
+<Rule type="def" defName="BP_ship_part_craft_armor" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_ship_part_craft_base" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_ship_part_craft_capacitor" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_ship_part_craft_cpu" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_ship_part_craft_engine" credits="10000" silent="1"/>
+<Rule type="def" defName="BP_ship_part_craft_shield" credits="10000" silent="1"/>
+-->
+<!--
+Зря создал модули
+
+<Rule type="def" defName="Module_GuidedDronRL_T1_Mk2" credits="10000" silent="1"/>
+<Rule type="def" defName="Module_GuidedDronRL_T2_Mk2" credits="10000" silent="1"/>
+<Rule type="def" defName="Module_GuidedDronRL_T3_Mk2" credits="10000" silent="1"/>
+<Rule type="def" defName="Module_GuidedDronRL_T4_Mk2" credits="10000" silent="1"/>
+<Rule type="def" defName="Module_GuidedDronRL_T5_Mk2" credits="10000" silent="1"/>
+-->
+
+</Rules>

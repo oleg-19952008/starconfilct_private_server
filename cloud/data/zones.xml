@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+<SpaceZones StartZoneForRace0="1" StartZoneForRace1="2" StartZoneForRace2="3" StartZoneForRace3="231" StartZoneForRace4="0" ClanShipZoneForRace0="17" ClanShipZoneForRace1="26" ClanShipZoneForRace2="36">
+  <Zone id="209" name="Precursor_Zona1" levelName="ruinsalien_crystal_iridium_otherworld_r_ow" minAccountRank="14" maxPlayers="24" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="2.000" tier="5" dbgPosX="738.00" dbgPosY="1263.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554152400000" conflictIntervalLong="86400000">
+    <Reward type="6" value="900" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="194" name="Portal_Zona4" levelName="portal_zona4" minAccountRank="25" maxPlayers="24" allowedJump="0" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="2.000" tier="5" dbgPosX="784.00" dbgPosY="1280.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554145200000" conflictIntervalLong="86400000">
+    <Reward type="6" value="1000" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="132" name="Jericho_IsidMiningsite3" levelName="asteroids_wild_rock_08_c_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="17" raceDefault="2" factorPressure="1.000" tier="3" dbgPosX="1469.00" dbgPosY="1252.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="33" />
+    <Link id="131" />
+    <Reward type="6" value="1500" def="AlienCompositeAlloy" />
+  </Zone>
+  <Zone id="206" name="Federation_Geostation" levelName="miningstation_emp_rock_velorum_l_ow" minAccountRank="8" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="6" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1841.00" dbgPosY="728.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554123600000" conflictIntervalLong="86400000">
+    <Link id="122" />
+    <Link id="121" />
+    <Reward type="6" value="1000" def="Ship_Race3_M_T5_Persei_part_small" />
+  </Zone>
+  <Zone id="210" name="Empire_CaptureRepairbase" levelName="ruinsdread_emp_rock_captured_e_ow" minAccountRank="3" maxPlayers="24" civilianZone="1">
+    <Link id="16" />
+    <Link id="101" />
+  </Zone>
+  <Zone id="256" name="ow_spyglass" levelName="factory_pirate_spyglass_l_ow" minAccountRank="3" maxPlayers="16" civilianZone="1">
+    <Link id="254" />
+    <Link id="253" />
+    <Link id="227" />
+  </Zone>
+  <Zone id="212" name="ow_aliendebris13" levelName="ruinsalien_precursor_empty_platform03_r_ow" minAccountRank="13" maxPlayers="24" civilianZone="1">
+    <Link id="213" />
+    <Link id="233" />
+    <Link id="234" />
+  </Zone>
+  <Zone id="134" name="Jericho_IsidStation3" levelName="asteroids_wild_rock_09_c_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="17" raceDefault="2" factorPressure="1.000" tier="3" dbgPosX="1490.00" dbgPosY="1202.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="3" />
+    <Link id="133" />
+    <Link id="32" />
+    <Reward type="1" value="40000000" />
+  </Zone>
+  <Zone id="214" name="ow_concourse" levelName="ruinsalien_precursor_iridium_spheres_l_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="7" raceDefault="2" factorPressure="1.500" tier="4" dbgPosX="1249.00" dbgPosY="1279.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="216" />
+    <Link id="215" />
+    <Link id="131" />
+    <Reward type="6" value="600" def="Aliens_ship_part" />
+  </Zone>
+  <Zone id="415" name="PvP_desttown" levelName="desttown" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="421" name="PvP_omega" levelName="pvp_omega" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="250" name="ow_smallstation" levelName="service_emp_empty_smallstation_u_ow" minAccountRank="3" maxPlayers="24" civilianZone="1">
+    <Link id="16" />
+    <Link id="102" />
+  </Zone>
+  <Zone id="191" name="Portal_Zona1" levelName="portal_zona1" minAccountRank="25" maxPlayers="24" allowedJump="0" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="2.000" tier="5" dbgPosX="820.00" dbgPosY="1300.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554145200000" conflictIntervalLong="86400000">
+    <Reward type="6" value="1500" def="Aliens_ship_part" />
+  </Zone>
+  <Zone id="215" name="ow_lavastone" levelName="ruinsalien_precursor_rock_lavastone_l_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="7" raceDefault="2" factorPressure="1.500" tier="4" dbgPosX="1198.87" dbgPosY="1294.30" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="214" />
+    <Link id="217" />
+    <Link id="234" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="249" name="ow_omega" levelName="oreprocessing_fed_empty_omega_c_ow" minAccountRank="11" maxPlayers="24" civilianZone="1">
+    <Link id="223" />
+  </Zone>
+  <Zone id="196" name="Portal_Zona6" levelName="portal_zona6" minAccountRank="25" maxPlayers="24" allowedJump="0" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="2.000" tier="5" dbgPosX="764.00" dbgPosY="1345.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554134400000" conflictIntervalLong="86400000">
+    <Reward type="1" value="80000000" />
+  </Zone>
+  <Zone id="400" name="PvP_devilsjaw" levelName="s1338_devilsjaw" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="248" name="ow_transstance" levelName="miners_emp_transstance_r_ow" minAccountRank="7" maxPlayers="24" civilianZone="1">
+    <Link id="218" />
+    <Link id="198" />
+    <Link id="197" />
+  </Zone>
+  <Zone id="153" name="ow_last_hope" levelName="oreprocessing_jer_rock_temple_r_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="2" raceDefault="2" factorPressure="1.500" tier="4" dbgPosX="1111.00" dbgPosY="1162.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="233" />
+    <Reward type="6" value="500" def="Processor_block" />
+  </Zone>
+  <Zone id="32" name="Jericho_IsidMiningsite" levelName="survey_jer_rock_pallada_e_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="17" raceDefault="2" factorPressure="1.000" tier="3" dbgPosX="1509.00" dbgPosY="1229.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="3" />
+    <Link id="33" />
+    <Link id="131" />
+    <Link id="134" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="414" name="PvP_alienruins" levelName="s1340_thar_alienruins" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="2" name="Federation_HomeWorld" levelName="hub_fed_rock_edem_l_ow" minAccountRank="10" maxPlayers="24" station="1" civilianZone="1" stationRace="1">
+    <Link id="125" />
+    <Link id="22" />
+    <Link id="126" />
+    <Link id="24" />
+    <Link id="26" />
+  </Zone>
+  <Zone id="418" name="PVP_gate_carib" levelName="nalnifan_gate_carib" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="195" name="Portal_Zona5" levelName="portal_zona5" minAccountRank="25" maxPlayers="24" allowedJump="0" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="2.000" tier="5" dbgPosX="830.00" dbgPosY="1330.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554138000000" conflictIntervalLong="86400000">
+    <Reward type="3" value="8000" />
+  </Zone>
+  <Zone id="22" name="Federation_NalnifanGateLumen" levelName="hangar_fed_rock_colony_e_ow" minAccountRank="7" maxPlayers="24" universeType="1" stellarSystem="10" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1988.00" dbgPosY="994.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="2" />
+    <Link id="208" />
+    <Link id="24" />
+    <Reward type="6" value="400" def="Processor_block" />
+  </Zone>
+  <Zone id="255" name="ow_skeleton_island" levelName="factory_pirate_skeleton_island_l_ow" minAccountRank="3" maxPlayers="16" civilianZone="1">
+    <Link id="257" />
+    <Link id="247" />
+    <Link id="252" />
+    <Link id="253" />
+  </Zone>
+  <Zone id="432" name="PvP_Spyglass" levelName="spyglass" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="425" name="PvP_Fed_Station" levelName="pvp_fed_test_map" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="422" name="PvP_transstance" levelName="pvp_transstance" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="13" name="Empire_IlayMiningsite" levelName="oreprocessing_emp_iridium_mobile_e_ow" minAccountRank="3" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="12" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1380.00" dbgPosY="854.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="105" />
+    <Link id="102" />
+    <Link id="14" />
+    <Reward type="3" value="7500" />
+  </Zone>
+  <Zone id="430" name="PvP_Nothern_Berth" levelName="northern_berth" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="247" name="ow_dreamland" levelName="factory_pirate_dreamland_l_ow" minAccountRank="3" maxPlayers="16" civilianZone="1">
+    <Link id="252" />
+    <Link id="255" />
+    <Link id="201" />
+  </Zone>
+  <Zone id="230" name="Precursor_Zona2" levelName="ruinsalien_crystal_iridium_invertor_r_ow" minAccountRank="7" maxPlayers="24" />
+  <Zone id="207" name="Empire_BigshipBuilding" levelName="shipyard_emp_empty_blackwood_e_ow" minAccountRank="5" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="13" raceDefault="0" factorPressure="1.500" tier="4" dbgPosX="1395.08" dbgPosY="697.30" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="201" />
+    <Link id="103" />
+    <Reward type="6" value="800" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="401" name="PvP_pandora_anomaly" levelName="s1338_pandora_anomaly" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="413" name="PvP_prototype" levelName="da_prototype" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="403" name="PvP_thar_aliendebris13" levelName="s1340_thar_aliendebris13" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="34" name="Jericho_MaseeraGateIsid" levelName="ruins_jer_rock_station_u_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="11" raceDefault="2" factorPressure="1.500" tier="5" dbgPosX="1580.00" dbgPosY="1308.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="135" />
+    <Link id="136" />
+    <Reward type="6" value="1800" def="AlienCompositeAlloy" />
+  </Zone>
+  <Zone id="151" name="ow_terminal_d" levelName="science_fed_empty_terminal_u_ow" minAccountRank="9" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="14" raceDefault="1" factorPressure="1.500" tier="5" dbgPosX="1823.00" dbgPosY="874.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="202" />
+    <Reward type="6" value="2000" def="race2_l_t5_craftuniq_part_small" />
+  </Zone>
+  <Zone id="427" name="PvP_SmallStation" levelName="s1347_smallstation" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="222" name="ow_aliendestsatation" levelName="ruinsalien_precursor_lava_platform02_r_ow" minAccountRank="11" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="4" raceDefault="1" factorPressure="1.500" tier="4" dbgPosX="1791.00" dbgPosY="1112.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554123600000" conflictIntervalLong="86400000">
+    <Link id="223" />
+    <Link id="224" />
+    <Reward type="3" value="7500" />
+  </Zone>
+  <Zone id="218" name="ow_gasgiant" levelName="ruinsalien_precursor_ice_platform_r_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="27" raceDefault="0" factorPressure="1.500" tier="4" dbgPosX="1772.00" dbgPosY="548.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="229" />
+    <Link id="198" />
+    <Link id="248" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="124" name="Federation_LumenConstructionsite3" levelName="asteroids_wild_rock_07_c_ow" minAccountRank="9" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="26" raceDefault="1" factorPressure="1.500" tier="5" dbgPosX="1988.00" dbgPosY="867.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="123" />
+    <Link id="23" />
+    <Link id="202" />
+    <Reward type="6" value="700" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="409" name="PvP_thar_threshold" levelName="s8256_thar_threshold" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="220" name="ow_anomaly" levelName="anomalyhot_wild_lava_pandora_l_ow" minAccountRank="6" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="9" raceDefault="0" factorPressure="1.500" tier="4" dbgPosX="1576.00" dbgPosY="512.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="219" />
+    <Link id="221" />
+    <Reward type="3" value="5000" />
+  </Zone>
+  <Zone id="419" name="PvP_deathstar" levelName="da_deathstar" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="229" name="ow_da_prototype" levelName="factory_emp_iridium_alpha_l_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="15" raceDefault="0" factorPressure="1.500" tier="4" dbgPosX="1878.00" dbgPosY="640.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="218" />
+    <Link id="122" />
+    <Reward type="6" value="800" def="Aliens_ship_part" />
+  </Zone>
+  <Zone id="224" name="ow_northmsite" levelName="miners_fed_rock_01_l_ow" minAccountRank="11" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="22" raceDefault="1" factorPressure="1.500" tier="4" dbgPosX="1828.00" dbgPosY="1180.98" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="225" />
+    <Link id="222" />
+    <Reward type="6" value="2000" def="AlienCompositeAlloy" />
+  </Zone>
+  <Zone id="405" name="PvP_ceres3_asteroidcity" levelName="s1420_ceres3_asteroidcity" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="431" name="PvP_Skeleton_Island" levelName="skeleton_island" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="122" name="Federation_CaribWaterharvest3" levelName="ruinssmall_fed_rock_storage_u_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="6" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1798.00" dbgPosY="717.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554123600000" conflictIntervalLong="86400000">
+    <Link id="121" />
+    <Link id="25" />
+    <Link id="206" />
+    <Link id="229" />
+    <Reward type="6" value="800" def="Aliens_ship_part" />
+  </Zone>
+  <Zone id="216" name="ow_threshold" levelName="ruinsalien_precursor_rock_barrier_r_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="7" raceDefault="2" factorPressure="1.500" tier="4" dbgPosX="1261.00" dbgPosY="1334.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="214" />
+    <Link id="217" />
+    <Reward type="6" value="1000" def="Ship_Race2_S_T5_Uniq_part_small" />
+  </Zone>
+  <Zone id="244" name="ow_lunar" levelName="excavation_elyd_empty_lunar_l_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="19" raceDefault="0" factorPressure="1.500" tier="5" dbgPosX="1828.00" dbgPosY="1321.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554123600000" conflictIntervalLong="86400000">
+    <Reward type="1" value="40000000" />
+  </Zone>
+  <Zone id="133" name="Jericho_IsidStation2" levelName="science_jer_rock_pallada_e_ow" minAccountRank="12" maxPlayers="24" civilianZone="1">
+    <Link id="134" />
+    <Link id="31" />
+    <Link id="131" />
+  </Zone>
+  <Zone id="404" name="PvP_thar_gasgiant" levelName="s1340_thar_gasgiant" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="123" name="Federation_LumenConstructionsite2" levelName="asteroids_wild_rock_06_c_ow" minAccountRank="9" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="26" raceDefault="1" factorPressure="1.500" tier="5" dbgPosX="1998.00" dbgPosY="928.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="24" />
+    <Link id="124" />
+    <Link id="23" />
+    <Reward type="6" value="700" def="Aliens_ship_part" />
+  </Zone>
+  <Zone id="135" name="Jericho_MaseeraGateIsid2" levelName="ruinssmall_jer_rock_storage_e_ow" minAccountRank="12" maxPlayers="24" civilianZone="1">
+    <Link id="33" />
+    <Link id="34" />
+    <Link id="35" />
+  </Zone>
+  <Zone id="217" name="ow_barrierdebris" levelName="ruinsalien_precursor_rock_tower_r_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="7" raceDefault="2" factorPressure="1.500" tier="4" dbgPosX="1199.00" dbgPosY="1330.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="215" />
+    <Link id="216" />
+    <Reward type="6" value="1000" def="Screened_battery" />
+  </Zone>
+  <Zone id="193" name="Portal_Zona3" levelName="portal_zona3" minAccountRank="25" maxPlayers="24" allowedJump="0" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="2.000" tier="5" dbgPosX="800.00" dbgPosY="1340.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554656400000" conflictIntervalLong="86400000">
+    <Reward type="6" value="1000" def="Ship_Race3_H_T5_Uniq_part_small" />
+  </Zone>
+  <Zone id="254" name="ow_northern_berth" levelName="factory_pirate_northern_berth_l_ow" minAccountRank="3" maxPlayers="16" civilianZone="1">
+    <Link id="252" />
+    <Link id="256" />
+    <Link id="253" />
+    <Link id="198" />
+  </Zone>
+  <Zone id="245" name="ow_bion" levelName="excavation_elyd_empty_bion_l_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" />
+  <Zone id="11" name="Empire_IlayGateSirus" levelName="wreck_emp_rock_02_r_ow" minAccountRank="6" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="1" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1435.00" dbgPosY="537.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="103" />
+    <Link id="104" />
+    <Link id="12" />
+    <Reward type="6" value="600" def="Processor_block" />
+  </Zone>
+  <Zone id="213" name="ow_ancientcomplex" levelName="ruinsbig_expanse_empty_tube_l_ow" minAccountRank="7" maxPlayers="24" universeType="1" stellarSystem="2" raceDefault="2" factorPressure="1.500" tier="4" dbgPosX="1202.49" dbgPosY="1187.52" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="212" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="35" name="Jericho_MaseeraTerramorphingsite" levelName="hub_jer_rock_terramorph_e_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="11" raceDefault="2" factorPressure="1.500" tier="5" dbgPosX="1608.00" dbgPosY="1269.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="135" />
+    <Link id="136" />
+    <Link id="205" />
+    <Reward type="6" value="1000" def="resource_ship_craft_ny_2019_small" />
+  </Zone>
+  <Zone id="152" name="deathstar" levelName="science_precursor_empty_deathstar_e_ow" minAccountRank="14" maxPlayers="24" />
+  <Zone id="223" name="ow_livestation" levelName="hub_emp_rock_avanpost_e_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="23" raceDefault="1" factorPressure="1.500" tier="4" dbgPosX="1838.00" dbgPosY="1042.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="125" />
+    <Link id="222" />
+    <Link id="249" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="17" name="Empire_IlayClanbigship" levelName="empire_ilay_clanbigship" minAccountRank="1" maxPlayers="24" civilianZone="1" clanShipRace="0" universeType="1" stellarSystem="12" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1465.70" dbgPosY="863.00" universeMinShipRank="1" universeMaxShipRank="18" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="1" />
+    <Reward type="1" value="0" />
+  </Zone>
+  <Zone id="429" name="PvP_Foul_Ground" levelName="foul_ground" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="420" name="PvP_planet_war_7" levelName="planet_war_7" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="199" name="ow_planet_war" levelName="factory_emp_rock_planetwar_l_ow" minAccountRank="7" maxPlayers="24" universeType="1" stellarSystem="24" raceDefault="0" factorPressure="1.500" tier="5" dbgPosX="1640.94" dbgPosY="635.55" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="221" />
+    <Link id="198" />
+    <Reward type="6" value="900" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="423" name="PvP_allidium_yard" levelName="allidium_yard" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="406" name="PvP_ceres3_northmsite" levelName="s1420_ceres3_northmsite" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="433" name="PvP_The_Fort" levelName="the_fort" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="105" name="Empire_IlayStation2" levelName="ruins_emp_rock_pharm_u_ow" minAccountRank="3" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="12" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1405.68" dbgPosY="817.07" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="1" />
+    <Link id="13" />
+    <Link id="106" />
+    <Reward type="1" value="40000000" />
+  </Zone>
+  <Zone id="417" name="PVP_constructionsite" levelName="lumen_constructionsite" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="202" name="Federation_Frontier" levelName="transit_fed_rock_frontier_e_ow" minAccountRank="9" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="14" raceDefault="1" factorPressure="1.500" tier="5" dbgPosX="1845.12" dbgPosY="820.75" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="227" />
+    <Link id="124" />
+    <Link id="151" />
+    <Reward type="6" value="1000" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="204" name="Jericho_PirateBay" levelName="hub_pirate_empty_muerto_l_ow" minAccountRank="17" maxPlayers="24" onlyForWing="1" universeType="1" stellarSystem="25" raceDefault="0" factorPressure="3.000" tier="5" dbgPosX="1645.00" dbgPosY="865.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554660000000" conflictIntervalLong="604800000">
+    <Reward type="6" value="2000" def="SalyutWing" />
+  </Zone>
+  <Zone id="192" name="Portal_Zona2" levelName="portal_zona2" minAccountRank="25" maxPlayers="24" allowedJump="0" onlyForWing="1" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="4.000" tier="5" dbgPosX="764.00" dbgPosY="1310.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554570000000" conflictIntervalLong="604800000">
+    <Reward type="6" value="2500" def="SalyutWing" />
+  </Zone>
+  <Zone id="189" name="Portal_Zona8" levelName="portal_zona8" minAccountRank="25" maxPlayers="24" allowedJump="0" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="2.000" tier="5" dbgPosX="767.00" dbgPosY="1257.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554145200000" conflictIntervalLong="86400000">
+    <Reward type="6" value="2000" def="Ship_Race2_L_T5_Carolingian_part_small" />
+  </Zone>
+  <Zone id="208" name="Federation_AsteroidBuilding" levelName="ruinsdread_emp_ice_icebelt_l_ow" minAccountRank="7" maxPlayers="24" universeType="1" stellarSystem="10" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1974.00" dbgPosY="1023.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="125" />
+    <Link id="22" />
+    <Reward type="6" value="1000" def="Screened_battery" />
+  </Zone>
+  <Zone id="106" name="Empire_IlayStation3" levelName="miners_emp_rock_01_e_ow" minAccountRank="3" maxPlayers="24" civilianZone="1">
+    <Link id="1" />
+    <Link id="105" />
+    <Link id="201" />
+  </Zone>
+  <Zone id="221" name="ow_devilsjaw" levelName="ruinsalien_precursor_stone_devilsjaw_l_ow" minAccountRank="6" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="9" raceDefault="0" factorPressure="1.500" tier="4" dbgPosX="1599.00" dbgPosY="562.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="199" />
+    <Link id="219" />
+    <Link id="220" />
+    <Reward type="6" value="2000" def="Ship_Race3_L_T5_Hellas_part_small" />
+  </Zone>
+  <Zone id="411" name="PvP_thar_concourse" levelName="s8256_thar_concourse" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="1" name="Empire_HomeWorld" levelName="hub_emp_rock_guard_e_ow" minAccountRank="3" maxPlayers="24" station="1" civilianZone="1" stationRace="0">
+    <Link id="106" />
+    <Link id="105" />
+    <Link id="14" />
+    <Link id="17" />
+    <Link id="231" />
+  </Zone>
+  <Zone id="131" name="Jericho_IsidMiningsite2" levelName="ruins_jer_rock_pharm_u_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="17" raceDefault="2" factorPressure="1.000" tier="3" dbgPosX="1454.00" dbgPosY="1233.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="32" />
+    <Link id="132" />
+    <Link id="133" />
+    <Link id="214" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="126" name="Federation_NalnifanShipyard3" levelName="wreck_fed_rock_09_u_ow" minAccountRank="10" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="10" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1941.09" dbgPosY="960.42" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="2" />
+    <Link id="24" />
+    <Reward type="3" value="5000" />
+  </Zone>
+  <Zone id="25" name="Federation_CaribWaterharvest" levelName="shipyard_fed_rock_waterharvest_e_ow" minAccountRank="8" maxPlayers="24" universeType="1" stellarSystem="6" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1765.20" dbgPosY="723.16" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554123600000" conflictIntervalLong="86400000">
+    <Link id="122" />
+    <Reward type="3" value="7500" />
+  </Zone>
+  <Zone id="198" name="ow_planet_war_7" levelName="hub_emp_rock_northstar_l_ow" minAccountRank="7" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="24" raceDefault="0" factorPressure="1.500" tier="5" dbgPosX="1678.17" dbgPosY="642.79" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="248" />
+    <Link id="199" />
+    <Link id="254" />
+    <Reward type="6" value="1000" def="Ship_Race2_L_T5_Dino_part_small" />
+  </Zone>
+  <Zone id="205" name="Jericho_JerichoBase" levelName="mininghub_jer_lava_crimson_l_ow" minAccountRank="7" maxPlayers="24" civilianZone="1">
+    <Link id="35" />
+    <Link id="136" />
+    <Link id="225" />
+  </Zone>
+  <Zone id="227" name="Federation_FrozenStation" levelName="science_fed_ice_illidium_l_ow" minAccountRank="8" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="6" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1811.00" dbgPosY="790.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554123600000" conflictIntervalLong="86400000">
+    <Link id="121" />
+    <Link id="202" />
+    <Link id="256" />
+    <Reward type="6" value="1500" def="AlienCompositeAlloy" />
+  </Zone>
+  <Zone id="101" name="Empire_IlayGateRex2" levelName="asteroids_wild_rock_02_c_ow" minAccountRank="3" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="12" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1436.83" dbgPosY="903.03" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="14" />
+    <Link id="210" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="252" name="ow_captain_kidds_berth" levelName="factory_pirate_captain_kidds_berth_l_ow" minAccountRank="3" maxPlayers="16" civilianZone="1">
+    <Link id="247" />
+    <Link id="254" />
+    <Link id="255" />
+  </Zone>
+  <Zone id="408" name="PvP_thar_lavastone" levelName="s8256_thar_lavastone" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="36" name="Jericho_IsidClanbigship" levelName="jericho_isid_clanbigship" minAccountRank="1" maxPlayers="24" civilianZone="1" clanShipRace="2" universeType="1" stellarSystem="17" raceDefault="2" factorPressure="1.000" tier="3" dbgPosX="1517.00" dbgPosY="1160.00" universeMinShipRank="1" universeMaxShipRank="18" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="3" />
+    <Reward type="1" value="0" />
+  </Zone>
+  <Zone id="251" name="ow_allidium_yard" levelName="shipyard_allidium_empty_yard_e_ow" minAccountRank="7" maxPlayers="24" civilianZone="1">
+    <Link id="21" />
+    <Link id="225" />
+  </Zone>
+  <Zone id="201" name="Empire_Frontier" levelName="transit_emp_rock_frontier_e_ow" minAccountRank="4" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="20" raceDefault="0" factorPressure="1.500" tier="5" dbgPosX="1459.97" dbgPosY="764.78" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="106" />
+    <Link id="207" />
+    <Link id="247" />
+    <Reward type="6" value="1500" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="24" name="Federation_NalnifanGateCarib" levelName="survey_fed_ice_olimp_e_ow" minAccountRank="7" maxPlayers="24">
+    <Link id="126" />
+    <Link id="2" />
+    <Link id="123" />
+    <Link id="22" />
+  </Zone>
+  <Zone id="407" name="PvP_thar_barrierdebris" levelName="s8256_thar_barrierdebris" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="257" name="ow_the_fort" levelName="factory_pirate_the_fort_l_ow" minAccountRank="3" maxPlayers="16" civilianZone="1">
+    <Link id="253" />
+    <Link id="255" />
+    <Link id="31" />
+  </Zone>
+  <Zone id="12" name="Empire_SirusDebrissite" levelName="ruinsbig_emp_rock_wardenhub_e_ow" minAccountRank="6" maxPlayers="24" universeType="1" stellarSystem="1" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1470.17" dbgPosY="572.31" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="104" />
+    <Link id="103" />
+    <Link id="11" />
+    <Reward type="6" value="500" def="Aliens_ship_part" />
+  </Zone>
+  <Zone id="31" name="Jericho_IsidGasharvest" levelName="mininggas_jer_rock_01_r_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="17" raceDefault="2" factorPressure="1.000" tier="3" dbgPosX="1472.00" dbgPosY="1172.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="133" />
+    <Link id="257" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="121" name="Federation_CaribWaterharvest2" levelName="docks_fed_rock_03_r_ow" minAccountRank="8" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="6" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1820.65" dbgPosY="758.70" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554123600000" conflictIntervalLong="86400000">
+    <Link id="122" />
+    <Link id="206" />
+    <Link id="227" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="26" name="Federation_NalnifanClanbigship" levelName="fed_nalnifan_clanbigship" minAccountRank="1" maxPlayers="24" civilianZone="1" clanShipRace="1" universeType="1" stellarSystem="10" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1914.94" dbgPosY="994.63" universeMinShipRank="1" universeMaxShipRank="18" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="2" />
+    <Reward type="1" value="0" />
+  </Zone>
+  <Zone id="203" name="Jericho_Frontier" levelName="mininghub_jer_rock_frontier_e_ow" minAccountRank="14" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="18" raceDefault="2" factorPressure="1.500" tier="5" dbgPosX="1296.48" dbgPosY="1088.33" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="16" />
+    <Link id="233" />
+    <Reward type="6" value="1100" def="Iridium_monocrystall" />
+  </Zone>
+  <Zone id="21" name="Federation_NalnifanShipyard" levelName="docks_fed_rock_olimp_e_ow" minAccountRank="10" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="10" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1951.00" dbgPosY="1042.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="125" />
+    <Link id="251" />
+    <Reward type="6" value="1500" def="AlienCompositeAlloy" />
+  </Zone>
+  <Zone id="103" name="Empire_IlayGateSirus2" levelName="service_emp_rock_01_u_ow" minAccountRank="6" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="1" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1422.00" dbgPosY="588.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="11" />
+    <Link id="12" />
+    <Link id="207" />
+    <Reward type="3" value="5000" />
+  </Zone>
+  <Zone id="225" name="ow_asteroidcity" levelName="mininghub_fed_rock_01_l_ow" minAccountRank="11" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="22" raceDefault="1" factorPressure="1.500" tier="4" dbgPosX="1834.85" dbgPosY="1217.30" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="224" />
+    <Link id="205" />
+    <Link id="251" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="197" name="ow_asteroidsatellite" levelName="miners_emp_rock_sattelite_r_ow" minAccountRank="7" maxPlayers="24" civilianZone="1">
+    <Link id="248" />
+  </Zone>
+  <Zone id="219" name="ow_dreadnwreck" levelName="ruinssmall_emp_lava_expedition_r_ow" minAccountRank="6" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="9" raceDefault="0" factorPressure="1.500" tier="4" dbgPosX="1545.00" dbgPosY="546.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="221" />
+    <Link id="220" />
+    <Link id="104" />
+    <Reward type="6" value="1000" def="Ship_Race1_L_T5_Sniper_part_small" />
+  </Zone>
+  <Zone id="428" name="PvP_Captain_Kidds_Berth" levelName="captain_kidds_berth" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="14" name="Empire_IlayGateRex" levelName="wreck_generic_rock_01_u_ow" minAccountRank="3" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="12" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1425.84" dbgPosY="876.27" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="102" />
+    <Link id="101" />
+    <Link id="1" />
+    <Link id="13" />
+    <Reward type="6" value="1500" def="AlienCompositeAlloy" />
+  </Zone>
+  <Zone id="426" name="PvP_Alienderstation" levelName="s1340_aliendestsatation" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="23" name="Federation_LumenConstructionsite" levelName="science_fed_rock_complex_e_ow" minAccountRank="7" maxPlayers="24" universeType="1" stellarSystem="26" raceDefault="1" factorPressure="1.500" tier="5" dbgPosX="2041.00" dbgPosY="881.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="124" />
+    <Link id="123" />
+    <Reward type="6" value="1000" def="resource_ship_craft_ny_2019_small" />
+  </Zone>
+  <Zone id="125" name="Federation_NalnifanShipyard2" levelName="asteroids_wild_rock_04_c_ow" minAccountRank="10" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="10" raceDefault="1" factorPressure="1.000" tier="3" dbgPosX="1936.60" dbgPosY="1015.84" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554087600000" conflictIntervalLong="86400000">
+    <Link id="2" />
+    <Link id="21" />
+    <Link id="208" />
+    <Link id="223" />
+    <Reward type="6" value="1000" def="Ship_Race1_M_T5_Bark_part_small" />
+  </Zone>
+  <Zone id="231" name="Precursor_Zona3" levelName="hub_crystal_iridium_leviathan_l_ow" minAccountRank="1" maxPlayers="24" station="1" civilianZone="1" stationRace="3">
+    <Link id="16" />
+  </Zone>
+  <Zone id="3" name="Jericho_HomeWorld" levelName="hub_jer_rock_mendes_l_ow" minAccountRank="12" maxPlayers="24" station="1" civilianZone="1" stationRace="2">
+    <Link id="134" />
+    <Link id="32" />
+    <Link id="36" />
+    <Link id="231" />
+  </Zone>
+  <Zone id="233" name="ow_desttown" levelName="ruinsbig_jer_empty_monolith_l_ow" minAccountRank="13" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="2" raceDefault="2" factorPressure="1.500" tier="4" dbgPosX="1169.00" dbgPosY="1142.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="212" />
+    <Link id="203" />
+    <Link id="153" />
+    <Reward type="6" value="500" def="Processor_block" />
+  </Zone>
+  <Zone id="234" name="ow_alienruins" levelName="ruinsalien_crystal_empty_temple_l_ow" minAccountRank="13" maxPlayers="24" civilianZone="1">
+    <Link id="212" />
+    <Link id="215" />
+  </Zone>
+  <Zone id="33" name="Jericho_IsidGateMaseera" levelName="storage_jer_rock_pallada_e_ow" minAccountRank="12" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="17" raceDefault="2" factorPressure="1.000" tier="3" dbgPosX="1508.00" dbgPosY="1255.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="32" />
+    <Link id="135" />
+    <Link id="132" />
+    <Reward type="3" value="5000" />
+  </Zone>
+  <Zone id="102" name="Empire_IlayGateRex3" levelName="asteroids_wild_rock_01_c_ow" minAccountRank="3" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="12" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1393.00" dbgPosY="885.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="13" />
+    <Link id="14" />
+    <Link id="250" />
+    <Reward type="6" value="1000" def="Screened_battery" />
+  </Zone>
+  <Zone id="104" name="Empire_IlayGateSirus3" levelName="ruinsdread_emp_rock_01_r_ow" minAccountRank="6" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="1" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1463.00" dbgPosY="543.00" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="11" />
+    <Link id="12" />
+    <Link id="219" />
+    <Reward type="6" value="2000" def="AlienCompositeAlloy" />
+  </Zone>
+  <Zone id="190" name="Portal_Zona7" levelName="portal_zona7" minAccountRank="25" maxPlayers="24" allowedJump="0" universeType="2" stellarSystem="21" raceDefault="0" factorPressure="4.000" tier="5" dbgPosX="834.00" dbgPosY="1272.00" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554566400000" conflictIntervalLong="604800000">
+    <Reward type="6" value="700" def="resource_zeta_final_add_2" />
+  </Zone>
+  <Zone id="16" name="Empire_RexFallenScrapyard" levelName="wreck_generic_rock_03_r_ow" minAccountRank="3" maxPlayers="24" civilianZone="1" universeType="1" stellarSystem="16" raceDefault="0" factorPressure="1.000" tier="3" dbgPosX="1310.99" dbgPosY="996.20" universeMinShipRank="7" universeMaxShipRank="9" conflictIntervalStart="1554141600000" conflictIntervalLong="86400000">
+    <Link id="210" />
+    <Link id="231" />
+    <Link id="250" />
+    <Reward type="3" value="6000" />
+  </Zone>
+  <Zone id="402" name="PvP_pandora_dreadnwreck" levelName="s1338_pandora_dreadnwreck" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="253" name="ow_foul_ground" levelName="factory_pirate_foul_ground_l_ow" minAccountRank="3" maxPlayers="16" civilianZone="1">
+    <Link id="256" />
+    <Link id="257" />
+    <Link id="255" />
+    <Link id="254" />
+  </Zone>
+  <Zone id="410" name="PvP_livestation" levelName="s1347_livestation" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="136" name="Jericho_MaseeraGateIsid3" levelName="ruinssmall_jer_rock_storage03_e_ow" minAccountRank="7" maxPlayers="24" universeType="1" stellarSystem="11" raceDefault="2" factorPressure="1.500" tier="5" dbgPosX="1620.24" dbgPosY="1309.58" universeMinShipRank="10" universeMaxShipRank="17" conflictIntervalStart="1554148800000" conflictIntervalLong="86400000">
+    <Link id="34" />
+    <Link id="35" />
+    <Link id="205" />
+    <Reward type="6" value="700" def="Aliens_ship_part" />
+  </Zone>
+  <Zone id="416" name="PVP_sirus_debrissite" levelName="sirus_debrissite" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="412" name="PvP_thar_ancientcomplex" levelName="s8256_thar_ancientcomplex" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+  <Zone id="424" name="PvP_Asteroids_Sattelite" levelName="asteroids_sattelite" minAccountRank="1" maxPlayers="64" civilianZone="1" />
+</SpaceZones>

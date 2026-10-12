@@ -1,0 +1,2585 @@
+<?xml version="1.0"?>
+<ClanEmblems>
+  <Emblem name="clan_icon_id_2462" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2462" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_910" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="910" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4865" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4865" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_973_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="973" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_ukraine" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_corp665" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="665" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3238" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3238" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2150" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2150" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2762" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2762" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_france" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2499" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2499" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1256" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1256" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3219" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3219" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1072" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1072" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3138" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3138" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2799" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2799" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1716" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1716" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2328" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2328" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4721" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4721" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_812" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="812" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4060" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4060" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_federation_2" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_jericho_2" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_28" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="28" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2867" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2867" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2875" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2875" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3048" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3048" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1135" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1135" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2105" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2105" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2310" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2310" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_star" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_3595" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3595" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4180" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4180" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1634_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1634" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2270" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2270" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3115" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3115" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1736" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1736" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_946" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="946" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_36" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="36" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2078" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2078" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3078" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3078" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_kazakhstan" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2961" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2961" />
+    </Clans>
+  </Emblem>
+  <Emblem name="Default" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_995_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="995" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3493" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3493" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3603" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3603" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2987" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2987" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3728" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3728" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_81" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="81" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_6114" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="6114" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_46" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="46" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1274" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1274" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_6021" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="6021" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_first_alliance" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="784" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_942" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="942" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_italy" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_4846" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4846" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_6181" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="6181" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3135" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3135" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_pirates_2" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_1561_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1561" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5951" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5951" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2325" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2325" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2145" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2145" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5248" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5248" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2047" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2047" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5518" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5518" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_978" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="978" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1573" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1573" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_belarus" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_5798" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5798" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3739" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3739" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2705" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2705" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5701" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5701" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5861" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5861" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3783" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3783" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_6083" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="6083" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3713" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3713" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5970" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5970" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1634" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1634" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_slovenia" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_1167" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1167" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2113" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2113" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5778" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5778" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3350" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3350" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2302" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2302" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5774" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5774" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5759" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5759" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5702" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5702" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4209" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4209" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5119" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5119" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5468" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5468" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1027_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1027" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4365" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4365" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3116_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3116" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_24" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="24" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_hksar" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_3345" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3345" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_new_zealand" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2315" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2315" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5204" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5204" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5276" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5276" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1444" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1444" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1929" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1929" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1381" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1381" />
+      <Clan cid="2113" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5366" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5366" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5442" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5442" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3245" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3245" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3839" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3839" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_87" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="87" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5291" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5291" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_mexico" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_fl_croatia" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_794" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="794" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3375" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3375" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1442" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1442" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4891" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4891" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3515" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3515" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2837" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2837" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_jamaica" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_97" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="97" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4498" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4498" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5395" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5395" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_995" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="995" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2053" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2053" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3367" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3367" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4955" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4955" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5017" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5017" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_8" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="8" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3513" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3513" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3303" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3303" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5192" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5192" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1472" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1472" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4801" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4801" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2803_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2803" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_africa" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_840" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="840" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5261" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5261" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2874_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2874" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_portugal" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_789" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="789" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3778" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3778" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3933" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3933" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2974_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2974" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1955" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1955" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3064" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3064" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3939" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3939" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2827" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2827" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5221_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5221" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5184" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5184" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5108" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5108" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4900" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4900" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4892" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4892" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_egypt" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_fl_cyprus" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_4324" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4324" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3447" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3447" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5689" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5689" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_norway" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_4060_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4060" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3850" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3850" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1264" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1264" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_9" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="9" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_69" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="69" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2857" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2857" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1201" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1201" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2647" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2647" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3783_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3783" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3566" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3566" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4825" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4825" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3017" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3017" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3971" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3971" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2281" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2281" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4822" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4822" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_spain" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2166" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2166" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3565" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3565" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_6140" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="6140" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3446_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3446" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3779" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3779" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1833" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1833" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2842" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2842" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_czech_republic" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_41" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="41" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2857_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2857" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3603_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3603" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_brazil" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_imperium_4" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_3175" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3175" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2803" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2803" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1561" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1561" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4650" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4650" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4986" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4986" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2266" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2266" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4505" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4505" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_radiation" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_4909" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4909" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4935" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4935" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2523" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2523" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1839" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1839" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3078_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3078" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1027" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1027" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4380" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4380" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1787" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1787" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_888" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="888" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1692" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1692" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4017" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4017" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3667" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3667" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2448" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2448" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4347" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4347" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3857_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3857" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3071" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3071" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3497" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3497" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4543" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4543" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3975" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3975" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_usa" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2001" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2001" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4471" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4471" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_409" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="409" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5240" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5240" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1581" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1581" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3951" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3951" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3561" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3561" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2284" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2284" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3573" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3573" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4177" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4177" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4607" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4607" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4299" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4299" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2543" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2543" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2211" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2211" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2863" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2863" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4230" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4230" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1327" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1327" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2031" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2031" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3116" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3116" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_917" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="917" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4072" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4072" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_jericho_1" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_3137" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3137" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_911" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="911" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1998" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1998" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_bulgaria" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_1311" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1311" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_federation_1" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_3948" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3948" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4175" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4175" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3114" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3114" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_christmas_tree_1" goldCost="2000" iridiumCost="1500">
+    <Clans>
+      <Clan cid="1" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2770_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2770" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1225" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1225" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4602" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4602" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3967" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3967" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_520" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="520" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_canada" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_federation_3" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_fl_greece" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_jericho_3" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_4021" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4021" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1354" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1354" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3478_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3478" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3474" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3474" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5253" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5253" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3994" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3994" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_97_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="97" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3857" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3857" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_poland" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2973" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2973" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4246" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4246" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3745" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3745" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1583" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1583" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2926_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2926" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2706_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2706" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1484" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1484" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3605" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3605" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2224" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2224" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3449" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3449" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4180_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4180" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2324" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2324" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2666" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2666" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2437_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2437" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2940_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2940" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1411" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1411" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2493" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2493" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_peru" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_6153" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="6153" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1634_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1634" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2860" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2860" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2819" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2819" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_477" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="477" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2283" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2283" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1723_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1723" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1930" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1930" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4273" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4273" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2869" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2869" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_imperium_1" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_3307" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3307" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_uk" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_3418" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3418" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3781" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3781" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_841" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="841" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2569" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2569" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3437" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3437" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3235" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3235" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3365_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3365" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_742" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="742" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3245_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3245" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_imperium_3" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_3404" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3404" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3175_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3175" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4836" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4836" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_pirates_1" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_2499_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2499" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_841_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="841" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_841_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="841" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_skull" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_2315_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2315" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_953" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="953" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_97_4" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="97" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_turkey" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_fl_colombia" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_fl_scotland" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_772" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="772" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_pirates_3" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_1768_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1768" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2312" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2312" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2210_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2210" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_864" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="864" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3276" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3276" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1733" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1733" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3778_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3778" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_973" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="973" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3521_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3521" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3364" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3364" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3478" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3478" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1966" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1966" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3446" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3446" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3886" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3886" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_534" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="534" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_finland" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_1581_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1581" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_armenia" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_fl_england" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_3357" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3357" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1892" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1892" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1621" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1621" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_slovakia" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_838" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="838" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2499_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2499" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1541" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1541" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_5468_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5468" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_25" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="25" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_austria" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_3440" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3440" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4503" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4503" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3521" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3521" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_india" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_3351" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3351" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3531" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3531" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_philippines" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_3145_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3145" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1931" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1931" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2968" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2968" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2516" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2516" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3667_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3667" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2541" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2541" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3362" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3362" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_netherlands" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_4523" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4523" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2808" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2808" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2404" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2404" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2462_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2462" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_syria" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2006" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2006" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_australia" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2436" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2436" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_828" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="828" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1700" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1700" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3902" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3902" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2395" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2395" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3204" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3204" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4844" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4844" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3145" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3145" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3083" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3083" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1749" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1749" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2940_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2940" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_10" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="10" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2756" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2756" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_243" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="243" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2952" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2952" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1723" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1723" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3365" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3365" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3098" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3098" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_696" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="696" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_35" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="35" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2900" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2900" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2744" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2744" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1753" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1753" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2820" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2820" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_germany" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2436_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2436" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2928" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2928" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_860" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="860" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2369" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2369" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2426" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2426" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3636" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3636" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1792" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1792" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_910_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="910" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4028" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4028" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_pirates_4" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_2974" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2974" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1010" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1010" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2325_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2325" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2926" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2926" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2940" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2940" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2367" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2367" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2936" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2936" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2874" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2874" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_jericho_4" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_fl_denmark" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2399" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2399" />
+    </Clans>
+  </Emblem>
+  <Emblem name="Empty" goldCost="0" iridiumCost="0" />
+  <Emblem name="clan_icon_id_3446_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3446" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_878" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="878" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1639" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1639" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2924" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2924" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_78" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="78" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_ireland" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_2857_3" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2857" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2437" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2437" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_sweden" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_5241" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="5241" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2000" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2000" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_4860" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="4860" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1232" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1232" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2144" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2144" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_ship" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_2110" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2110" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2310_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2310" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2824" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2824" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_226" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="226" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1893" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1893" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_azeybardzhan" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_1534" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1534" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2856" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2856" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_243_1" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="243" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2210" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2210" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_russia" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_1063" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1063" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_541" goldCost="0" iridiumCost="0">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="541" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1672" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1672" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_sword" goldCost="2000" iridiumCost="1500" />
+  <Emblem name="clan_icon_id_74" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="74" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1867" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1867" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1768" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1768" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1718" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1718" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1206" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1206" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_japan" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_32" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="32" />
+      <Clan cid="2827" />
+      <Clan cid="3474" />
+      <Clan cid="2051" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_278" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="278" />
+      <Clan cid="3351" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1983" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1983" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2208" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2208" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1817" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1817" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_331" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="331" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2770" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2770" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3232" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3232" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2935" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2935" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1439" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1439" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1662" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1662" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1320" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1320" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2009" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2009" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2762_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2762" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_3122" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="3122" />
+      <Clan cid="2836" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_97_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="97" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_618" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="618" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1072_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1072" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1520" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1520" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_imperium_2" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_1307" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1307" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_federation_4" goldCost="2000" iridiumCost="1250" />
+  <Emblem name="clan_icon_id_2000_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2000" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_fl_china" goldCost="2000" iridiumCost="1000" />
+  <Emblem name="clan_icon_id_1768_2" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1768" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_1988" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="1988" />
+    </Clans>
+  </Emblem>
+  <Emblem name="clan_icon_id_2823" goldCost="3000" iridiumCost="10000">
+    <Clans>
+      <Clan cid="1" />
+      <Clan cid="2823" />
+    </Clans>
+  </Emblem>
+</ClanEmblems>

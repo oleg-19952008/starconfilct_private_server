@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!--
+	type:
+		ST_LOAD_BALANCER			: 1
+		ST_SHARD					: 2
+		ST_MATCHMAKER				: 3
+		ST_DEDICATED_SERVER 		: 4 ( should not occur )
+		ST_HUB						: 5 ( should not occur )
+		ST_ADMIN_CONSOLE			: 6 ( should not occur )
+		ST_GAME_REWARD_DISPENCER	: 7
+		ST_AUTHENTICATOR			: 8
+		ST_CHAT_SERVER				: 9
+		ST_DEPRICATED_0				: 10 ( should not occur )
+		ST_CONFIG_SERVER			: 11
+		ST_UNIVERSE					: 12
+		ST_QUEST_SERVER				: 13
+		ST_ZONE_COORDINATOR			: 14
+		ST_ZONE_INSTANCE			: 15 ( should not occur )
+		ST_LOBBY_SERVER				: 16
+		ST_ACHIEVEMENT_SERVER		: 17
+		ST_LEADERBOARD_SERVER		: 18
+		ST_CLAN_SERVER				: 19
+		ST_TOURNAMENT				: 20
+		ST_EARLY_MATCHMAKER			: 21
+		ST_SCRIPTS_SERVER			: 22
+		ST_ADVENTURE_SERVER			: 23
+	addr:
+		host adress to spawn service on
+		
+	path:
+		absolute path to executable ON REMOTE HOST. Network path should be cool?
+
+	priority:
+		defines launch order: higher first, and only after it all others
+		0 : low
+		1 : medium (default)
+		2 : high
+-->
+<Cloud debug="0" >
+	<CommonCVars>
+		<CVar name="dbg_disableLuaDataFormatChecking" value="1" />
+	</CommonCVars>
+	
+	<Node address="127.0.0.1:3850" dediServerHost="1" id="1" region="1">
+		<Service type="1" />
+		<Service type="2" />
+		<Service type="3" />
+		<Service type="7" />
+		<Service type="8" />
+		<Service type="9" />
+		<Service type="11" />
+		<Service type="12" />
+		<Service type="13" />
+		<Service type="14" />
+		<Service type="16" />
+		<Service type="17" />
+		<Service type="18" />
+		<Service type="19" />
+		<Service type="20" />
+		<Service type="22" priority="0" />
+		<Service type="23" />
+	</Node>
+</Cloud>

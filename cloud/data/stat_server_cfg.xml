@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<Provider alias="lb" addr="localhost:4000" >
+	<Stream		name="LoadBalancer[avg]" />
+	<Stream		name="LoadBalancer[max]" />
+</Provider>
+
+
+<Provider alias="shard" addr="localhost:4001" >
+	<Stream		name="NetEndpoint[max]" />
+	<Stream		name="NetEndpoint[avg]" />
+	<Stream		name="db[avg]" />
+	<Stream		name="db[max]" />
+	<Stream		name="db_mem[avg]" />
+	<Stream		name="db_mem[max]" />
+	<Stream		name="CloudTaskManager[avg]" />
+	<Stream		name="CloudTaskManager[max]" />
+	<Stream		name="SessionManager[avg]" />
+	<Stream		name="SessionManager[max]" />
+</Provider>
+
+
+<Provider alias="mm" addr="localhost:4002" >
+	<Stream		name="Persistence[avg]" />
+	<Stream		name="Persistence[max]" />
+	<Stream		name="MM[avg]" />
+	<Stream		name="MM[max]" />
+</Provider>
+
+
+<Provider alias="main_hub" addr="localhost:4003" >
+	<Stream		name="NetEndpoint[max]" />
+	<Stream		name="NetEndpoint[avg]" />
+	<Stream		name="Machine[avg]" />
+	<Stream		name="Machine[max]" />
+	<Stream		name="Hub[avg]" />
+	<Stream		name="Hub[max]" />
+</Provider>
+
+
+<Provider alias="auth" addr="localhost:4004" >
+	<Stream		name="Auth[avg]" />
+</Provider>
+
+
+<Provider alias="chat" addr="localhost:4005" >
+	<Stream		name="NetEndpoint[max]" />
+	<Stream		name="NetEndpoint[avg]" />
+	<Stream		name="Chat[avg]" />
+</Provider>
+
+
+<Provider alias="quest" addr="localhost:4006" >
+	<Stream		name="NetEndpoint[avg]" />
+	<Stream		name="NetEndpoint[max]" />
+	<Stream		name="db[avg]" />
+	<Stream		name="db[max]" />
+	<Stream		name="Quest[avg]" />
+	<Stream		name="Quest[max]" />
+</Provider>
+
+
+<Provider alias="achiev" addr="localhost:4007" >
+	<Stream		name="NetEndpoint[avg]" />
+	<Stream		name="NetEndpoint[max]" />
+	<Stream		name="db[avg]" />
+	<Stream		name="db[max]" />
+	<Stream		name="Achievement[avg]" />
+	<Stream		name="Achievement[max]" />
+</Provider>
+
+<Provider alias="zone" addr="localhost:4008" >
+	<Stream		name="NetEndpoint[avg]" />
+	<Stream		name="NetEndpoint[max]" />
+	<Stream		name="Zone[avg]" />
+	<Stream		name="Zone[max]" />
+</Provider>
